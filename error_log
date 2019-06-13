@@ -1,0 +1,13 @@
+[18-Apr-2019 01:57:23 UTC] PHP Warning:  strpos(): Empty needle in /home1/prismav6/public_html/wp-includes/functions.php on line 4360
+[18-Apr-2019 01:57:23 UTC] PHP Warning:  strpos(): Empty needle in /home1/prismav6/public_html/wp-includes/functions.php on line 4360
+[18-Apr-2019 01:57:24 UTC] mojo_plugin_activated
+[18-Apr-2019 01:58:59 UTC] PHP Warning:  require(/home1/prismav6/public_html/wp-content/themes/futurio/inc/color-filters.php): failed to open stream: No such file or directory in /home1/prismav6/public_html/wp-content/themes/twentynineteen/functions.php on line 302
+[18-Apr-2019 01:58:59 UTC] PHP Warning:  require(/home1/prismav6/public_html/wp-content/themes/futurio/inc/color-filters.php): failed to open stream: No such file or directory in /home1/prismav6/public_html/wp-content/themes/twentynineteen/functions.php on line 302
+[18-Apr-2019 01:58:59 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prismav6/public_html/wp-content/themes/futurio/inc/color-filters.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/prismav6/public_html/wp-content/themes/twentynineteen/functions.php on line 302
+[18-Apr-2019 01:59:00 UTC] PHP Warning:  require(/home1/prismav6/public_html/wp-content/themes/futurio/inc/color-filters.php): failed to open stream: No such file or directory in /home1/prismav6/public_html/wp-content/themes/twentynineteen/functions.php on line 302
+[18-Apr-2019 01:59:00 UTC] PHP Warning:  require(/home1/prismav6/public_html/wp-content/themes/futurio/inc/color-filters.php): failed to open stream: No such file or directory in /home1/prismav6/public_html/wp-content/themes/twentynineteen/functions.php on line 302
+[18-Apr-2019 01:59:00 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prismav6/public_html/wp-content/themes/futurio/inc/color-filters.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/prismav6/public_html/wp-content/themes/twentynineteen/functions.php on line 302
+[18-Apr-2019 02:03:49 UTC] PHP Notice:  Constant WP_CRON_LOCK_TIMEOUT already defined in /home1/prismav6/public_html/wp-config.php on line 91
+[18-Apr-2019 02:03:49 UTC] PHP Notice:  Constant AUTOSAVE_INTERVAL already defined in /home1/prismav6/public_html/wp-config.php on line 92
+[18-Apr-2019 02:03:49 UTC] PHP Notice:  Constant WP_POST_REVISIONS already defined in /home1/prismav6/public_html/wp-config.php on line 93
+[18-Apr-2019 02:03:49 UTC] PHP Notice:  Constant EMPTY_TRASH_DAYS already defined in /home1/prismav6/public_html/wp-config.php on line 94

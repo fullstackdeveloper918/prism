@@ -1,0 +1,1049 @@
+# <!=Copyright (C) 2019 Opal Team
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Auros 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/auros\n"
+"POT-Creation-Date: 2019-04-18 01:44:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: WpOpal Team <help@wpopal.com>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: 404.php:19
+msgid "Whoops!"
+msgstr ""
+
+#: 404.php:20
+msgid "Your style does not exis!"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"Any question? please contact us, we're usually pretty quick. Cowboys to "
+"urbanites, professional athletes to ski bums, business suits to fishing "
+"guides."
+msgstr ""
+
+#: 404.php:23
+msgid "or "
+msgstr ""
+
+#: 404.php:23
+msgid "Go back"
+msgstr ""
+
+#: archive.php:19 home.php:11 index.php:23 search.php:25
+msgid "Prev"
+msgstr ""
+
+#: archive.php:20 home.php:12 index.php:24 search.php:26
+msgid "Next"
+msgstr ""
+
+#: archive.php:21 home.php:13 index.php:25 search.php:27
+#: template-parts/common/page-title.php:270
+msgid "Page"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: comments.php:34
+msgid "Previous page"
+msgstr ""
+
+#: comments.php:35
+msgid "Next page"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "Comment"
+msgstr ""
+
+#: inc/admin/class-admin.php:44 inc/admin/screens/welcome.php:41
+#: inc/admin/tgm/class-tgm-plugin-activation.php:337
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/class-admin.php:96 inc/admin/class-admin.php:317
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-admin.php:100
+msgid "API Key"
+msgstr ""
+
+#: inc/admin/class-admin.php:109
+msgid "Google API key"
+msgstr ""
+
+#: inc/admin/class-admin.php:175
+msgid "License"
+msgstr ""
+
+#: inc/admin/class-admin.php:181
+msgid "User Name Envato"
+msgstr ""
+
+#: inc/admin/class-admin.php:188
+msgid "Purchase Code"
+msgstr ""
+
+#: inc/admin/class-admin.php:200
+msgid "Manage Plugins Below"
+msgstr ""
+
+#: inc/admin/class-admin.php:202
+msgid "Go Manage Plugins"
+msgstr ""
+
+#: inc/admin/class-admin.php:261
+msgid "Welcome"
+msgstr ""
+
+#: inc/admin/class-admin.php:270
+msgid "Import Demos"
+msgstr ""
+
+#: inc/admin/class-admin.php:299 template-parts/header/account.php:41
+#: template-parts/header/account.php:54 template-parts/header/account.php:70
+msgid "Dashboard"
+msgstr ""
+
+#: inc/admin/class-admin.php:304
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/class-admin.php:311
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/admin/class-admin.php:322
+msgid "Tutorials"
+msgstr ""
+
+#: inc/admin/class-admin.php:358
+msgid "Welcome to"
+msgstr ""
+
+#: inc/admin/class-admin.php:362
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2714
+msgid "Version"
+msgstr ""
+
+#: inc/admin/screens/changelog.php:15
+msgid "Theme Update Log"
+msgstr ""
+
+#: inc/admin/screens/tutorials.php:17
+msgid "Video Tutorials"
+msgstr ""
+
+#: inc/admin/screens/tutorials.php:120
+msgid "View All Tutorial Video"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:37
+msgid "Import Demo"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:39
+msgid ""
+"Please check and make sure that all required plugins are set up on your "
+"website"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:43
+msgid "Clone a demo site in few clicks"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:45
+msgid "Run Importer"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:57
+msgid "System Status"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:133
+msgid "Support Cover"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:134
+msgid "We’ll give you a reply within 24 hours except during weekends."
+msgstr ""
+
+#: inc/admin/screens/welcome.php:137
+msgid "Submit Ticket"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:147
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:148
+msgid ""
+"Read all documentation for our themes. Any questions or training needed for "
+"Wordpress themes can be  found here."
+msgstr ""
+
+#: inc/admin/screens/welcome.php:150
+msgid "Explore Now"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:160
+msgid "Our Information"
+msgstr ""
+
+#: inc/admin/screens/welcome.php:161
+msgid "Checkout our site and social for more information."
+msgstr ""
+
+#: inc/admin/screens/welcome.php:163
+msgid "www.wpopal.com"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:336
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:341
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:342
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:379
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:384
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:389
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:394
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:395
+#: inc/admin/tgm/class-tgm-plugin-activation.php:940
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2694
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3755
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:396
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3329
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:397
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3116
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:401
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:403
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:405
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:406
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:624
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:625
+msgid "Update Required"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:769
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:770
+msgid ""
+"To improve the performance of any Woocomerce Wordpress theme, cannot miss "
+"out a range of powerful plugins"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1048
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1048
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1054
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1054
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2129
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2427
+msgid "Required"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2430
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2447
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2450
+msgid "External Source"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2453
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2471
+msgid "Not Installed"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2475
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2477
+msgid "Active"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2483
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2486
+msgid "Requires Update"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2489
+msgid "Update recommended"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2549
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2553
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2557
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2651
+msgid "Installed version:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2659
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2671
+msgid "Available version:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2694
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2708
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2709
+msgid "Source"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2710
+msgid "Type"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2715
+msgid "Status"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2848
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2881
+msgid "Install"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2887
+msgid "Update"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2890
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2921
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2923
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2964
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2966
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3072
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3098
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3328
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3685
+#. translators: 1: plugin name.
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3690
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3693
+#. translators: 1: plugin name.
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/back-compat.php:28 inc/back-compat.php:40 inc/back-compat.php:56
+msgid ""
+"Home Finder requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/class-main.php:111
+msgid "Expand child menu"
+msgstr ""
+
+#: inc/class-main.php:112
+msgid "Collapse child menu"
+msgstr ""
+
+#: inc/class-main.php:205
+msgid "Footer 1"
+msgstr ""
+
+#: inc/class-main.php:207 inc/class-main.php:217 inc/class-main.php:227
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/class-main.php:215
+msgid "Footer 2"
+msgstr ""
+
+#: inc/class-main.php:225
+msgid "Footer 3"
+msgstr ""
+
+#: inc/class-main.php:253
+#. translators: %s: Name of current post
+msgid "Read More <span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/class-main.php:292 template-parts/header/navigation.php:32
+msgid "Top Menu"
+msgstr ""
+
+#: inc/class-main.php:377 inc/class-main.php:378
+#: inc/vendors/woocommerce/class-woocommerce.php:754
+#: inc/vendors/woocommerce/class-woocommerce.php:755
+msgid "Name"
+msgstr ""
+
+#: inc/class-main.php:379 inc/class-main.php:380
+#: inc/vendors/woocommerce/class-woocommerce.php:756
+#: inc/vendors/woocommerce/class-woocommerce.php:757
+msgid "Email"
+msgstr ""
+
+#: inc/class-main.php:381 inc/class-main.php:382
+msgid "Website"
+msgstr ""
+
+#: inc/class-sidebar.php:35
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/class-sidebar.php:37 inc/vendors/woocommerce/class-woocommerce.php:299
+#: inc/vendors/woocommerce/class-woocommerce.php:308
+#: inc/vendors/woocommerce/class-woocommerce.php:317
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: inc/template-functions.php:385
+msgid "Share on:"
+msgstr ""
+
+#: inc/template-functions.php:484
+msgid "Related posts"
+msgstr ""
+
+#: inc/template-tags.php:13
+#. translators: %s: post author
+msgid "by"
+msgstr ""
+
+#: inc/template-tags.php:94
+#. translators: %s: Name of current post
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:136
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:362
+msgid "My Account"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:137
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:334
+#: template-parts/common/page-title.php:274
+#: template-parts/common/page-title.php:375
+msgid "Search"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:139
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:97
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:348
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:252
+msgid "Add to cart"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:269
+msgid "has been added to your cart"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:297
+msgid "WooCommerce Shop"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:306
+msgid "WooCommerce Detail"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:315
+msgid "WooCommerce Shop Filters"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:331
+msgid "CLOSE"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:344
+msgid "Filter"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:360
+#: inc/vendors/woocommerce/class-woocommerce.php:394
+msgid "Sku"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:365
+#: inc/vendors/woocommerce/class-woocommerce.php:399
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:368
+#: inc/vendors/woocommerce/class-woocommerce.php:402
+msgid "Id"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:415
+msgid "Product Metabox"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:422
+msgid "Banner"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:438
+msgid "Product Video Config"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:445
+msgid "Product video"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:446
+msgid "Supports video from youtube and vimeo."
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:452
+msgid "Video Thumbnail"
+msgstr ""
+
+#: inc/vendors/woocommerce/class-woocommerce.php:759
+msgid "Your review"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:147
+msgid "item"
+msgid_plural "items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:424
+msgid "Your order"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:574
+msgid "Out Of Stock"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:596
+msgid ""
+"Creating an account is quick and easy, and will allow you to move through "
+"our checkout quicker."
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:682
+msgid "days"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:683
+msgid "hours"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:684
+msgid "mins"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:685
+msgid "secs"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:686
+msgid "Expired"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:901
+msgid "HURRY! ONLY"
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:902
+msgid "LEFT IN STOCK."
+msgstr ""
+
+#: inc/vendors/woocommerce/woocommerce-template-functions.php:943
+msgid "Your Recently Viewed"
+msgstr ""
+
+#: search.php:4
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:32
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:26
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:35
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/common/author-bio.php:19
+msgid "About the author"
+msgstr ""
+
+#: template-parts/common/page-title.php:67
+msgid "Home"
+msgstr ""
+
+#: template-parts/common/page-title.php:68
+msgid "Blog"
+msgstr ""
+
+#: template-parts/common/page-title.php:69
+msgid "Shop"
+msgstr ""
+
+#: template-parts/common/page-title.php:221
+#: template-parts/common/page-title.php:357
+msgid "Day"
+msgstr ""
+
+#: template-parts/common/page-title.php:225
+#: template-parts/common/page-title.php:229
+#: template-parts/common/page-title.php:233
+#: template-parts/common/page-title.php:241
+#: template-parts/common/page-title.php:245
+msgid " Archives"
+msgstr ""
+
+#: template-parts/common/page-title.php:237
+#: template-parts/common/page-title.php:360
+msgid "Month"
+msgstr ""
+
+#: template-parts/common/page-title.php:249
+#: template-parts/common/page-title.php:363
+msgid "Year"
+msgstr ""
+
+#: template-parts/common/page-title.php:251
+msgid "Archives"
+msgstr ""
+
+#: template-parts/common/page-title.php:261
+#: template-parts/common/page-title.php:368
+msgid "Author"
+msgstr ""
+
+#: template-parts/common/page-title.php:263
+msgid "Author: "
+msgstr ""
+
+#: template-parts/common/page-title.php:278
+msgid "Keyword: "
+msgstr ""
+
+#: template-parts/common/page-title.php:281
+#: template-parts/common/page-title.php:378
+msgid "Error 404"
+msgstr ""
+
+#: template-parts/header/account.php:10 template-parts/header/account.php:32
+#: woocommerce/myaccount/form-login.php:37
+msgid "Login"
+msgstr ""
+
+#: template-parts/header/account.php:18
+msgid "Sign in"
+msgstr ""
+
+#: template-parts/header/account.php:20 woocommerce/myaccount/form-login.php:84
+#: woocommerce/myaccount/form-login.php:121
+msgid "Register"
+msgstr ""
+
+#: template-parts/header/account.php:20
+msgid "Create an Account"
+msgstr ""
+
+#: template-parts/header/account.php:25
+msgid "Username or email"
+msgstr ""
+
+#: template-parts/header/account.php:26 woocommerce/myaccount/form-login.php:89
+msgid "Username"
+msgstr ""
+
+#: template-parts/header/account.php:29 template-parts/header/account.php:30
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:108
+msgid "Password"
+msgstr ""
+
+#: template-parts/header/account.php:37 woocommerce/myaccount/form-login.php:67
+msgid "Lost your password?"
+msgstr ""
+
+#: template-parts/header/account.php:57
+msgid "Orders"
+msgstr ""
+
+#: template-parts/header/account.php:60
+msgid "Downloads"
+msgstr ""
+
+#: template-parts/header/account.php:63
+msgid "Edit Address"
+msgstr ""
+
+#: template-parts/header/account.php:66
+msgid "Account Details"
+msgstr ""
+
+#: template-parts/header/account.php:74
+msgid "Log out"
+msgstr ""
+
+#: template-parts/header/account.php:74
+msgid "Log Out"
+msgstr ""
+
+#: template-parts/header/navigation.php:35
+msgid "Menu"
+msgstr ""
+
+#: template-parts/page/content-front-page.php:40
+#. translators: %s: Name of current post
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/page/content-page.php:6
+#: template-parts/post/content-audio.php:60
+#: template-parts/post/content-gallery.php:49
+#: template-parts/post/content-image.php:45
+#: template-parts/post/content-video.php:56 template-parts/post/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-audio.php:55
+#: template-parts/post/content-gallery.php:44
+#: template-parts/post/content-image.php:39
+#: template-parts/post/content-video.php:51 template-parts/post/content.php:38
+#. translators: %s: Name of current post
+msgid "Read more"
+msgstr ""
+
+#: template-parts/post/content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/post/content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/posts-grid/item-post-style-1.php:17
+#: template-parts/posts-grid/item-post-style-3.php:13
+msgid "+ Read more"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:76
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:120
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "Email address"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Auros"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo2.wpopal.com/auros"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Auros is a modern & minimal Furniture WordPress Shopping Theme.  Built on "
+"the powerful WooCommerce, Auros fits for a range of e-commerce website like "
+"Furniture shop, Furniture marketplace, Wood shop, Interior shop, "
+"Architecture shop, and much more. Featuring with 19+ pre-built shopping "
+"homepages, Elementor - the best drag n drop Page Builder"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Opal Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wpopal.com/"
+msgstr ""
+
+#: comments.php:48
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1242
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3112
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2498
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2545
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2643
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

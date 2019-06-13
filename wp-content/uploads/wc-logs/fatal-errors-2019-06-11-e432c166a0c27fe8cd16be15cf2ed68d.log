@@ -1,0 +1,332 @@
+2019-06-11T05:20:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xammp\htdocs\prismatic\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-06-11T05:45:03+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:33:21+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:34:28+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:41:20+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:41:28+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:41:44+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:41:52+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:42:21+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:42:25+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:43:00+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:43:16+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:44:01+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:44:45+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:44:52+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:45:27+00:00 CRITICAL syntax error, unexpected ')' in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\shop-page.php on line 17
+
+2019-06-11T09:46:10+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:46:30+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:46:50+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:47:08+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:47:15+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:48:18+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:48:57+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:49:02+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:49:55+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:50:27+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:50:46+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:58:31+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T09:59:01+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T10:15:43+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T10:19:35+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T10:20:32+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T10:31:54+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T11:11:07+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T11:13:14+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T11:21:23+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T11:26:58+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T11:27:30+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T11:28:05+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T11:40:52+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T13:49:42+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('', 'site-logo', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(61): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-data.php(100): Elementor\Core\DynamicTags\Manager->parse_tags_text('[elementor-tag ...', Array, Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\base\controls-stack.php(1167): Elementor\Base_Data_Control->parse_tags('[elementor-tag ...', Array)
+#5 D:\xammp\htdoc in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T14:05:30+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('', 'site-logo', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(61): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-data.php(100): Elementor\Core\DynamicTags\Manager->parse_tags_text('[elementor-tag ...', Array, Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\base\controls-stack.php(1167): Elementor\Base_Data_Control->parse_tags('[elementor-tag ...', Array)
+#5 D:\xammp\htdoc in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T14:13:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xammp\htdocs\prismatic\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-06-11T14:20:21+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T14:20:31+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-11T14:26:06+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 32768 bytes) in D:\xammp\htdocs\prismatic\wp-content\plugins\jet-elements\includes\addons\jet-elements-portfolio.php on line 1172
+
+2019-06-11T16:38:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xammp\htdocs\prismatic\wp-content\plugins\shortpixel-image-optimiser\class\wp-short-pixel.php on line 3
+

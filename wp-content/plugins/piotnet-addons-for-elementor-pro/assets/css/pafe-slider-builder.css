@@ -1,0 +1,21 @@
+[data-animation-in] {
+    opacity: 0;
+}
+
+.pafe-slider-builder__item {
+	overflow: hidden;
+}
+
+.elementor-slick-slider.pafe-slider-builder ul.slick-dots {
+	bottom: 5px;
+}
+
+.elementor-slick-slider.pafe-slider-builder .slick-next {
+    right: 25px;
+    z-index: 1;
+}
+
+.elementor-slick-slider.pafe-slider-builder .slick-prev {
+    left: 25px;
+    z-index: 1;
+}

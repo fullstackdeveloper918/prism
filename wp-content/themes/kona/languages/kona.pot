@@ -1,0 +1,2874 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "\"Hot\" Badge Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "\"Hot\" Products"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/cart/cart-totals.php:66
+msgid "(estimated for %s)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "1024px"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "2"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:897
+msgid "AND"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Above grid (classic)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Activate the sidebar for your single posts."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Add Font"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Add a 32px x 32px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Add a custom logo for the Wordpress login screen."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Add a review"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Add to cart"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-shipping.php:63
+msgid "Additional information"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Ajax Open Minicart"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+#: kona/theme-admin/functions/theme-general-features.php:1
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:137
+msgid "Anti-spam"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-coupon.php:42
+#: kona/woocommerce/cart/cart.php:156
+msgid "Apply coupon"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Arrows"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "At what size do you want the header/menu to switch to mobile layout"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:871
+msgid "Attribute"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Auto"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Auto: The logo will display in it original size."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/review-order.php:47
+#: kona/woocommerce/cart/cart.php:129
+#: kona/woocommerce/cart/mini-cart.php:118
+msgid "Available on backorder"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Average"
+msgstr ""
+
+#. Text in echo
+#: kona/404.php:16
+msgid "Back to Homepage"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Badges"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Bar Background Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Bar Text Color"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Behance"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Big Spacing"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/order-details-customer.php:32
+msgid "Billing address"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/form-tracking.php:28
+msgid "Billing email"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Blog Grid"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Blog Post Title for archive page"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Blog Post Title for single view"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Blog Posts Comments"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:1
+msgid "Blog Sidebar"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Body"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Body Font"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Branding"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Branding Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:890
+msgid "Button"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Button Font"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Button appearance"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Buttons"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "By default the share buttons are placed in the header area. To place the sharing anywhere else in your content just use this shortcode: "
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Cart"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Cart Icon"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-billing.php:33
+#: kona/woocommerce/cart/mini-cart.php:165
+msgid "Checkout"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Choose a different height (smaller) for the responsive view of your site."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:461
+msgid "Choose hover image (optional)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Choose your branding color.  Leave empty to stick with black/white."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Choose your pagination option."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Classic"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product/add-to-cart/variable.php:40
+msgid "Clear"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Codepen"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:889
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Columns for Mobile"
+msgstr ""
+
+#. Text in echo
+#: kona/comments.php:23
+msgid "Comment pagination"
+msgstr ""
+
+#. Text in echo
+#: kona/comments.php:14
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: kona/comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:57
+msgid "Confirm new password"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Contact Form 7"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Cookie Notice"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-coupon.php:40
+#: kona/woocommerce/checkout/form-coupon.php:41
+#: kona/woocommerce/cart/cart.php:154
+#: kona/woocommerce/cart/cart.php:155
+msgid "Coupon code"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:38
+#: kona/woocommerce/myaccount/form-login.php:91
+msgid "Create account"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-billing.php:61
+msgid "Create an account?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Currency Switcher"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:49
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Custom"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Custom Button"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Custom Buttons"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Custom Login Logo"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Custom Text"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Custom Text/Html"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Custom URL name"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Dark"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Dark Logo"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/thankyou.php:55
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist.php:38
+msgid "Date Added"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Default (1200px)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Default Pagination"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Delicious"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Demo Choose"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Demo Import"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Desktop logo height"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Deviantart"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Disable/Enable Comments for Portfolio items"
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Display Author Name"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:886
+msgid "Display Type"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:35
+msgid "Display name"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want enable the sidebar for the blog page?  If yes, add your widgets to the sidebar."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want enable the sidebar for the shop archive page? If yes, add your widgets to the sidebar."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want the tiles to be spaced?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to activate a smooth animation on pageload?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to activate the pagination between posts"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to activate the zoom feature for the images"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to add the link \"View Cart\""
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to add the main product image (featured image) to the gallery.  By default the main product image is not shown on the gallery."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to display a title for your mega menu columns"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to display the footer?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to enable the quick view option for the grid items?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show all or just 1 or 2? It's recommended to show just 1."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the Up-Sells and Cross-Sells?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the breadcrumb on the gird (archive) pages?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the breadcrumb on the single product page?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the date in the page title"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the related categories in the page title"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the related tags at the bottom of the post"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the results count on the top of the grid? "
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Do you want to show the variations on the shop page?  Make sure to have the variation swatches plugin ainstalled and active."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Dribbble"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Dropbox"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:171
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+#: kona/theme-admin/theme-admin.php:186
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:39
+#: kona/woocommerce/myaccount/form-login.php:58
+#: kona/woocommerce/myaccount/form-login.php:123
+#: kona/woocommerce/global/form-login.php:36
+msgid "Email address"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/form-tracking.php:28
+msgid "Email you used during checkout."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable / Disable the review option"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:903
+msgid "Enable multiple filter"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable or disable the read more button on blog entries."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the \"Hot\" badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the fixed add to cart feature."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the header bar?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the header search icon?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the new badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the pagination between the portfolio posts."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the sale badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the share feature."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the slide in effect."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable the sorting option"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable variations"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enable zoom"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Enter a custom height for your logo in desktop mode"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/cart/cart-shipping.php:50
+msgid "Enter your full address to see shipping costs."
+msgstr ""
+
+#. Text in function
+#: kona/header.php:191
+msgid "Enter your search & hit enter"
+msgstr ""
+
+#. Text in echo
+#: kona/searchform.php:4
+msgid "Enter your search ..."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Equal"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Equal will crop the images to the same dimensions"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Favicon"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:20
+msgid "Filter"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:20
+msgid "Filter (1st column)"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:20
+msgid "Filter (2nd column)"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:20
+msgid "Filter (3rd column)"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:20
+msgid "Filter (4th column)"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:20
+msgid "Filter (5th column)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Filter Option"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Fixed Add to Cart"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Font manager"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+#: kona/theme-admin/theme-admin.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:1
+msgid "Footer (2nd column)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:1
+msgid "Footer (3rd column)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:1
+msgid "Footer (4th column)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Footer Columns"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Footer Settings"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Footer bottom"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Footer copyright"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Form"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/form-tracking.php:27
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Gallery type"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "General Headings"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Github"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Good"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Google +"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Grid Options"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Grid Width"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "H1"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "H2"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "H3"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "H4"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "H5"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "H6"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/form-coupon.php:31
+msgid "Have a coupon?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Header & Menu"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Header Appearence"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Header Settings"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Header Top Bar"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Header behaviour"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Hide"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:1006
+#: kona/woocommerce/single-product/sale-flash.php:50
+msgid "Hot"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Hover Background Color"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:461
+msgid "Hover image"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Hover text Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "How many columns for the related posts? It's recommended to have the same amount as in the Grid options above."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "How many columns of items do you want to show on mobile devices?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "How many columns of items do you want to show per row?  Depending your column and grid width choice you might adapt the Product Image settings in Appearance > Customize > Woocommerce > Product Images"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "How many items per page? Enter \"-1\" to show all."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "How many variations"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Huge Spacing"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "If you plan to add typekit fonts, please enter the ID / Token code here."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:891
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Image Style"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/ti-wishlist.php:144
+msgid "In stock"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Infinity Load"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Input"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Item / Product Options"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Item / Product Options (for grid)"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Kona Core"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Label"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Language Switcher"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Lastfm"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Leave empty if you don't want any background color."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Left Horizontal"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Left Vertical"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Left side"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Light"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Light Logo"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Link to main cart"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:888
+msgid "List"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/loop/pagination.php:45
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Load More"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:33
+#: kona/woocommerce/myaccount/form-login.php:77
+#: kona/woocommerce/myaccount/form-login.php:95
+#: kona/woocommerce/global/form-login.php:57
+#: kona/header.php:76
+#: kona/header.php:111
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Login / My Account"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Login / My Account Appearance"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Logo & Menu left"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Logo Height"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Logo Left & Menu center"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Logo center & Menu left"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Logo left & Menu right"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/cart/cart-empty.php:28
+#: kona/woocommerce/cart/mini-cart.php:186
+msgid "Looks like you haven't made your choice yet"
+msgstr ""
+
+#. Text in function
+#: kona/includes/page-title.php:1
+msgid "Lost Password"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:72
+#: kona/woocommerce/global/form-login.php:52
+msgid "Lost password"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Main Product Image to gallery"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Make sure 'Allow comments' are also checked in the post discussion option."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Make sure to uplaod your light logo in the same size than the dark one."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Masonry"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Medium (1140px)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Mega Menu title"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Menu Settings"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Middle"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Mini (420px)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Minicart"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Misc Elements"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Misc Headings"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Misc Typography"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Mixcloud"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Mobile Breakpoint"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Modern"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/thankyou.php:37
+#: kona/header.php:76
+#: kona/header.php:113
+msgid "My Account"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/order/order-details-customer.php:35
+#: kona/woocommerce/order/order-details-customer.php:53
+#: kona/woocommerce/single-product/meta.php:34
+msgid "N/A"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+#: kona/theme-admin/theme-admin.php:186
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Navigation"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:1006
+#: kona/woocommerce/single-product/sale-flash.php:50
+msgid "New"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "New Badge Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "New Badge Days"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:53
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#. Text in function
+#: kona/comments.php:27
+msgid "Newer Comments"
+msgstr ""
+
+#. Text in function
+#: kona/single-portfolio.php:42
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/loop/pagination.php:35
+#: kona/index.php:71
+#: kona/search.php:42
+msgid "Next Page"
+msgstr ""
+
+#. Text in function
+#: kona/single.php:65
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "No Sidebar"
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:879
+msgid "No attribute found!"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/loop/pagination.php:58
+msgid "No more items to show"
+msgstr ""
+
+#. Text in function
+#: kona/index.php:51
+msgid "No posts has been found!"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/loop/no-products-found.php:28
+msgid "No products were found matching your selection."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "No title"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Normal"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Normal (fullwidth)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Normal Spacing"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Not that bad"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Nothing"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:898
+msgid "OR"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Off"
+msgstr ""
+
+#. Text in function
+#: kona/comments.php:26
+msgid "Older Comments"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "On"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product-reviews.php:111
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:915
+msgid "Only show children of the current attribute"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist-empty.php:19
+#: kona/woocommerce/loop/no-products-found.php:27
+#: kona/404.php:10
+#: kona/search.php:26
+#: kona/header.php:200
+msgid "Ooops"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/form-tracking.php:27
+msgid "Order ID"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/order-details.php:34
+msgid "Order details"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/thankyou.php:30
+msgid "Order failed"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/thankyou.php:50
+msgid "Order number"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/thankyou.php:43
+#: kona/woocommerce/checkout/thankyou.php:80
+msgid "Order received"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/content-product.php:141
+msgid "Out of stock"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Page not found"
+msgstr ""
+
+#. Text in function
+#: kona/single.php:49
+#: kona/page.php:25
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Pagination / Load More"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:62
+#: kona/woocommerce/myaccount/form-login.php:130
+#: kona/woocommerce/global/form-login.php:40
+msgid "Password"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:46
+msgid "Password change"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/thankyou.php:35
+msgid "Pay"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/payment.php:26
+msgid "Payment"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/thankyou.php:66
+msgid "Payment method"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Perfect"
+msgstr ""
+
+#. Text in echo
+#: kona/theme-admin/theme-admin.php:171
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/myaccount/form-lost-password.php:27
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/payment.php:42
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+#: kona/theme-admin/theme-admin.php:186
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Portfolio Category"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Portfolio Comments"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Portfolio Single Item"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Portfolio Title"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Posts by"
+msgstr ""
+
+#. Text in function
+#: kona/single-portfolio.php:42
+msgid "Prev"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/loop/pagination.php:35
+#: kona/index.php:71
+#: kona/search.php:42
+msgid "Previous Page"
+msgstr ""
+
+#. Text in function
+#: kona/single.php:65
+msgid "Previous Post"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/cart/cart.php:36
+#: kona/woocommerce/cart/cart.php:84
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Price Font Size"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/review-order.php:26
+#: kona/woocommerce/ti-wishlist.php:33
+#: kona/woocommerce/cart/cart.php:35
+#: kona/woocommerce/cart/cart.php:54
+#: kona/woocommerce/cart/mini-cart.php:49
+msgid "Product"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Product Appearance"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Product Layout"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist.php:32
+msgid "Product Name"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Product Size Guide "
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Product Title for archive page"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Product Title for single view"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Products per Page"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/cart/cart.php:37
+#: kona/woocommerce/cart/cart.php:90
+#: kona/woocommerce/cart/mini-cart.php:79
+msgid "Quantity"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:895
+msgid "Query Type"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Quick View"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Rate&hellip;"
+msgstr ""
+
+#. Text in function
+#: kona/includes/page-title.php:1
+#: kona/theme-admin/theme-admin.php:186
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Read More Button"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:143
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product/related.php:70
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Related Products"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:70
+#: kona/woocommerce/global/form-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist.php:84
+#: kona/woocommerce/cart/cart.php:129
+#: kona/woocommerce/cart/mini-cart.php:118
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:461
+msgid "Remove hover image"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/cart/cart.php:129
+#: kona/woocommerce/cart/mini-cart.php:118
+msgid "Remove this item"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset password"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Responsive logo height"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Result Count"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist-empty.php:31
+msgid "Return To Shop"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/cart/cart-empty.php:31
+msgid "Return to shop"
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product-reviews.php:33
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Reviews"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Revolution Slider"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Right side"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Root Menu"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Rss"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product/meta.php:34
+msgid "SKU:"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product/sale-flash.php:45
+#: kona/woocommerce/loop/sale-flash.php:28
+msgid "Sale"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sale Appearance"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sale Badge Color"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sandbox"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:67
+msgid "Save changes"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Search for"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/product-searchform.php:25
+#: kona/searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Select Poducts where the \"Hot\" badge should be displayed"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Select a column size for the blog grid."
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist.php:26
+msgid "Select all for bulk action"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/ti-wishlist.php:144
+msgid "Select for bulk action"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Select multiple by holding/pressing 'cmd' for Mac or 'ctrl' for Windows"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/ti-wishlist.php:152
+msgid "Select options"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Select your grid width."
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Set up your default appearance options for the product pages. These options can be changed for your individual products."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product/share.php:29
+#: kona/includes/page-title.php:1
+#: kona/single-portfolio.php:36
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Share"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Share (quick view)"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/cart/cart-totals.php:53
+#: kona/woocommerce/cart/cart-totals.php:54
+msgid "Shipping"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/order-details-customer.php:51
+msgid "Shipping address"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/archive-product.php:1
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Shop"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Shop Settings"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:20
+msgid "Shop Sidebar"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show \"Hot\" Badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show / Hide the date for your blog grid items."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Back To Top"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Categories meta"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Category"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Date"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Footer"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Intro (excerpt)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Item Price"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Meta (quick view)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show New Badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Rating Stars"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Rating Stars below title"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show SKU meta"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Sale Badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Tags"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show Tags meta"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:907
+msgid "Show count"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:911
+msgid "Show hierarchy"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show or Hide the category for your blog grid items."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show or Hide the intro text for your blog grid items."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show the \"Add to cart\" button in the grid items."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show the 'Login / My Account' on the menu"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show the mini cart on the menu"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Show the related products on the bottom of the page?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sidebar for single post"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/payment.php:42
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Single Pagination"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Single Post View"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Single Product"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sku / Categories / Tags"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Skype"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Slide In (Unveil) Effect"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Small"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Small (780px)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Social Links"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Social Networks"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in echo
+#: kona/search.php:27
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/payment.php:42
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sorting Option"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Soundcloud"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Spacing"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Spotify"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Start Animation"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sticky"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist.php:41
+msgid "Stock Status"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Stumbleupon"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Sub Menu"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+#: kona/theme-admin/theme-admin.php:186
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/review-order.php:78
+#: kona/woocommerce/cart/cart-totals.php:31
+#: kona/woocommerce/cart/cart-totals.php:32
+msgid "Subtotal"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Tag"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Text Color"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/thankyou.php:45
+#: kona/woocommerce/checkout/thankyou.php:82
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "The Demo has been imported"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "The Footer works with widgets.  Go to the Appearance > Widgets and enter your wanted widgets for the footer area."
+msgstr ""
+
+#. Text in echo
+#: kona/comments.php:4
+msgid "The comments is password protected. Enter your password."
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "The new badge should be displayed for products not older than xx days"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "The zoom feature will only work for classic layout!"
+msgstr ""
+
+#. Text in echo
+#: kona/comments.php:34
+msgid "There are no comments yet."
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product-reviews.php:60
+msgid "There are no reviews yet."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/cart/cart-shipping.php:48
+msgid "There are no shipping methods available. Please ensure that your address has been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "These are the general item options (main shop page, archive pages, Related Products, Up-Sells, ...)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "These are the settings for the main blog page (archive).  The page you've choosed in the reading settings."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "This is the name/word which will appear in your url (if your permalink settings are set to post name)"
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "This will add a widget area on the top of the priduct grid to add your filter widgets"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "This will automatically open the minicart after a product has been added"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-edit-account.php:36
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Thumbnails"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Title Font Size"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/woo-config.php:969
+#: kona/woocommerce/woo-config.php:992
+msgid "Title Image"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Title Size"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Title Size (quick view)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Title position"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/woo-config.php:863
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/form-tracking.php:25
+msgid "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/review-order.php:27
+#: kona/woocommerce/checkout/review-order.php:125
+#: kona/woocommerce/checkout/thankyou.php:60
+#: kona/woocommerce/cart/cart.php:38
+#: kona/woocommerce/cart/cart.php:124
+#: kona/woocommerce/cart/cart-totals.php:90
+#: kona/woocommerce/cart/cart-totals.php:91
+#: kona/woocommerce/cart/mini-cart.php:113
+#: kona/woocommerce/cart/mini-cart.php:157
+msgid "Total"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/order/form-tracking.php:31
+msgid "Track"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/product-searchform.php:26
+msgid "Type your search here"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Typekit ID/Token"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Typography"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/thankyou.php:32
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist.php:35
+msgid "Unit Price"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Unit is PX."
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/cart/cart.php:166
+#: kona/woocommerce/cart/mini-cart.php:142
+msgid "Update cart"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#. Text in function
+#: kona/plugin-activation/class-tgm-plugin-activation.php:1
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Upload your logo with dark appearence."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Uppercase"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-login.php:116
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "VK"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Very Poor"
+msgstr ""
+
+#. Text in echo
+#: kona/header.php:151
+msgid "View Cart"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/content-product.php:206
+msgid "View Product"
+msgstr ""
+
+#. Text in function
+#: kona/includes/page-title.php:1
+msgid "View Project"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/functions/theme-general-features.php:1
+msgid "View all posts in %s"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Vimeo"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "WC Ajax Product Filter"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "WPML"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "WPML (language and/or currency switcher)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Want to display the price?"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/content-single-product.php:108
+msgid "Watch Video"
+msgstr ""
+
+#. Text in echo
+#: kona/404.php:11
+msgid "We can't seem find the page you're looking for."
+msgstr ""
+
+#. Text in echo
+#: kona/header.php:201
+msgid "We couldn't find any results for your search"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "WeChat"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "What should the 'add to cart' button to look like? If colored, it will take your main branding color (if set)"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "What to display in the left side?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "What to display in the middle?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "What to display in the right side?"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "When changing you probably need to resave your permalinks in Settings > Permalinks."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Where to you want to display the title 'Related Products'"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "Widget Importer Exporter"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Widget Titles"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist-empty.php:24
+msgid "Wishlist is currently empty."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "With Title"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "WooCommerce"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "WooCommerce Variation Swatches"
+msgstr ""
+
+#. Text in function
+#: kona/functions.php:1
+msgid "WooCommerce Wishlist"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Xing"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "You can use this shortcode in any of your pages, widgets or footer textarea to display the link to your social profiles.  Choose between \"normal\" & \"text style\"."
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product/up-sells.php:45
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "You may also like... (Up-Sells)"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/theme-admin.php:186
+msgid "Your Comment"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Your Email"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Your Rating"
+msgstr ""
+
+#. Text in function
+#: kona/woocommerce/single-product-reviews.php:70
+msgid "Your Review"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/ti-wishlist-empty.php:22
+msgid "Your Wishlist is currently empty."
+msgstr ""
+
+#. Text in function
+#: kona/header.php:147
+msgid "Your cart"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/cart/cart-empty.php:27
+#: kona/woocommerce/cart/mini-cart.php:185
+msgid "Your cart is empty"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/single-product/review-meta.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#. Text in echo
+#: kona/woocommerce/checkout/form-checkout.php:65
+msgid "Your order"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "Youtube"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/functions/theme-general-features.php:1
+msgid "by"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "choose a custom color for the \"Hot\" badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "choose a custom color for the new badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "choose a custom color for the sale badge"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "desc"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "jsfiddle"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "label"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "name"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "settings reset"
+msgstr ""
+
+#. Text in function
+#: kona/theme-admin/option-panel/option-panel.php:1
+msgid "settings saved"
+msgstr ""

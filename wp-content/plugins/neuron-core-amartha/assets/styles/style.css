@@ -1,0 +1,36 @@
+/*====================
+
+
+==================*/
+/*=========================
+=        Molecules        =
+=========================*/
+/*===================================
+=        Elementor Countdown        =
+====================================*/
+.neuron-countdown-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto; }
+  .neuron-countdown-wrapper .neuron-countdown-item {
+    -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    padding: 15px 0;
+    text-align: center;
+    background-color: #333;
+    color: #fff; }
+    .neuron-countdown-wrapper .neuron-countdown-item:not(:last-of-type) {
+      margin-right: calc(10px / 2); }
+    .neuron-countdown-wrapper .neuron-countdown-item .neuron-countdown-numbers {
+      font-size: 62px;
+      line-height: 1; }
+    .neuron-countdown-wrapper .neuron-countdown-item .neuron-countdown-label {
+      font-size: 18px; }

@@ -1,0 +1,256 @@
+header.elementor-element.elementor-element-706e1c78.elementor-section-stretched.elementor-section-content-middle {
+	    position: absolute !important;
+    width: 100% !important;
+    z-index: 9;
+}
+.elementor-element.elementor-element-c220fca.elementor-section-boxed .elementor-element.elementor-element-0021a25 .elementor-widget-container h1 {
+    color: #ffc8b5;
+    font-size: 64px;
+    font-family: "niveau-grotesk", sans-serif;
+    font-weight: bold;
+    line-height: 0.9em;
+}
+section.elementor-element.elementor-element-16e6056 .elementor-widget-container h2 {
+    color: #ffffff;
+    font-family: "niveau-grotesk", Sans-serif;
+    font-size: 33px;
+    line-height: 1.2em;
+    display: block;
+    text-transform: none;
+}
+section.elementor-element.elementor-element-c220fca .elementor-widget-container{
+    margin: 0 !important;
+}
+section.elementor-element.elementor-element-8cc8705 {
+    margin: 110px 0 0 0;
+}
+.elementor-shape.elementor-shape-bottom svg path.elementor-shape-fill{
+	fill: #ffc8b5;
+}
+section.elementor-element.elementor-element-7d8d999 form.cart {
+    display: flex;
+    display: -webkit-flex;
+}
+section.elementor-element.elementor-element-7d8d999 form.cart .quantity .quantity-nav {
+    display: none;
+}
+section.elementor-element.elementor-element-7d8d999 form.cart .quantity input#quantity_5d00dc72ec82e {
+    width: 70px;
+    font-size: 1em;
+    color: #940024 !important;
+    border: 3px solid #940024 !important;
+	padding: 18px 17px 18px 17px;
+}
+section.elementor-element.elementor-element-7d8d999 form.cart a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    max-width: 240px !important;
+    font-size: 15.5px;
+    display: inline-block;
+    background: #940022 !important;
+    padding: 26px 20px;
+    color: #fff !important;
+    vertical-align: middle;
+	margin-left: 5px;
+}
+section.elementor-element.elementor-element-7d8d999 .elementor-text-editor span {
+    color: #940024;
+    font-size: 24px;
+    line-height: 1.3em;
+}
+section.elementor-element.elementor-element-7d8d999 .elementor-element.elementor-element-1f6478e .elementor-text-editor {
+    margin: 0 0 1.33333rem;
+}
+section.elementor-element.elementor-element-7d8d999 div#wps_accordion_pro_104 div#offset_104_4, section.elementor-element.elementor-element-7d8d999 div#wps_accordion_pro_104 div#offset_104_5 {
+    max-width: 330px;
+}
+section.elementor-element.elementor-element-7d8d999 div#wps_accordion_pro_104 div#offset_104_4 a:before, section.elementor-element.elementor-element-7d8d999 div#wps_accordion_pro_104 div#offset_104_5 a:before {
+    display:none;
+}
+section.elementor-element.elementor-element-7d8d999 #wps_accordion_pro_104 {
+    margin-bottom: 10px;
+}
+.elementor-element.elementor-element-8cc8705 .elementor-element.elementor-element-53cb348 .elementor-text-editor h1 b {
+    color: #940024;
+    font-size: 65px;
+    font-weight: bold;
+}
+section.elementor-element.elementor-element-7d8d999 #wps_accordion_pro_104 .wpsm_panel-collapse.collapse.in{
+	display: none;
+}
+section.elementor-element.elementor-element-b9b55ee{
+    background: #39325f;
+	    padding: 70px 0px 0px 0px;
+}
+section.elementor-element.elementor-element-b9b55ee h1.elementor-heading-title {
+    color: #fff;
+    font-weight: bold;
+    font-size: 69px;
+    text-align: center;
+    margin: 0 0 1.33333rem;
+}
+
+
+/**** Second product css ***/
+section.good-night-product {
+    background: #39325f;
+}
+section.good-night-product .elementor-text-editor span {
+    color: #fff !important;
+    font-size: 24px;
+    line-height: 1.3em;
+}
+section.good-night-product .elementor-text-editor {
+    margin: 0 0 1.33333rem;
+}
+section.good-night-product #accordion_pro_104 .wpsm_panel-title > a.collapsed {
+    border-radius: 15px;
+    background: transparent !important;
+    color: #fff !important;
+    border-top: 0px !important;
+    border-bottom: 0px !important;
+    border: 1px solid #fff !important;
+}
+section.good-night-product #accordion_pro_104 .wpsm_panel-title > a:before{
+	color: #fff !important;
+}
+section.good-night-product #accordion_pro_104 .wpsm_panel-title > a {
+    background: #dfdbee !important;
+    border: 1px solid #fff !important;
+    border-bottom: unset;
+    border-radius: 15px !important;
+    color: #39325f !important;
+}
+section.good-night-product div#wps_accordion_pro_104 div#offset_104_4, section.good-night-product div#wps_accordion_pro_104 div#offset_104_5 {
+    max-width: 330px;
+}
+section.good-night-product #wps_accordion_pro_104 .wpsm_panel-collapse.collapse.in{
+	display: none;
+}
+section.good-night-product div#wps_accordion_pro_104 div#offset_104_4 a:before, section.good-night-product div#wps_accordion_pro_104 div#offset_104_5 a:before {
+    display:none;
+}
+section.good-night-product form.cart {
+    display: flex;
+    display: -webkit-flex;
+}
+section.good-night-product form.cart .quantity input#quantity_5d00dc72ec82e {
+    width: 70px;
+    font-size: 1em;
+    color: #fff !important;
+    border: 3px solid #fff !important;
+    padding: 18px 17px 18px 17px;
+    background: transparent;
+}
+section.good-night-product form.cart a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    max-width: 240px !important;
+    font-size: 15.5px;
+    display: inline-block;
+    background: #dfdbee !important;
+    padding: 26px 20px;
+    color: #39325f !important;
+    vertical-align: middle;
+	margin-left: 5px;
+}
+section.good-night-product .quantity .quantity-nav {
+    display: none;
+}
+.good-night-product #wps_accordion_pro_104 {
+    margin-bottom: 10px;
+}
+/**** Second product css ends ***/ 
+
+
+section.elementor-element.elementor-element-c595fb5 .elementor-element.elementor-element-939dc13 {
+    background-image: url(https://www.prismaticplants.com/wp-content/uploads/2019/05/Shop-set3-compressor-right-compressor.jpg);
+    background-size: cover;
+}
+section.elementor-element.elementor-element-c595fb5 .elementor-element.elementor-element-939dc13 img {
+    display: none;
+}
+section.elementor-element.elementor-element-c595fb5 .elementor-element.elementor-element-fda1bbc {
+    background-image: url(https://www.prismaticplants.com/wp-content/uploads/2019/05/Shop-set3-compressor-right-compressor.jpg);
+    background-size: cover;
+	    background-position: top right;
+}
+.elementor-element.elementor-element-fda1bbc form.bc-form.bc-product-form .night-product {
+     display: flex; 
+     display: -webkit-flex; 
+}
+.elementor-element.elementor-element-fda1bbc form.bc-form.bc-product-form .night-product input{
+    color: #ffc8b5 !important;
+    background-color: transparent !important;
+    border: 3px solid #ffc8b5 !important;
+    width: 70px;
+    margin-right: 6px;
+}
+.elementor-element.elementor-element-fda1bbc form.bc-form.bc-product-form button#duo-pro-price {
+    max-width: 240px!important;
+    font-size: 15.5px !important;
+    background-color: #ffc8b5 !important;
+    color: #39325f !important;
+    display: inline-block;
+    font-family: sans-serif;
+    width: 100%;
+    padding: 14px 20px;
+    border-radius: 0;
+    font-weight: 600;
+    line-height: 1.6;
+    font-size: .813em;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: none;
+    opacity: 1;
+    transition: all .15s ease-in-out;
+}
+.elementor-element.elementor-element-fda1bbc h2.elementor-heading-title{
+    font-family: "niveau-grotesk", Sans-serif;
+    font-size: 49px;
+    font-weight: normal;
+    text-shadow: 0px 0px 0px rgba(255,255,255,0.3);
+	    margin-bottom: 15px;
+}
+.elementor-element.elementor-element-fda1bbc .elementor-widget-wrap {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    -webkit-align-items: center;
+    justify-content: center;
+    -webkit-justify-content: center;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+}
+footer.elementor-element.elementor-element-ee7b12d .elementor-column-wrap{
+	padding:0 !important;
+}
+section.elementor-element.elementor-element-cccd1a4 .elementor-element.elementor-element-a620a92 h1.elementor-heading-title {
+    font-size: 69px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-family: "niveau-grotesk", Sans-serif;
+}
+section.elementor-element.elementor-element-cccd1a4 {
+    margin: 110px 0 40px 0;
+}
+section.elementor-element.elementor-element-5dab498{
+    padding-bottom: 110px;
+}
+.sect-svg1 .elementor-column-wrap {
+    padding: 0 !important;
+}
+.sect-svg2 svg {
+    width: calc(108% + 1.3px);
+    height: 219px;
+	transform: rotate(180deg);
+	    position: relative;
+    bottom: -7px;
+}
+.sect-svg2 svg path {
+    fill: #39325f ;
+}
+.sect-svg2 .elementor-column-wrap {
+    padding: 0 !important;
+}
+.sect-svg1 svg {
+    width: unset !important;
+    height: 110px;
+}

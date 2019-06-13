@@ -1,0 +1,729 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://prismaticplants.com
+Data file = /home1/prismav6/public_html/wp-content/themes/shopkeeper/inc/demo/shopkeeper.wordpress.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Beanie
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Clothing
+[WARNING] Failed to import product_tag Denim
+[WARNING] Failed to import product_tag eCommerce
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_tag Existentialism
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hat
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import pa_size L
+[WARNING] Failed to import product_tag Leather
+[WARNING] Failed to import pa_size M
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size S
+[WARNING] Failed to import product_tag Shorts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Skate
+[WARNING] Failed to import product_tag Street-Wear
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import product_tag WooCommerce
+[WARNING] Failed to import pa_size XL
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gifts
+[WARNING] Failed to import product_cat Categories Grid
+[WARNING] Failed to import product_cat Bodysuits
+[WARNING] Failed to import product_cat Basics
+[WARNING] Failed to import product_cat Sales
+[WARNING] Failed to import product_cat Tops
+[WARNING] Failed to import product_cat Blouses
+[WARNING] Failed to import product_cat Party Collection
+[WARNING] Failed to import product_cat Shirts &amp; Blouses
+[WARNING] Failed to import product_cat Jumpers
+[WARNING] Failed to import product_cat Dresses
+
+
+---pt-ocdi/after_import---
+

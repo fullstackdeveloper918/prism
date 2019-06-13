@@ -1,0 +1,4207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Neuron Core Amartha\n"
+"POT-Creation-Date: 2019-02-12 22:48+0100\n"
+"PO-Revision-Date: 2019-02-12 22:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: https://neuronthemes.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_attr__;__;e_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer/options/blog-options.php:8
+msgid "Blog"
+msgstr ""
+
+#: customizer/options/blog-options.php:12
+#: customizer/options/portfolio-options.php:12
+#: customizer/options/shop-options.php:12 includes/widgets/countdown.php:85
+#: includes/widgets/media-gallery/base.php:85
+#: includes/widgets/posts/base.php:85 includes/widgets/progress-bar.php:85
+#: includes/widgets/site/hamburger.php:85
+#: includes/widgets/site/menu-cart.php:89 includes/widgets/site/nav-menu.php:97
+#: includes/widgets/site/search-form.php:85
+#: includes/widgets/site/site-logo.php:85
+#: includes/widgets/site/site-title.php:85
+#: includes/widgets/typed-heading.php:85
+msgid "Functionality"
+msgstr ""
+
+#: customizer/options/blog-options.php:17
+#: customizer/options/shop-options.php:17
+#: customizer/options/style-options.php:8 includes/widgets/progress-bar.php:137
+#: includes/widgets/site/hamburger.php:159
+#: includes/widgets/site/search-form.php:158
+#: includes/widgets/site/site-title.php:189
+#: includes/widgets/typed-heading.php:217
+msgid "Style"
+msgstr ""
+
+#: customizer/options/blog-options.php:22
+#: customizer/options/blog-options.php:292
+#: customizer/options/shop-options.php:22
+#: customizer/options/shop-options.php:218
+#: customizer/options/shop-options.php:354
+#: includes/widgets/media-gallery/base.php:759
+#: includes/widgets/posts/base.php:660 includes/widgets/posts/base.php:1303
+msgid "Thumbnail"
+msgstr ""
+
+#: customizer/options/blog-options.php:27
+#: customizer/options/utility-options.php:744
+#: includes/widgets/posts/base.php:96 includes/widgets/posts/base.php:329
+#: includes/widgets/posts/base.php:389 includes/widgets/posts/base.php:449
+msgid "Post"
+msgstr ""
+
+#: customizer/options/blog-options.php:32
+#: customizer/options/header-options.php:112
+msgid "Static"
+msgstr ""
+
+#: customizer/options/blog-options.php:33
+msgid ""
+"The options in this section will be displayed only in the blog static page."
+msgstr ""
+
+#: customizer/options/blog-options.php:40
+#: customizer/options/footer-options.php:36
+#: customizer/options/header-options.php:55
+#: customizer/options/shop-options.php:38
+#: customizer/options/utility-options.php:193
+msgid "Type"
+msgstr ""
+
+#: customizer/options/blog-options.php:41
+msgid "Select the type of Blog."
+msgstr ""
+
+#: customizer/options/blog-options.php:45
+#: customizer/options/shop-options.php:43
+#: includes/widgets/media-gallery/base.php:134
+#: includes/widgets/posts/base.php:143
+msgid "Meta Inside"
+msgstr ""
+
+#: customizer/options/blog-options.php:46
+#: customizer/options/shop-options.php:44
+#: includes/widgets/media-gallery/base.php:135
+#: includes/widgets/posts/base.php:144
+msgid "Meta Outside"
+msgstr ""
+
+#: customizer/options/blog-options.php:52
+#: customizer/options/blog-options.php:340
+#: customizer/options/shop-options.php:50
+#: customizer/options/shop-options.php:250
+#: customizer/options/utility-options.php:726
+msgid "Sidebar"
+msgstr ""
+
+#: customizer/options/blog-options.php:53
+#: customizer/options/blog-options.php:341
+#: customizer/options/shop-options.php:51
+msgid "Select the placement of sidebar or hide it, default is right."
+msgstr ""
+
+#: customizer/options/blog-options.php:57
+#: customizer/options/blog-options.php:345
+#: customizer/options/footer-options.php:160
+#: customizer/options/general-options.php:61
+#: customizer/options/shop-options.php:55
+#: customizer/options/shop-options.php:255
+#: customizer/options/shop-options.php:300
+#: customizer/options/utility-options.php:266
+#: customizer/options/utility-options.php:731 includes/plugin.php:339
+#: includes/plugin.php:516
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: includes/plugins/kirki/field/class-kirki-field-spacing.php:34
+#: includes/widgets/media-gallery/base.php:1433
+#: includes/widgets/media-gallery/base.php:1502
+#: includes/widgets/media-gallery/base.php:1571
+#: includes/widgets/media-gallery/base.php:1643
+#: includes/widgets/media-gallery/base.php:1749
+#: includes/widgets/posts/base.php:1529 includes/widgets/posts/base.php:2027
+#: includes/widgets/posts/base.php:2266 includes/widgets/posts/base.php:2349
+#: includes/widgets/posts/base.php:2442 includes/widgets/posts/base.php:2521
+#: includes/widgets/posts/base.php:2684 includes/widgets/posts/base.php:2952
+#: includes/widgets/site/hamburger.php:105
+#: includes/widgets/site/menu-cart.php:109
+#: includes/widgets/site/nav-menu.php:156
+#: includes/widgets/site/nav-menu.php:239
+#: includes/widgets/site/search-form.php:114
+#: includes/widgets/site/site-logo.php:117
+#: includes/widgets/site/site-title.php:230
+#: includes/widgets/typed-heading.php:194
+msgid "Left"
+msgstr ""
+
+#: customizer/options/blog-options.php:58
+#: customizer/options/blog-options.php:346
+#: customizer/options/footer-options.php:161
+#: customizer/options/general-options.php:62
+#: customizer/options/shop-options.php:56
+#: customizer/options/shop-options.php:256
+#: customizer/options/shop-options.php:301
+#: customizer/options/utility-options.php:268
+#: customizer/options/utility-options.php:732 includes/plugin.php:341
+#: includes/plugin.php:520
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: includes/plugins/kirki/field/class-kirki-field-spacing.php:35
+#: includes/widgets/media-gallery/base.php:1441
+#: includes/widgets/media-gallery/base.php:1510
+#: includes/widgets/media-gallery/base.php:1579
+#: includes/widgets/media-gallery/base.php:1651
+#: includes/widgets/media-gallery/base.php:1757
+#: includes/widgets/posts/base.php:1537 includes/widgets/posts/base.php:2035
+#: includes/widgets/posts/base.php:2274 includes/widgets/posts/base.php:2357
+#: includes/widgets/posts/base.php:2450 includes/widgets/posts/base.php:2529
+#: includes/widgets/posts/base.php:2692 includes/widgets/posts/base.php:2960
+#: includes/widgets/site/hamburger.php:113
+#: includes/widgets/site/menu-cart.php:117
+#: includes/widgets/site/nav-menu.php:164
+#: includes/widgets/site/nav-menu.php:247
+#: includes/widgets/site/search-form.php:122
+#: includes/widgets/site/site-logo.php:125
+#: includes/widgets/site/site-title.php:238
+#: includes/widgets/typed-heading.php:202
+msgid "Right"
+msgstr ""
+
+#: customizer/options/blog-options.php:59
+#: customizer/options/blog-options.php:71
+#: customizer/options/blog-options.php:156
+#: customizer/options/blog-options.php:188
+#: customizer/options/blog-options.php:200
+#: customizer/options/blog-options.php:212
+#: customizer/options/blog-options.php:224
+#: customizer/options/blog-options.php:236
+#: customizer/options/blog-options.php:252
+#: customizer/options/blog-options.php:298
+#: customizer/options/blog-options.php:310
+#: customizer/options/blog-options.php:334
+#: customizer/options/blog-options.php:347
+#: customizer/options/footer-options.php:109
+#: customizer/options/footer-options.php:182
+#: customizer/options/footer-options.php:224
+#: customizer/options/footer-options.php:245
+#: customizer/options/general-options.php:34
+#: customizer/options/header-options.php:49
+#: customizer/options/header-options.php:324
+#: customizer/options/header-options.php:348
+#: customizer/options/header-options.php:380
+#: customizer/options/header-options.php:404
+#: customizer/options/portfolio-options.php:222
+#: customizer/options/portfolio-options.php:240
+#: customizer/options/shop-options.php:57
+#: customizer/options/shop-options.php:69
+#: customizer/options/shop-options.php:81
+#: customizer/options/shop-options.php:196
+#: customizer/options/shop-options.php:257
+#: customizer/options/shop-options.php:269
+#: customizer/options/shop-options.php:283
+#: customizer/options/shop-options.php:334
+#: customizer/options/utility-options.php:46
+#: customizer/options/utility-options.php:58
+#: customizer/options/utility-options.php:70
+#: customizer/options/utility-options.php:82
+#: customizer/options/utility-options.php:103
+#: customizer/options/utility-options.php:115
+#: customizer/options/utility-options.php:128
+#: customizer/options/utility-options.php:142
+#: customizer/options/utility-options.php:155
+#: customizer/options/utility-options.php:167
+#: customizer/options/utility-options.php:187
+#: customizer/options/utility-options.php:433
+#: customizer/options/utility-options.php:678
+#: customizer/options/utility-options.php:733
+#: customizer/options/utility-options.php:784
+#: customizer/options/utility-options.php:878
+#: includes/widgets/countdown.php:119 includes/widgets/countdown.php:132
+#: includes/widgets/countdown.php:145 includes/widgets/countdown.php:158
+#: includes/widgets/countdown.php:171
+#: includes/widgets/media-gallery/base.php:176
+#: includes/widgets/media-gallery/base.php:728
+#: includes/widgets/media-gallery/base.php:814
+#: includes/widgets/posts/base.php:663 includes/widgets/posts/base.php:678
+#: includes/widgets/posts/base.php:690 includes/widgets/posts/base.php:717
+#: includes/widgets/posts/base.php:738 includes/widgets/posts/base.php:765
+#: includes/widgets/posts/base.php:792 includes/widgets/posts/base.php:819
+#: includes/widgets/posts/base.php:834 includes/widgets/posts/base.php:849
+#: includes/widgets/posts/base.php:1119 includes/widgets/posts/base.php:1222
+#: includes/widgets/posts/base.php:1275 includes/widgets/posts/base.php:1370
+#: includes/widgets/posts/base.php:1454 includes/widgets/posts/base.php:2160
+#: includes/widgets/posts/base.php:2429
+msgid "Hide"
+msgstr ""
+
+#: customizer/options/blog-options.php:65 includes/widgets/posts/base.php:1271
+msgid "Pagination Visibility"
+msgstr ""
+
+#: customizer/options/blog-options.php:66
+msgid ""
+"Select the pagination visibility. <br /><small>The pagination will not be "
+"displayed if there are less posts than posts per page number, even if the "
+"option is show.</small>"
+msgstr ""
+
+#: customizer/options/blog-options.php:70
+#: customizer/options/blog-options.php:155
+#: customizer/options/blog-options.php:187
+#: customizer/options/blog-options.php:199
+#: customizer/options/blog-options.php:211
+#: customizer/options/blog-options.php:223
+#: customizer/options/blog-options.php:235
+#: customizer/options/blog-options.php:251
+#: customizer/options/blog-options.php:297
+#: customizer/options/blog-options.php:309
+#: customizer/options/blog-options.php:333
+#: customizer/options/footer-options.php:108
+#: customizer/options/footer-options.php:181
+#: customizer/options/footer-options.php:223
+#: customizer/options/footer-options.php:244
+#: customizer/options/general-options.php:33
+#: customizer/options/header-options.php:48
+#: customizer/options/header-options.php:323
+#: customizer/options/header-options.php:347
+#: customizer/options/header-options.php:379
+#: customizer/options/header-options.php:403
+#: customizer/options/portfolio-options.php:221
+#: customizer/options/portfolio-options.php:239
+#: customizer/options/shop-options.php:68
+#: customizer/options/shop-options.php:80
+#: customizer/options/shop-options.php:195
+#: customizer/options/shop-options.php:268
+#: customizer/options/shop-options.php:282
+#: customizer/options/shop-options.php:333
+#: customizer/options/utility-options.php:45
+#: customizer/options/utility-options.php:57
+#: customizer/options/utility-options.php:69
+#: customizer/options/utility-options.php:81
+#: customizer/options/utility-options.php:102
+#: customizer/options/utility-options.php:114
+#: customizer/options/utility-options.php:127
+#: customizer/options/utility-options.php:141
+#: customizer/options/utility-options.php:154
+#: customizer/options/utility-options.php:166
+#: customizer/options/utility-options.php:186
+#: customizer/options/utility-options.php:432
+#: customizer/options/utility-options.php:677
+#: customizer/options/utility-options.php:783
+#: customizer/options/utility-options.php:877
+#: includes/widgets/countdown.php:118 includes/widgets/countdown.php:131
+#: includes/widgets/countdown.php:144 includes/widgets/countdown.php:157
+#: includes/widgets/countdown.php:170
+#: includes/widgets/media-gallery/base.php:175
+#: includes/widgets/media-gallery/base.php:727
+#: includes/widgets/media-gallery/base.php:813
+#: includes/widgets/posts/base.php:662 includes/widgets/posts/base.php:677
+#: includes/widgets/posts/base.php:689 includes/widgets/posts/base.php:716
+#: includes/widgets/posts/base.php:737 includes/widgets/posts/base.php:764
+#: includes/widgets/posts/base.php:791 includes/widgets/posts/base.php:818
+#: includes/widgets/posts/base.php:833 includes/widgets/posts/base.php:848
+#: includes/widgets/posts/base.php:1118 includes/widgets/posts/base.php:1221
+#: includes/widgets/posts/base.php:1274 includes/widgets/posts/base.php:1369
+#: includes/widgets/posts/base.php:1453 includes/widgets/posts/base.php:2159
+#: includes/widgets/posts/base.php:2428
+msgid "Show"
+msgstr ""
+
+#: customizer/options/blog-options.php:81
+#: customizer/options/footer-options.php:195
+#: customizer/options/portfolio-options.php:266
+#: customizer/options/shop-options.php:121
+#: customizer/options/utility-options.php:712
+#: includes/widgets/media-gallery/base.php:367
+#: includes/widgets/posts/base.php:525
+msgid "Columns"
+msgstr ""
+
+#: customizer/options/blog-options.php:82
+msgid "Select the columns of Blog, default is two columns."
+msgstr ""
+
+#: customizer/options/blog-options.php:86
+#: customizer/options/portfolio-options.php:271
+#: customizer/options/shop-options.php:126
+#: customizer/options/utility-options.php:717
+#: includes/widgets/media-gallery/base.php:326
+#: includes/widgets/media-gallery/base.php:371
+#: includes/widgets/posts/base.php:340 includes/widgets/posts/base.php:400
+#: includes/widgets/posts/base.php:460 includes/widgets/posts/base.php:529
+msgid "1 Column"
+msgstr ""
+
+#: customizer/options/blog-options.php:87
+#: customizer/options/portfolio-options.php:272
+#: customizer/options/shop-options.php:127
+#: customizer/options/utility-options.php:718
+#: includes/widgets/media-gallery/base.php:372
+#: includes/widgets/posts/base.php:530
+msgid "2 Columns"
+msgstr ""
+
+#: customizer/options/blog-options.php:88
+#: customizer/options/portfolio-options.php:273
+#: customizer/options/shop-options.php:128
+#: customizer/options/utility-options.php:719
+#: includes/widgets/media-gallery/base.php:373
+#: includes/widgets/posts/base.php:531
+msgid "3 Columns"
+msgstr ""
+
+#: customizer/options/blog-options.php:89
+#: customizer/options/portfolio-options.php:274
+#: customizer/options/shop-options.php:129
+#: customizer/options/utility-options.php:720
+#: includes/widgets/media-gallery/base.php:374
+#: includes/widgets/posts/base.php:532
+msgid "4 Columns"
+msgstr ""
+
+#: customizer/options/blog-options.php:95
+#: customizer/options/blog-options.php:162
+#: customizer/options/portfolio-options.php:280
+#: customizer/options/shop-options.php:135
+#: customizer/options/shop-options.php:202
+#: customizer/options/utility-options.php:544
+#: customizer/options/utility-options.php:632
+#: customizer/options/utility-options.php:696 includes/plugin.php:431
+#: includes/widgets/media-gallery/base.php:400
+#: includes/widgets/media-gallery/base.php:823
+#: includes/widgets/posts/base.php:567 includes/widgets/posts/base.php:1379
+msgid "Animation"
+msgstr ""
+
+#: customizer/options/blog-options.php:96
+#: includes/widgets/media-gallery/base.php:401
+#: includes/widgets/posts/base.php:568
+msgid "Select initial loading animation for posts."
+msgstr ""
+
+#: customizer/options/blog-options.php:100
+#: customizer/options/portfolio-options.php:285
+#: customizer/options/shop-options.php:140
+#: customizer/options/utility-options.php:549
+#: customizer/options/utility-options.php:637
+#: includes/widgets/media-gallery/base.php:404
+#: includes/widgets/media-gallery/base.php:940
+#: includes/widgets/media-gallery/base.php:1030
+#: includes/widgets/media-gallery/base.php:1130
+#: includes/widgets/media-gallery/base.php:1260
+#: includes/widgets/posts/base.php:571 includes/widgets/posts/base.php:1752
+#: includes/widgets/posts/base.php:1886 includes/widgets/posts/base.php:2828
+#: includes/widgets/site/site-logo.php:143
+#: includes/widgets/site/site-title.php:119
+msgid "None"
+msgstr ""
+
+#: customizer/options/blog-options.php:101
+#: customizer/options/portfolio-options.php:286
+#: customizer/options/shop-options.php:141
+#: customizer/options/utility-options.php:550
+#: customizer/options/utility-options.php:638 includes/plugin.php:434
+#: includes/widgets/media-gallery/base.php:405
+#: includes/widgets/posts/base.php:572
+msgid "Fade In"
+msgstr ""
+
+#: customizer/options/blog-options.php:102
+#: customizer/options/portfolio-options.php:287
+#: customizer/options/shop-options.php:142
+#: customizer/options/utility-options.php:551
+#: customizer/options/utility-options.php:639
+#: includes/widgets/media-gallery/base.php:406
+#: includes/widgets/posts/base.php:573
+msgid "Fade In Up"
+msgstr ""
+
+#: customizer/options/blog-options.php:103
+#: customizer/options/portfolio-options.php:288
+#: customizer/options/shop-options.php:143
+#: includes/widgets/media-gallery/base.php:407
+#: includes/widgets/posts/base.php:574
+msgid "Fade In (with delay)"
+msgstr ""
+
+#: customizer/options/blog-options.php:104
+#: customizer/options/portfolio-options.php:289
+#: customizer/options/shop-options.php:144
+#: includes/widgets/media-gallery/base.php:408
+#: includes/widgets/posts/base.php:575
+msgid "Fade In Up (with delay)"
+msgstr ""
+
+#: customizer/options/blog-options.php:110
+#: customizer/options/shop-options.php:150
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:135
+#: includes/widgets/media-gallery/base.php:447
+#: includes/widgets/media-gallery/base.php:1417
+#: includes/widgets/media-gallery/base.php:1733
+#: includes/widgets/posts/base.php:615 includes/widgets/posts/base.php:2668
+#: includes/widgets/site/nav-menu.php:516
+msgid "Spacing"
+msgstr ""
+
+#: customizer/options/blog-options.php:111
+msgid "Add custom spacing between posts."
+msgstr ""
+
+#: customizer/options/blog-options.php:115
+#: customizer/options/blog-options.php:264
+#: customizer/options/footer-options.php:87
+#: customizer/options/footer-options.php:141
+#: customizer/options/general-options.php:45
+#: customizer/options/header-options.php:156
+#: customizer/options/header-options.php:175
+#: customizer/options/shop-options.php:155
+#: customizer/options/shop-options.php:223
+#: customizer/options/shop-options.php:359
+#: customizer/options/utility-options.php:247 includes/plugin.php:403
+#: includes/plugin.php:417 includes/plugin.php:463
+#: includes/plugins/kirki/field/class-kirki-field-switch.php:39
+#: includes/widgets/media-gallery/base.php:566
+#: includes/widgets/media-gallery/base.php:578
+#: includes/widgets/media-gallery/base.php:590
+#: includes/widgets/media-gallery/base.php:602
+#: includes/widgets/media-gallery/base.php:614
+#: includes/widgets/media-gallery/base.php:626
+#: includes/widgets/media-gallery/base.php:638
+#: includes/widgets/media-gallery/base.php:769
+#: includes/widgets/media-gallery/base.php:842
+#: includes/widgets/posts/base.php:969 includes/widgets/posts/base.php:981
+#: includes/widgets/posts/base.php:993 includes/widgets/posts/base.php:1005
+#: includes/widgets/posts/base.php:1017 includes/widgets/posts/base.php:1029
+#: includes/widgets/posts/base.php:1041 includes/widgets/posts/base.php:1316
+#: includes/widgets/posts/base.php:1398 includes/widgets/typed-heading.php:104
+msgid "On"
+msgstr ""
+
+#: customizer/options/blog-options.php:116
+#: customizer/options/blog-options.php:265
+#: customizer/options/footer-options.php:88
+#: customizer/options/footer-options.php:142
+#: customizer/options/general-options.php:46
+#: customizer/options/header-options.php:157
+#: customizer/options/header-options.php:176
+#: customizer/options/shop-options.php:156
+#: customizer/options/shop-options.php:224
+#: customizer/options/shop-options.php:360
+#: customizer/options/utility-options.php:248 includes/plugin.php:404
+#: includes/plugin.php:418 includes/plugin.php:464
+#: includes/plugins/kirki/field/class-kirki-field-switch.php:40
+#: includes/widgets/media-gallery/base.php:567
+#: includes/widgets/media-gallery/base.php:579
+#: includes/widgets/media-gallery/base.php:591
+#: includes/widgets/media-gallery/base.php:603
+#: includes/widgets/media-gallery/base.php:615
+#: includes/widgets/media-gallery/base.php:627
+#: includes/widgets/media-gallery/base.php:639
+#: includes/widgets/media-gallery/base.php:770
+#: includes/widgets/media-gallery/base.php:843
+#: includes/widgets/posts/base.php:970 includes/widgets/posts/base.php:982
+#: includes/widgets/posts/base.php:994 includes/widgets/posts/base.php:1006
+#: includes/widgets/posts/base.php:1018 includes/widgets/posts/base.php:1030
+#: includes/widgets/posts/base.php:1042 includes/widgets/posts/base.php:1317
+#: includes/widgets/posts/base.php:1399 includes/widgets/typed-heading.php:105
+msgid "Off"
+msgstr ""
+
+#: customizer/options/blog-options.php:122
+#: customizer/options/shop-options.php:162
+msgid "Spacing Value"
+msgstr ""
+
+#: customizer/options/blog-options.php:123
+#: customizer/options/shop-options.php:163
+msgid ""
+"Move the slider to set the value of spacing. <br /> <small>Note: The value "
+"is represented in pixels.</small>"
+msgstr ""
+
+#: customizer/options/blog-options.php:145
+#: customizer/options/shop-options.php:185
+#: includes/widgets/media-gallery/base.php:801
+#: includes/widgets/media-gallery/base.php:1020
+#: includes/widgets/media-gallery/base.php:1371
+#: includes/widgets/posts/base.php:1348 includes/widgets/posts/base.php:1660
+#: includes/widgets/posts/base.php:2777 includes/widgets/site/hamburger.php:200
+#: includes/widgets/site/nav-menu.php:307
+#: includes/widgets/site/nav-menu.php:451
+#: includes/widgets/site/nav-menu.php:800
+#: includes/widgets/site/nav-menu.php:929
+#: includes/widgets/site/search-form.php:189
+msgid "Hover"
+msgstr ""
+
+#: customizer/options/blog-options.php:150
+#: customizer/options/blog-options.php:246
+#: customizer/options/footer-options.php:103
+#: customizer/options/footer-options.php:176
+#: customizer/options/footer-options.php:239
+#: customizer/options/header-options.php:43
+#: customizer/options/header-options.php:318
+#: customizer/options/header-options.php:374
+#: customizer/options/portfolio-options.php:234
+#: customizer/options/shop-options.php:190
+#: customizer/options/shop-options.php:328
+#: customizer/options/utility-options.php:181
+#: customizer/options/utility-options.php:672
+#: includes/widgets/media-gallery/base.php:809
+#: includes/widgets/posts/base.php:1365 includes/widgets/site/nav-menu.php:190
+msgid "Visibility"
+msgstr ""
+
+#: customizer/options/blog-options.php:151
+#: customizer/options/shop-options.php:191
+#: includes/widgets/media-gallery/base.php:810
+#: includes/widgets/posts/base.php:1366
+msgid "Select the visibility of the hover."
+msgstr ""
+
+#: customizer/options/blog-options.php:163
+#: customizer/options/shop-options.php:203
+#: includes/widgets/media-gallery/base.php:824
+#: includes/widgets/posts/base.php:1380
+msgid "Select the animation of the hover."
+msgstr ""
+
+#: customizer/options/blog-options.php:167
+#: customizer/options/shop-options.php:207
+#: customizer/options/utility-options.php:701
+#: includes/widgets/media-gallery/base.php:827
+#: includes/widgets/posts/base.php:1383
+msgid "Translate"
+msgstr ""
+
+#: customizer/options/blog-options.php:168
+#: customizer/options/shop-options.php:208
+#: customizer/options/utility-options.php:702
+#: includes/widgets/media-gallery/base.php:828
+#: includes/widgets/posts/base.php:1384
+msgid "Scale"
+msgstr ""
+
+#: customizer/options/blog-options.php:177
+#: customizer/options/typography-options.php:380
+#: customizer/options/typography-options.php:435
+#: includes/widgets/posts/base.php:653 includes/widgets/posts/base.php:2058
+msgid "Meta"
+msgstr ""
+
+#: customizer/options/blog-options.php:182 includes/widgets/posts/base.php:687
+msgid "Date"
+msgstr ""
+
+#: customizer/options/blog-options.php:183
+msgid "Select the visibility of the date."
+msgstr ""
+
+#: customizer/options/blog-options.php:194 includes/widgets/posts/base.php:714
+msgid "Categories"
+msgstr ""
+
+#: customizer/options/blog-options.php:195
+msgid "Select the visibility of the categories."
+msgstr ""
+
+#: customizer/options/blog-options.php:206 includes/widgets/posts/base.php:735
+msgid "Tags"
+msgstr ""
+
+#: customizer/options/blog-options.php:207
+msgid "Select the visibility of the tags."
+msgstr ""
+
+#: customizer/options/blog-options.php:218 includes/widgets/posts/base.php:762
+#: includes/widgets/posts/base.php:2294
+msgid "Excerpt"
+msgstr ""
+
+#: customizer/options/blog-options.php:219
+msgid "Select the visibility of the excerpt."
+msgstr ""
+
+#: customizer/options/blog-options.php:230 includes/widgets/posts/base.php:789
+#: includes/widgets/posts/base.php:2375
+msgid "Author"
+msgstr ""
+
+#: customizer/options/blog-options.php:231
+msgid "Select the visibility of the author."
+msgstr ""
+
+#: customizer/options/blog-options.php:247
+msgid "Select the visibility of the thumbnail on blog pages."
+msgstr ""
+
+#: customizer/options/blog-options.php:259
+msgid "Resizer"
+msgstr ""
+
+#: customizer/options/blog-options.php:260
+#: customizer/options/shop-options.php:219
+msgid ""
+"Activate a thumbnail resizer, it will crop all the images to a given width & "
+"height. <br /><small>Note: Do not forget to regenerate thumbnails.</small>"
+msgstr ""
+
+#: customizer/options/blog-options.php:272
+msgid "Image Sizes"
+msgstr ""
+
+#: customizer/options/blog-options.php:273
+#: customizer/options/shop-options.php:231
+#: customizer/options/shop-options.php:367
+msgid ""
+"Select the image size, you can add new thumbnail sizes in the general "
+"options."
+msgstr ""
+
+#: customizer/options/blog-options.php:293
+msgid "Select the visibility of the thumbnail on post."
+msgstr ""
+
+#: customizer/options/blog-options.php:304
+msgid "Navigation Visibility"
+msgstr ""
+
+#: customizer/options/blog-options.php:305
+msgid "Show or hide the navigation on blog post."
+msgstr ""
+
+#: customizer/options/blog-options.php:316
+msgid "Navigation Category"
+msgstr ""
+
+#: customizer/options/blog-options.php:317
+#: customizer/options/portfolio-options.php:247
+msgid "Enable if you want the posts to be navigated only in the same category."
+msgstr ""
+
+#: customizer/options/blog-options.php:321
+#: customizer/options/general-options.php:21
+#: customizer/options/portfolio-options.php:251
+#: customizer/options/social-media.php:27
+msgid "Enable"
+msgstr ""
+
+#: customizer/options/blog-options.php:322
+#: customizer/options/general-options.php:22
+#: customizer/options/portfolio-options.php:252
+#: customizer/options/social-media.php:28
+msgid "Disable"
+msgstr ""
+
+#: customizer/options/blog-options.php:328
+#: customizer/options/portfolio-options.php:216
+#: customizer/options/shop-options.php:277
+msgid "Share"
+msgstr ""
+
+#: customizer/options/blog-options.php:329
+#: customizer/options/portfolio-options.php:217
+#: customizer/options/shop-options.php:278
+msgid ""
+"Select the visibility of share icons. <br /><small>Note: Make sure to "
+"install and activate the NeuronThemes Share plugin.</small>"
+msgstr ""
+
+#: customizer/options/blog-options.php:357
+#: customizer/options/typography-options.php:268
+#: customizer/options/typography-options.php:363
+#: customizer/options/typography-options.php:401
+#: customizer/options/typography-options.php:532
+#: customizer/options/typography-options.php:588
+#: customizer/options/typography-options.php:626
+#: customizer/options/typography-options.php:664
+#: customizer/options/utility-options.php:12
+#: customizer/options/utility-options.php:493
+#: customizer/options/utility-options.php:505
+#: customizer/options/utility-options.php:828
+#: includes/widgets/media-gallery/base.php:230
+#: includes/widgets/media-gallery/base.php:232
+#: includes/widgets/media-gallery/base.php:294
+#: includes/widgets/media-gallery/base.php:296
+#: includes/widgets/media-gallery/base.php:1459
+#: includes/widgets/posts/base.php:675 includes/widgets/posts/base.php:1972
+#: includes/widgets/progress-bar.php:92 includes/widgets/progress-bar.php:199
+#: includes/widgets/site/nav-menu.php:645
+#: includes/widgets/site/site-title.php:92
+msgid "Title"
+msgstr ""
+
+#: customizer/options/blog-options.php:358
+msgid "Enter the text that will appear as blog title."
+msgstr ""
+
+#: customizer/options/blog-options.php:364
+#: customizer/options/typography-options.php:681
+#: customizer/options/utility-options.php:761
+#: includes/widgets/countdown.php:397 includes/widgets/typed-heading.php:92
+msgid "Content"
+msgstr ""
+
+#: customizer/options/blog-options.php:365
+msgid "Enter the text that will appear as blog content."
+msgstr ""
+
+#: customizer/options/footer-options.php:8
+#: includes/core/library/documents/footer.php:58
+msgid "Footer"
+msgstr ""
+
+#: customizer/options/footer-options.php:12
+#: customizer/options/general-options.php:8
+#: customizer/options/social-media.php:17
+#: customizer/options/typography-options.php:12
+msgid "General"
+msgstr ""
+
+#: customizer/options/footer-options.php:17
+#: customizer/options/footer-options.php:122
+msgid "Copyright"
+msgstr ""
+
+#: customizer/options/footer-options.php:22
+#: customizer/options/typography-options.php:36
+msgid "Widgets"
+msgstr ""
+
+#: customizer/options/footer-options.php:27
+#: customizer/options/footer-options.php:258
+#: customizer/options/social-media.php:8
+#: includes/widgets/media-gallery/base.php:259
+#: includes/widgets/media-gallery/base.php:343
+msgid "Social Media"
+msgstr ""
+
+#: customizer/options/footer-options.php:37
+msgid ""
+"Select the footer type. <br /> <small>Note: Make sure to create templates "
+"with Elementor as footer type.</small>"
+msgstr ""
+
+#: customizer/options/footer-options.php:41
+#: customizer/options/header-options.php:60
+#: customizer/options/utility-options.php:198 includes/plugin.php:338
+#: includes/plugin.php:360
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:134
+#: includes/plugins/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: customizer/options/footer-options.php:42
+#: customizer/options/footer-options.php:48
+#: customizer/options/header-options.php:61
+#: customizer/options/header-options.php:67
+#: customizer/options/utility-options.php:199
+#: customizer/options/utility-options.php:212
+msgid "Template"
+msgstr ""
+
+#: customizer/options/footer-options.php:49
+msgid "Select the footer template."
+msgstr ""
+
+#: customizer/options/footer-options.php:63
+#: customizer/options/header-options.php:83
+#: customizer/options/utility-options.php:684
+msgid "Skin"
+msgstr ""
+
+#: customizer/options/footer-options.php:64
+msgid "Select the footer skin, the default is dark."
+msgstr ""
+
+#: customizer/options/footer-options.php:68
+#: customizer/options/header-options.php:88
+#: customizer/options/header-options.php:196
+#: customizer/options/utility-options.php:689
+msgid "Dark"
+msgstr ""
+
+#: customizer/options/footer-options.php:69
+#: customizer/options/header-options.php:89
+#: customizer/options/header-options.php:218
+#: customizer/options/utility-options.php:690
+msgid "Light"
+msgstr ""
+
+#: customizer/options/footer-options.php:82
+#: customizer/options/header-options.php:170
+#: customizer/options/utility-options.php:242
+msgid "Container"
+msgstr ""
+
+#: customizer/options/footer-options.php:83
+msgid ""
+"Select if you want to use container holder for the footer. <br /> "
+"<small>Note: By selecting off, the footer will push into left and right.</"
+"small>"
+msgstr ""
+
+#: customizer/options/footer-options.php:104
+msgid ""
+"Show or hide the copyright, by hiding the copyright the social media will be "
+"hidden too."
+msgstr ""
+
+#: customizer/options/footer-options.php:123
+msgid ""
+"Enter the text that will appear in footer as copyright. <small>Note: It "
+"accepts HTML tags.</small>"
+msgstr ""
+
+#: customizer/options/footer-options.php:136
+msgid "Automated"
+msgstr ""
+
+#: customizer/options/footer-options.php:137
+msgid ""
+"Enable the automated copyright, it will work only if you don't add copyright "
+"in the field above."
+msgstr ""
+
+#: customizer/options/footer-options.php:155
+#: customizer/options/shop-options.php:295
+#: customizer/options/utility-options.php:261 includes/plugin.php:512
+#: includes/widgets/media-gallery/base.php:1429
+#: includes/widgets/media-gallery/base.php:1498
+#: includes/widgets/media-gallery/base.php:1567
+#: includes/widgets/media-gallery/base.php:1639
+#: includes/widgets/media-gallery/base.php:1745
+#: includes/widgets/posts/base.php:2023 includes/widgets/posts/base.php:2262
+#: includes/widgets/posts/base.php:2345 includes/widgets/posts/base.php:2438
+#: includes/widgets/posts/base.php:2517 includes/widgets/posts/base.php:2680
+#: includes/widgets/posts/base.php:2948 includes/widgets/site/hamburger.php:101
+#: includes/widgets/site/menu-cart.php:105
+#: includes/widgets/site/nav-menu.php:152
+#: includes/widgets/site/search-form.php:110
+#: includes/widgets/site/site-logo.php:113
+#: includes/widgets/site/site-title.php:226
+#: includes/widgets/typed-heading.php:190
+msgid "Alignment"
+msgstr ""
+
+#: customizer/options/footer-options.php:156
+msgid ""
+"Select the alignment of copyright, if selected left the social media will be "
+"placed on the right and so on."
+msgstr ""
+
+#: customizer/options/footer-options.php:177
+msgid "Show or hide the widgets on footer."
+msgstr ""
+
+#: customizer/options/footer-options.php:196
+msgid "Select the columns of widgets, default is 4 columns."
+msgstr ""
+
+#: customizer/options/footer-options.php:200
+msgid "One Column"
+msgstr ""
+
+#: customizer/options/footer-options.php:201
+msgid "Two Columns"
+msgstr ""
+
+#: customizer/options/footer-options.php:202
+msgid "Three Columns"
+msgstr ""
+
+#: customizer/options/footer-options.php:203
+msgid "Four Columns"
+msgstr ""
+
+#: customizer/options/footer-options.php:204
+msgid "Five Columns"
+msgstr ""
+
+#: customizer/options/footer-options.php:205
+msgid "Six Columns"
+msgstr ""
+
+#: customizer/options/footer-options.php:218
+msgid "Mobile Visibility"
+msgstr ""
+
+#: customizer/options/footer-options.php:219
+msgid "Select the visibility of the widgets in mobile layout mode (< 768px)."
+msgstr ""
+
+#: customizer/options/footer-options.php:240
+msgid "Show or hide the social media in footer."
+msgstr ""
+
+#: customizer/options/footer-options.php:259
+msgid ""
+"Select which ones you want to display as social media in footer. Click on "
+"the eye to make them visible, you can also drag & drop them. <br /"
+"><small>Note: Do not forget to add the links at Theme Options > Social Media."
+"</small>"
+msgstr ""
+
+#: customizer/options/footer-options.php:269
+msgid "Facebook"
+msgstr ""
+
+#: customizer/options/footer-options.php:270
+msgid "Twitter"
+msgstr ""
+
+#: customizer/options/footer-options.php:271
+msgid "500px"
+msgstr ""
+
+#: customizer/options/footer-options.php:272
+msgid "Google Plus"
+msgstr ""
+
+#: customizer/options/footer-options.php:273
+msgid "Vimeo"
+msgstr ""
+
+#: customizer/options/footer-options.php:274
+msgid "Dribbble"
+msgstr ""
+
+#: customizer/options/footer-options.php:275
+msgid "Pinterest"
+msgstr ""
+
+#: customizer/options/footer-options.php:276
+msgid "Youtube"
+msgstr ""
+
+#: customizer/options/footer-options.php:277
+msgid "Tumblr"
+msgstr ""
+
+#: customizer/options/footer-options.php:278
+msgid "Linkedin"
+msgstr ""
+
+#: customizer/options/footer-options.php:279
+msgid "Behance"
+msgstr ""
+
+#: customizer/options/footer-options.php:280
+msgid "Flickr"
+msgstr ""
+
+#: customizer/options/footer-options.php:281
+msgid "Spotify"
+msgstr ""
+
+#: customizer/options/footer-options.php:282
+msgid "Instagram"
+msgstr ""
+
+#: customizer/options/footer-options.php:283
+msgid "GitHub"
+msgstr ""
+
+#: customizer/options/footer-options.php:284
+msgid "Houzz"
+msgstr ""
+
+#: customizer/options/footer-options.php:285
+msgid "StackExchange"
+msgstr ""
+
+#: customizer/options/footer-options.php:286
+msgid "SoundCloud"
+msgstr ""
+
+#: customizer/options/footer-options.php:287
+msgid "VK"
+msgstr ""
+
+#: customizer/options/general-options.php:16
+msgid "Custom Fields Panel"
+msgstr ""
+
+#: customizer/options/general-options.php:17
+msgid ""
+"Enable or disable the custom fields panel(ACF Panel), default is disabled."
+msgstr ""
+
+#: customizer/options/general-options.php:28
+msgid "Comments Notice"
+msgstr ""
+
+#: customizer/options/general-options.php:29
+msgid "Show or hide the notice 'Comments are Closed!'."
+msgstr ""
+
+#: customizer/options/general-options.php:40
+msgid "Body Offset"
+msgstr ""
+
+#: customizer/options/general-options.php:41
+msgid ""
+"Create a left or right spacing to the content, best use case when creating a "
+"lateral header to eleminate the FOUC effect."
+msgstr ""
+
+#: customizer/options/general-options.php:52
+msgid "Offset Values"
+msgstr ""
+
+#: customizer/options/general-options.php:53
+msgid ""
+"Enter the values of the offset, if you're using the menu on the left, add "
+"padding on the left side and so on. <br /><small>Note: Do not forget to "
+"enter the unit too.</small>"
+msgstr ""
+
+#: customizer/options/general-options.php:76
+msgid "Offset Breakpoint"
+msgstr ""
+
+#: customizer/options/general-options.php:77
+msgid "Select from which device you want to remove the offset."
+msgstr ""
+
+#: customizer/options/general-options.php:81
+#: includes/widgets/site/nav-menu.php:206
+msgid "Tablet"
+msgstr ""
+
+#: customizer/options/general-options.php:82
+#: customizer/options/header-options.php:342
+#: customizer/options/header-options.php:398
+#: includes/widgets/site/nav-menu.php:207
+#: includes/widgets/site/nav-menu.php:690
+msgid "Mobile"
+msgstr ""
+
+#: customizer/options/general-options.php:95
+#: customizer/options/general-options.php:100
+msgid "Custom Sidebar"
+msgstr ""
+
+#: customizer/options/general-options.php:96
+msgid ""
+"Create new sidebars and use them later via the page builder for different "
+"areas."
+msgstr ""
+
+#: customizer/options/general-options.php:102
+msgid "Add new sidebar area"
+msgstr ""
+
+#: customizer/options/general-options.php:107
+msgid "Sidebar Title"
+msgstr ""
+
+#: customizer/options/general-options.php:112
+msgid "Sidebar Description"
+msgstr ""
+
+#: customizer/options/general-options.php:120
+#: customizer/options/general-options.php:125
+#: includes/widgets/site/site-logo.php:104
+msgid "Image Size"
+msgstr ""
+
+#: customizer/options/general-options.php:121
+msgid ""
+"Create new image sizes, if you leave height blank it will be set to auto. "
+"<br /> <small>Note: Enter only the number without unit, it's represented in "
+"pixels.</small>"
+msgstr ""
+
+#: customizer/options/general-options.php:127
+msgid "Add new image size"
+msgstr ""
+
+#: customizer/options/general-options.php:137
+#: customizer/options/header-options.php:240
+#: customizer/options/shop-options.php:307 includes/plugin.php:489
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:136
+#: includes/widgets/site/nav-menu.php:496
+#: includes/widgets/site/site-logo.php:172
+msgid "Width"
+msgstr ""
+
+#: customizer/options/general-options.php:141
+#: customizer/options/header-options.php:259
+#: customizer/options/utility-options.php:227
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:137
+#: includes/widgets/media-gallery/base.php:524
+#: includes/widgets/posts/base.php:927 includes/widgets/progress-bar.php:122
+msgid "Height"
+msgstr ""
+
+#: customizer/options/header-options.php:8
+#: includes/core/library/documents/header.php:58
+msgid "Header"
+msgstr ""
+
+#: customizer/options/header-options.php:12
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:23
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:16
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:23
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:517
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:499
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:467
+#: includes/widgets/media-gallery/base.php:92
+#: includes/widgets/media-gallery/base.php:360
+#: includes/widgets/posts/base.php:107 includes/widgets/posts/base.php:518
+#: includes/widgets/site/nav-menu.php:138
+msgid "Layout"
+msgstr ""
+
+#: customizer/options/header-options.php:17
+msgid "Logo"
+msgstr ""
+
+#: customizer/options/header-options.php:22
+#: customizer/options/utility-options.php:28
+msgid "Search"
+msgstr ""
+
+#: customizer/options/header-options.php:27
+msgid "Top Header"
+msgstr ""
+
+#: customizer/options/header-options.php:33
+msgid "Shopping Cart"
+msgstr ""
+
+#: customizer/options/header-options.php:44
+msgid ""
+"Show or hide the classic header in your website, default is show. <br /"
+"><small>Note: You'll still be able to place header templates.</small>"
+msgstr ""
+
+#: customizer/options/header-options.php:56
+msgid ""
+"Select the header type. <br /> <small>Note: Make sure to create templates "
+"with Elementor as header type.</small>"
+msgstr ""
+
+#: customizer/options/header-options.php:68
+msgid "Select the header template."
+msgstr ""
+
+#: customizer/options/header-options.php:84
+msgid ""
+"Select the header skin, the default is dark. <br /> <small>Note: Light skin "
+"means white logo text and white menu.</small>"
+msgstr ""
+
+#: customizer/options/header-options.php:107
+#: customizer/options/utility-options.php:380
+msgid "Position"
+msgstr ""
+
+#: customizer/options/header-options.php:108
+msgid ""
+"Select the header position, the default is static. <br /> <small>Note: "
+"Absolute header will push the content to the top of page.</small>"
+msgstr ""
+
+#: customizer/options/header-options.php:113
+msgid "Absolute"
+msgstr ""
+
+#: customizer/options/header-options.php:119
+msgid "Transparency"
+msgstr ""
+
+#: customizer/options/header-options.php:120
+msgid ""
+"Select the header transparency. <br /> <small>Note: Sticky will stay fixed "
+"in scroll.</small>"
+msgstr ""
+
+#: customizer/options/header-options.php:124
+#: includes/widgets/media-gallery/base.php:930
+#: includes/widgets/media-gallery/base.php:1350
+#: includes/widgets/posts/base.php:1575 includes/widgets/posts/base.php:2744
+#: includes/widgets/site/hamburger.php:169
+#: includes/widgets/site/nav-menu.php:285
+#: includes/widgets/site/nav-menu.php:430
+#: includes/widgets/site/nav-menu.php:773
+#: includes/widgets/site/nav-menu.php:898
+#: includes/widgets/site/search-form.php:168
+msgid "Normal"
+msgstr ""
+
+#: customizer/options/header-options.php:125
+msgid "Sticky"
+msgstr ""
+
+#: customizer/options/header-options.php:131
+msgid "Sticky Template"
+msgstr ""
+
+#: customizer/options/header-options.php:132
+msgid "Select the header template that will be used as sticky."
+msgstr ""
+
+#: customizer/options/header-options.php:151
+msgid "Autohide"
+msgstr ""
+
+#: customizer/options/header-options.php:152
+msgid ""
+"Switch on if you want to activate the autohide header. The header will be "
+"hidden when scrolling down, it will appear only when user scrolls up. <br /> "
+"<small>Note: This option is valid only when Sticky is selected as "
+"transparency.</small>"
+msgstr ""
+
+#: customizer/options/header-options.php:171
+msgid ""
+"Select if you want to use container holder for the header. <br /> "
+"<small>Note: By selecting off, the header will push into left and right.</"
+"small>"
+msgstr ""
+
+#: customizer/options/header-options.php:197
+msgid "Upload your dark logo, will be used as dark logo in dark skin."
+msgstr ""
+
+#: customizer/options/header-options.php:219
+msgid "Upload your light logo, will be used as white logo in light skin."
+msgstr ""
+
+#: customizer/options/header-options.php:241
+msgid ""
+"Enter the number that will change the logo image width. <br /><small>Note: "
+"Enter only the number without {px}.</small>"
+msgstr ""
+
+#: customizer/options/header-options.php:260
+msgid ""
+"Enter the number that will change the logo image height. <br /><small>Note: "
+"Enter only the number without {px}."
+msgstr ""
+
+#: customizer/options/header-options.php:278
+msgid "Text"
+msgstr ""
+
+#: customizer/options/header-options.php:279
+msgid ""
+"Enter the text that will appear as logo, incase you don't upload any image "
+"as logo."
+msgstr ""
+
+#: customizer/options/header-options.php:297
+msgid "Text Size"
+msgstr ""
+
+#: customizer/options/header-options.php:298
+msgid ""
+"Enter the number to change the logo text font size. <br /><small>Note: Enter "
+"only the number without {px}.</small."
+msgstr ""
+
+#: customizer/options/header-options.php:319
+msgid "Select the visibility of the search."
+msgstr ""
+
+#: customizer/options/header-options.php:343
+msgid ""
+"Select the visibility of the search in mobile screens(991px and smaller)."
+msgstr ""
+
+#: customizer/options/header-options.php:375
+msgid "Select the visibility of the shopping cart."
+msgstr ""
+
+#: customizer/options/header-options.php:399
+msgid ""
+"Select the visibility of the shopping cart in mobile screens(991px and "
+"smaller)."
+msgstr ""
+
+#: customizer/options/portfolio-options.php:8
+#: customizer/options/utility-options.php:746 functions.php:85
+#: functions.php:138 includes/widgets/posts/base.php:97
+msgid "Portfolio"
+msgstr ""
+
+#: customizer/options/portfolio-options.php:27
+#: customizer/options/typography-options.php:24
+msgid "Portfolio Item"
+msgstr ""
+
+#: customizer/options/portfolio-options.php:106
+msgid "Prefix"
+msgstr ""
+
+#: customizer/options/portfolio-options.php:107
+msgid ""
+"Change the portfolio prefix before the post, e.g. <br /> https://"
+"neuronthemes.com/<b>portfolio</b>/portfolio-1#.<br /> <small>Note: The "
+"default prefix is portfolio. Do not forget to click save changes on the the "
+"permalinks after.</small>"
+msgstr ""
+
+#: customizer/options/portfolio-options.php:229
+#: customizer/options/shop-options.php:263
+#: customizer/options/typography-options.php:605
+#: includes/widgets/media-gallery/base.php:600
+#: includes/widgets/posts/base.php:1003
+msgid "Navigation"
+msgstr ""
+
+#: customizer/options/portfolio-options.php:235
+msgid "Show or hide the navigation on portfolio item."
+msgstr ""
+
+#: customizer/options/portfolio-options.php:246
+#: includes/widgets/media-gallery/base.php:241
+#: includes/widgets/media-gallery/base.php:305
+msgid "Category"
+msgstr ""
+
+#: customizer/options/portfolio-options.php:261
+#: customizer/options/shop-options.php:290
+msgid "Gallery"
+msgstr ""
+
+#: customizer/options/portfolio-options.php:267
+msgid "Select the columns of gallery."
+msgstr ""
+
+#: customizer/options/portfolio-options.php:281
+msgid "Select initial loading animation for gallery."
+msgstr ""
+
+#: customizer/options/shop-options.php:8
+msgid "Shop"
+msgstr ""
+
+#: customizer/options/shop-options.php:27
+#: customizer/options/typography-options.php:32
+#: customizer/options/utility-options.php:747
+#: includes/widgets/posts/base.php:98
+msgid "Product"
+msgstr ""
+
+#: customizer/options/shop-options.php:39
+msgid "Select the type of shop."
+msgstr ""
+
+#: customizer/options/shop-options.php:63
+msgid "Result Count"
+msgstr ""
+
+#: customizer/options/shop-options.php:64
+msgid "Show or hide the result count."
+msgstr ""
+
+#: customizer/options/shop-options.php:75 includes/widgets/posts/base.php:846
+msgid "Catalog Ordering"
+msgstr ""
+
+#: customizer/options/shop-options.php:76
+msgid "Show or hide the catalog ordering."
+msgstr ""
+
+#: customizer/options/shop-options.php:87 includes/widgets/posts/base.php:861
+msgid "Default Order"
+msgstr ""
+
+#: customizer/options/shop-options.php:88 includes/widgets/posts/base.php:862
+msgid "Select which order you want to set default."
+msgstr ""
+
+#: customizer/options/shop-options.php:92 includes/widgets/posts/base.php:865
+#: includes/widgets/posts/shop/orderby.php:6
+msgid "Default sorting"
+msgstr ""
+
+#: customizer/options/shop-options.php:93 includes/widgets/posts/base.php:866
+#: includes/widgets/posts/shop/orderby.php:7
+msgid "Sort by popularity"
+msgstr ""
+
+#: customizer/options/shop-options.php:94 includes/widgets/posts/base.php:867
+#: includes/widgets/posts/shop/orderby.php:8
+msgid "Sort by average rating"
+msgstr ""
+
+#: customizer/options/shop-options.php:95 includes/widgets/posts/base.php:868
+#: includes/widgets/posts/shop/orderby.php:9
+msgid "Sort by newness"
+msgstr ""
+
+#: customizer/options/shop-options.php:96 includes/widgets/posts/base.php:869
+#: includes/widgets/posts/shop/orderby.php:10
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: customizer/options/shop-options.php:97 includes/widgets/posts/base.php:870
+#: includes/widgets/posts/shop/orderby.php:11
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: customizer/options/shop-options.php:110 includes/widgets/posts/base.php:503
+msgid "Posts Per Page"
+msgstr ""
+
+#: customizer/options/shop-options.php:111
+msgid ""
+"Enter the number of products you want to display on the first page, a "
+"pagination will be created if there are more products than this number."
+msgstr ""
+
+#: customizer/options/shop-options.php:122
+msgid "Select the columns of Shop, default is two columns."
+msgstr ""
+
+#: customizer/options/shop-options.php:136
+msgid "Select initial loading animation for products."
+msgstr ""
+
+#: customizer/options/shop-options.php:151
+msgid "Add custom spacing between products."
+msgstr ""
+
+#: customizer/options/shop-options.php:230
+#: customizer/options/shop-options.php:366
+msgid "Thumbnail Size"
+msgstr ""
+
+#: customizer/options/shop-options.php:251
+msgid "Select the placement of sidebar or hide it, default is hidden."
+msgstr ""
+
+#: customizer/options/shop-options.php:264
+msgid "Select the visibility of the navigation."
+msgstr ""
+
+#: customizer/options/shop-options.php:296
+msgid ""
+"Select the alignment of the gallery, if left is selected the content will "
+"move right and vice versa."
+msgstr ""
+
+#: customizer/options/shop-options.php:308
+msgid "Select the width of the gallery."
+msgstr ""
+
+#: customizer/options/shop-options.php:312
+msgid "One Half (1/2)"
+msgstr ""
+
+#: customizer/options/shop-options.php:313
+msgid "Two Third Column (2/3)"
+msgstr ""
+
+#: customizer/options/shop-options.php:314
+msgid "Three Fourth Column (3/4)"
+msgstr ""
+
+#: customizer/options/shop-options.php:323
+msgid "Related"
+msgstr ""
+
+#: customizer/options/shop-options.php:329
+msgid "Select the visibility of the related products."
+msgstr ""
+
+#: customizer/options/shop-options.php:340
+#: includes/widgets/site/menu-cart.php:224
+msgid "Number"
+msgstr ""
+
+#: customizer/options/shop-options.php:341
+msgid "Select how many products you want to display in related section."
+msgstr ""
+
+#: customizer/options/shop-options.php:345
+msgid "1 Product"
+msgstr ""
+
+#: customizer/options/shop-options.php:346
+msgid "2 Products"
+msgstr ""
+
+#: customizer/options/shop-options.php:347
+msgid "3 Products"
+msgstr ""
+
+#: customizer/options/shop-options.php:348
+msgid "4 Products"
+msgstr ""
+
+#: customizer/options/shop-options.php:355
+msgid ""
+"Activate a thumbnail resizer, it will crop all the related products images "
+"to a given width & height. <br /><small>Note: Do not forget to regenerate "
+"thumbnails.</small>"
+msgstr ""
+
+#: customizer/options/social-media.php:22
+msgid "New Window"
+msgstr ""
+
+#: customizer/options/social-media.php:23
+msgid "Enable if you want the social media links to open in a new window."
+msgstr ""
+
+#: customizer/options/social-media.php:37
+msgid "URLs"
+msgstr ""
+
+#: customizer/options/social-media.php:42
+msgid "Facebook URL"
+msgstr ""
+
+#: customizer/options/social-media.php:48
+msgid "Twitter URL"
+msgstr ""
+
+#: customizer/options/social-media.php:54
+msgid "Instagram URL"
+msgstr ""
+
+#: customizer/options/social-media.php:60
+msgid "500px URL"
+msgstr ""
+
+#: customizer/options/social-media.php:66
+msgid "Google Plus URL"
+msgstr ""
+
+#: customizer/options/social-media.php:72
+msgid "Vimeo URL"
+msgstr ""
+
+#: customizer/options/social-media.php:78
+msgid "Dribbble URL"
+msgstr ""
+
+#: customizer/options/social-media.php:84
+msgid "Pinterest URL"
+msgstr ""
+
+#: customizer/options/social-media.php:90
+msgid "Youtube URL"
+msgstr ""
+
+#: customizer/options/social-media.php:96
+msgid "Tumblr URL"
+msgstr ""
+
+#: customizer/options/social-media.php:102
+msgid "Linkedin URL"
+msgstr ""
+
+#: customizer/options/social-media.php:108
+msgid "Behance URL"
+msgstr ""
+
+#: customizer/options/social-media.php:114
+msgid "Flickr URL"
+msgstr ""
+
+#: customizer/options/social-media.php:120
+msgid "Spotify URL"
+msgstr ""
+
+#: customizer/options/social-media.php:126
+msgid "GitHub URL"
+msgstr ""
+
+#: customizer/options/social-media.php:132
+msgid "Houzz URL"
+msgstr ""
+
+#: customizer/options/social-media.php:138
+msgid "StackExchange URL"
+msgstr ""
+
+#: customizer/options/social-media.php:144
+msgid "SoundCloud URL"
+msgstr ""
+
+#: customizer/options/social-media.php:150
+msgid "VK URL"
+msgstr ""
+
+#: customizer/options/style-options.php:17 includes/widgets/countdown.php:339
+#: includes/widgets/posts/base.php:2763 includes/widgets/posts/base.php:2797
+#: includes/widgets/progress-bar.php:155
+#: includes/widgets/site/hamburger.php:187
+#: includes/widgets/site/hamburger.php:218
+#: includes/widgets/site/menu-cart.php:194
+#: includes/widgets/site/nav-menu.php:416
+#: includes/widgets/site/nav-menu.php:713
+#: includes/widgets/site/nav-menu.php:916
+#: includes/widgets/site/nav-menu.php:947
+#: includes/widgets/site/search-form.php:247
+msgid "Background Color"
+msgstr ""
+
+#: customizer/options/style-options.php:18
+msgid "Change the background color of theme."
+msgstr ""
+
+#: customizer/options/style-options.php:25
+msgid "Main Color"
+msgstr ""
+
+#: customizer/options/style-options.php:26
+msgid "Change the color of all main elements."
+msgstr ""
+
+#: customizer/options/style-options.php:33
+msgid "Headings Color"
+msgstr ""
+
+#: customizer/options/style-options.php:34
+msgid "Change the color of all headings."
+msgstr ""
+
+#: customizer/options/style-options.php:41
+msgid "Paragraphs Color"
+msgstr ""
+
+#: customizer/options/style-options.php:42
+msgid "Change the color of all paragraphs."
+msgstr ""
+
+#: customizer/options/style-options.php:49
+#: includes/widgets/media-gallery/base.php:977
+#: includes/widgets/media-gallery/base.php:1067
+#: includes/widgets/media-gallery/base.php:1168
+#: includes/widgets/media-gallery/base.php:1300
+#: includes/widgets/posts/base.php:1790 includes/widgets/posts/base.php:1930
+#: includes/widgets/posts/base.php:2874
+msgid "Border Color"
+msgstr ""
+
+#: customizer/options/style-options.php:50
+msgid "Change the color of the thin borders."
+msgstr ""
+
+#: customizer/options/style-options.php:57
+msgid "Pattern Color"
+msgstr ""
+
+#: customizer/options/style-options.php:58
+msgid "Change the color of the patterns."
+msgstr ""
+
+#: customizer/options/style-options.php:65
+msgid "Warnings Color"
+msgstr ""
+
+#: customizer/options/style-options.php:66
+msgid "Change the color of the warnings."
+msgstr ""
+
+#: customizer/options/style-options.php:73
+msgid "Light Color"
+msgstr ""
+
+#: customizer/options/style-options.php:74
+msgid "Change the color of the light."
+msgstr ""
+
+#: customizer/options/typography-options.php:8
+#: includes/widgets/media-gallery/base.php:1480
+#: includes/widgets/media-gallery/base.php:1550
+#: includes/widgets/media-gallery/base.php:1622
+#: includes/widgets/media-gallery/base.php:1716
+#: includes/widgets/posts/base.php:2000 includes/widgets/posts/base.php:2130
+#: includes/widgets/posts/base.php:2328 includes/widgets/posts/base.php:2409
+#: includes/widgets/posts/base.php:2500 includes/widgets/posts/base.php:2582
+#: includes/widgets/posts/base.php:2651 includes/widgets/posts/base.php:2732
+#: includes/widgets/progress-bar.php:190
+#: includes/widgets/site/search-form.php:223
+#: includes/widgets/site/site-title.php:209
+msgid "Typography"
+msgstr ""
+
+#: customizer/options/typography-options.php:16
+msgid "Headings"
+msgstr ""
+
+#: customizer/options/typography-options.php:20
+#: customizer/options/typography-options.php:247
+msgid "Paragraphs"
+msgstr ""
+
+#: customizer/options/typography-options.php:28
+msgid "Blog Post"
+msgstr ""
+
+#: customizer/options/typography-options.php:40
+#: customizer/options/utility-options.php:16
+msgid "Breadcrumbs"
+msgstr ""
+
+#: customizer/options/typography-options.php:44
+#: customizer/options/utility-options.php:20
+#: customizer/options/utility-options.php:756
+#: customizer/options/utility-options.php:857
+#: includes/core/library/documents/hero.php:58
+msgid "Hero"
+msgstr ""
+
+#: customizer/options/typography-options.php:48
+#: customizer/options/utility-options.php:32
+msgid "Error 404"
+msgstr ""
+
+#: customizer/options/typography-options.php:52
+msgid "Forms"
+msgstr ""
+
+#: customizer/options/typography-options.php:111
+msgid "Primary"
+msgstr ""
+
+#: customizer/options/typography-options.php:112
+msgid "Change the primary font family in theme."
+msgstr ""
+
+#: customizer/options/typography-options.php:124
+msgid "Secondary"
+msgstr ""
+
+#: customizer/options/typography-options.php:125
+msgid "Change the secondary font family in theme."
+msgstr ""
+
+#: customizer/options/typography-options.php:141
+msgid "Heading 1"
+msgstr ""
+
+#: customizer/options/typography-options.php:158
+msgid "Heading 2"
+msgstr ""
+
+#: customizer/options/typography-options.php:175
+msgid "Heading 3"
+msgstr ""
+
+#: customizer/options/typography-options.php:192
+msgid "Heading 4"
+msgstr ""
+
+#: customizer/options/typography-options.php:209
+msgid "Heading 5"
+msgstr ""
+
+#: customizer/options/typography-options.php:226
+msgid "Heading 6"
+msgstr ""
+
+#: customizer/options/typography-options.php:285
+#: customizer/options/typography-options.php:643
+#: customizer/options/utility-options.php:582
+#: customizer/options/utility-options.php:594
+#: includes/widgets/media-gallery/base.php:236
+#: includes/widgets/media-gallery/base.php:300
+#: includes/widgets/media-gallery/base.php:1529
+msgid "Subtitle"
+msgstr ""
+
+#: customizer/options/typography-options.php:303
+msgid "Tabs"
+msgstr ""
+
+#: customizer/options/typography-options.php:308
+msgid "Tab Title"
+msgstr ""
+
+#: customizer/options/typography-options.php:325
+msgid "Tab Content"
+msgstr ""
+
+#: customizer/options/typography-options.php:342
+msgid "Tab Link"
+msgstr ""
+
+#: customizer/options/typography-options.php:418
+#: includes/widgets/posts/base.php:816 includes/widgets/posts/base.php:2465
+msgid "Price"
+msgstr ""
+
+#: customizer/options/typography-options.php:455
+msgid "Product Tabs"
+msgstr ""
+
+#: customizer/options/typography-options.php:460
+msgid "Menu Title"
+msgstr ""
+
+#: customizer/options/typography-options.php:477
+msgid "Panel Title"
+msgstr ""
+
+#: customizer/options/typography-options.php:494
+msgid "Attribute Title"
+msgstr ""
+
+#: customizer/options/typography-options.php:511
+msgid "Attribute Content"
+msgstr ""
+
+#: customizer/options/typography-options.php:549
+msgid "List"
+msgstr ""
+
+#: customizer/options/typography-options.php:566
+msgid "Tag Cloud"
+msgstr ""
+
+#: customizer/options/typography-options.php:702
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:626
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:621
+msgid "Label"
+msgstr ""
+
+#: customizer/options/typography-options.php:719
+msgid "Input"
+msgstr ""
+
+#: customizer/options/typography-options.php:736
+msgid "Button"
+msgstr ""
+
+#: customizer/options/typography-options.php:754
+msgid "Site Search"
+msgstr ""
+
+#: customizer/options/utility-options.php:8
+msgid "Utility"
+msgstr ""
+
+#: customizer/options/utility-options.php:24
+msgid "To Top"
+msgstr ""
+
+#: customizer/options/utility-options.php:40
+msgid "Page Title"
+msgstr ""
+
+#: customizer/options/utility-options.php:41
+msgid "Show or hide the title on pages."
+msgstr ""
+
+#: customizer/options/utility-options.php:52
+msgid "Post Title"
+msgstr ""
+
+#: customizer/options/utility-options.php:53
+msgid "Show or hide the title on posts."
+msgstr ""
+
+#: customizer/options/utility-options.php:64
+msgid "Product Title"
+msgstr ""
+
+#: customizer/options/utility-options.php:65
+msgid "Show or hide the title on products."
+msgstr ""
+
+#: customizer/options/utility-options.php:76
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: customizer/options/utility-options.php:77
+msgid "Show or hide the title on portfolio items."
+msgstr ""
+
+#: customizer/options/utility-options.php:90
+msgid "Separator"
+msgstr ""
+
+#: customizer/options/utility-options.php:91
+msgid "Enter the text that will appear as separator between each breadcrumb."
+msgstr ""
+
+#: customizer/options/utility-options.php:97
+msgid "Page Visibility"
+msgstr ""
+
+#: customizer/options/utility-options.php:98
+msgid "Show or hide the breadcrumb in pages."
+msgstr ""
+
+#: customizer/options/utility-options.php:109
+msgid "Post Visibility"
+msgstr ""
+
+#: customizer/options/utility-options.php:110
+msgid "Show or hide the breadcrumb in posts."
+msgstr ""
+
+#: customizer/options/utility-options.php:122
+msgid "Product Visibility"
+msgstr ""
+
+#: customizer/options/utility-options.php:123
+msgid "Show or hide the breadcrumb in products."
+msgstr ""
+
+#: customizer/options/utility-options.php:136
+msgid "Shop Visibility"
+msgstr ""
+
+#: customizer/options/utility-options.php:137
+msgid "Show or hide the breadcrumb in shop."
+msgstr ""
+
+#: customizer/options/utility-options.php:149
+msgid "Portfolio Item Visibility"
+msgstr ""
+
+#: customizer/options/utility-options.php:150
+msgid "Show or hide the breadcrumb in portfolio items."
+msgstr ""
+
+#: customizer/options/utility-options.php:161
+msgid "Archives Visibility"
+msgstr ""
+
+#: customizer/options/utility-options.php:162
+msgid ""
+"Show or hide the breadcrumb in archives(Categories, Tags, Custom Taxonomies)."
+msgstr ""
+
+#: customizer/options/utility-options.php:176
+msgid "Settings"
+msgstr ""
+
+#: customizer/options/utility-options.php:182
+msgid ""
+"Show or hide the hero, all posts and pages will have the option to inherit "
+"this value or set it individually."
+msgstr ""
+
+#: customizer/options/utility-options.php:194
+msgid ""
+"Select the type of hero. <br /><small>Note: Do not forget to add heroes in "
+"Elementor Templates.</small>"
+msgstr ""
+
+#: customizer/options/utility-options.php:213
+msgid "Select the template."
+msgstr ""
+
+#: customizer/options/utility-options.php:228
+msgid ""
+"Enter the height, do not forget to add the unit too, for example px/vh/rem/"
+"em/%."
+msgstr ""
+
+#: customizer/options/utility-options.php:243
+msgid "Select if you want the hero to be boxed in 1140px width or not."
+msgstr ""
+
+#: customizer/options/utility-options.php:262
+msgid "Select the text alignment of the hero."
+msgstr ""
+
+#: customizer/options/utility-options.php:267
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: includes/widgets/media-gallery/base.php:1437
+#: includes/widgets/media-gallery/base.php:1506
+#: includes/widgets/media-gallery/base.php:1575
+#: includes/widgets/media-gallery/base.php:1647
+#: includes/widgets/media-gallery/base.php:1753
+#: includes/widgets/posts/base.php:1533 includes/widgets/posts/base.php:2031
+#: includes/widgets/posts/base.php:2270 includes/widgets/posts/base.php:2353
+#: includes/widgets/posts/base.php:2446 includes/widgets/posts/base.php:2525
+#: includes/widgets/posts/base.php:2688 includes/widgets/posts/base.php:2956
+#: includes/widgets/site/hamburger.php:109
+#: includes/widgets/site/menu-cart.php:113
+#: includes/widgets/site/nav-menu.php:160
+#: includes/widgets/site/nav-menu.php:243
+#: includes/widgets/site/search-form.php:118
+#: includes/widgets/site/site-logo.php:121
+#: includes/widgets/site/site-title.php:234
+#: includes/widgets/typed-heading.php:198
+msgid "Center"
+msgstr ""
+
+#: customizer/options/utility-options.php:284
+#: customizer/options/utility-options.php:296
+#: customizer/options/utility-options.php:768
+#: customizer/options/utility-options.php:862
+#: includes/widgets/media-gallery/base.php:222
+#: includes/widgets/media-gallery/base.php:286
+#: includes/widgets/media-gallery/base.php:891
+#: includes/widgets/site/site-logo.php:92
+msgid "Image"
+msgstr ""
+
+#: customizer/options/utility-options.php:297
+msgid "Select the image you want to display as hero background image."
+msgstr ""
+
+#: customizer/options/utility-options.php:301
+msgid "Use the post/page featured image"
+msgstr ""
+
+#: customizer/options/utility-options.php:302
+#: customizer/options/utility-options.php:316
+msgid "Custom Image"
+msgstr ""
+
+#: customizer/options/utility-options.php:303
+msgid "No Image"
+msgstr ""
+
+#: customizer/options/utility-options.php:317
+msgid ""
+"Upload a custom image which will be displayed in all posts/page heroes, "
+"except those who do not inherit from the option."
+msgstr ""
+
+#: customizer/options/utility-options.php:339
+msgid "Repeat"
+msgstr ""
+
+#: customizer/options/utility-options.php:340
+msgid "Select the image repeat settings."
+msgstr ""
+
+#: customizer/options/utility-options.php:344
+msgid "No Repeat"
+msgstr ""
+
+#: customizer/options/utility-options.php:345
+msgid "Repeat All"
+msgstr ""
+
+#: customizer/options/utility-options.php:346
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: customizer/options/utility-options.php:347
+msgid "Repeat Vertically"
+msgstr ""
+
+#: customizer/options/utility-options.php:360
+msgid "Attachment"
+msgstr ""
+
+#: customizer/options/utility-options.php:361
+msgid "Select the image attachment."
+msgstr ""
+
+#: customizer/options/utility-options.php:365
+msgid "Scroll"
+msgstr ""
+
+#: customizer/options/utility-options.php:366 includes/plugin.php:393
+#: includes/plugin.php:401
+msgid "Fixed"
+msgstr ""
+
+#: customizer/options/utility-options.php:367
+msgid "Local"
+msgstr ""
+
+#: customizer/options/utility-options.php:381
+msgid "Select the image position."
+msgstr ""
+
+#: customizer/options/utility-options.php:385
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: customizer/options/utility-options.php:386
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: customizer/options/utility-options.php:387
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: customizer/options/utility-options.php:388
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: customizer/options/utility-options.php:389
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: customizer/options/utility-options.php:390
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: customizer/options/utility-options.php:391
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: customizer/options/utility-options.php:392
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: customizer/options/utility-options.php:393
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: customizer/options/utility-options.php:406 includes/plugin.php:643
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: includes/widgets/media-gallery/base.php:1404
+#: includes/widgets/site/hamburger.php:128
+#: includes/widgets/site/menu-cart.php:143
+#: includes/widgets/site/menu-cart.php:205
+#: includes/widgets/site/nav-menu.php:614
+#: includes/widgets/site/nav-menu.php:865
+#: includes/widgets/site/search-form.php:137
+#: includes/widgets/site/site-title.php:148
+msgid "Size"
+msgstr ""
+
+#: customizer/options/utility-options.php:407
+#: includes/widgets/site/site-logo.php:105
+msgid "Select the image size."
+msgstr ""
+
+#: customizer/options/utility-options.php:411
+#: includes/widgets/media-gallery/base.php:528
+#: includes/widgets/posts/base.php:931
+msgid "Auto"
+msgstr ""
+
+#: customizer/options/utility-options.php:412
+msgid "Cover"
+msgstr ""
+
+#: customizer/options/utility-options.php:413
+msgid "Contain"
+msgstr ""
+
+#: customizer/options/utility-options.php:414
+msgid "Initial"
+msgstr ""
+
+#: customizer/options/utility-options.php:427
+#: customizer/options/utility-options.php:778
+#: customizer/options/utility-options.php:872
+#: includes/widgets/site/search-form.php:214
+msgid "Overlay"
+msgstr ""
+
+#: customizer/options/utility-options.php:428
+#: customizer/options/utility-options.php:779
+#: customizer/options/utility-options.php:873
+msgid "Show an overlay for the background image."
+msgstr ""
+
+#: customizer/options/utility-options.php:446
+#: customizer/options/utility-options.php:790
+#: customizer/options/utility-options.php:884
+msgid "Overlay Opacity"
+msgstr ""
+
+#: customizer/options/utility-options.php:447
+#: customizer/options/utility-options.php:791
+#: customizer/options/utility-options.php:885
+msgid ""
+"Enter the number of overlay opacity, the number can be in range of 0 and 1."
+msgstr ""
+
+#: customizer/options/utility-options.php:471
+#: customizer/options/utility-options.php:810
+#: customizer/options/utility-options.php:904
+msgid "Overlay Color"
+msgstr ""
+
+#: customizer/options/utility-options.php:472
+#: customizer/options/utility-options.php:811
+#: customizer/options/utility-options.php:905
+msgid "Select the color of overlay."
+msgstr ""
+
+#: customizer/options/utility-options.php:506
+msgid "Select the title you want to display in the hero."
+msgstr ""
+
+#: customizer/options/utility-options.php:510
+msgid "Use the post/page title"
+msgstr ""
+
+#: customizer/options/utility-options.php:511
+#: includes/widgets/site/site-title.php:105
+msgid "Custom Title"
+msgstr ""
+
+#: customizer/options/utility-options.php:512
+msgid "No Title"
+msgstr ""
+
+#: customizer/options/utility-options.php:525
+#: customizer/options/utility-options.php:613
+msgid "Editor"
+msgstr ""
+
+#: customizer/options/utility-options.php:526
+msgid "Enter the title, it accepts html tags too."
+msgstr ""
+
+#: customizer/options/utility-options.php:545
+msgid "Select initial loading animation for the title."
+msgstr ""
+
+#: customizer/options/utility-options.php:564
+#: customizer/options/utility-options.php:652 includes/plugin.php:618
+#: includes/widgets/countdown.php:413 includes/widgets/countdown.php:442
+#: includes/widgets/media-gallery/base.php:1357
+#: includes/widgets/media-gallery/base.php:1378
+#: includes/widgets/media-gallery/base.php:1467
+#: includes/widgets/media-gallery/base.php:1537
+#: includes/widgets/media-gallery/base.php:1610
+#: includes/widgets/media-gallery/base.php:1692
+#: includes/widgets/posts/base.php:1983 includes/widgets/posts/base.php:2115
+#: includes/widgets/posts/base.php:2316 includes/widgets/posts/base.php:2397
+#: includes/widgets/posts/base.php:2487 includes/widgets/posts/base.php:2570
+#: includes/widgets/posts/base.php:2627 includes/widgets/posts/base.php:2751
+#: includes/widgets/posts/base.php:2784 includes/widgets/progress-bar.php:144
+#: includes/widgets/site/hamburger.php:176
+#: includes/widgets/site/hamburger.php:207
+#: includes/widgets/site/menu-cart.php:132
+#: includes/widgets/site/menu-cart.php:183
+#: includes/widgets/site/nav-menu.php:601
+#: includes/widgets/site/nav-menu.php:905
+#: includes/widgets/site/nav-menu.php:936
+#: includes/widgets/site/search-form.php:175
+#: includes/widgets/site/search-form.php:196
+#: includes/widgets/site/site-title.php:197
+msgid "Color"
+msgstr ""
+
+#: customizer/options/utility-options.php:565
+msgid ""
+"Change the text color of title. <br /><small>Note: The default color is "
+"#232931.</small>"
+msgstr ""
+
+#: customizer/options/utility-options.php:595
+msgid "Select if you want to inherit the subtitle or set it custom.."
+msgstr ""
+
+#: customizer/options/utility-options.php:599
+msgid "Breadcrumb"
+msgstr ""
+
+#: customizer/options/utility-options.php:600
+#: includes/widgets/site/site-title.php:96
+msgid "Custom"
+msgstr ""
+
+#: customizer/options/utility-options.php:614
+msgid "Enter the subtitle, it accepts html tags too."
+msgstr ""
+
+#: customizer/options/utility-options.php:633
+msgid "Select initial loading animation for the subtitle."
+msgstr ""
+
+#: customizer/options/utility-options.php:653
+msgid ""
+"Change the text color of subtitle. <br /><small>Note: The default color is "
+"#858585.</small>"
+msgstr ""
+
+#: customizer/options/utility-options.php:673
+msgid "Show or hide the to top button."
+msgstr ""
+
+#: customizer/options/utility-options.php:685
+msgid "Select the skin of the to top button."
+msgstr ""
+
+#: customizer/options/utility-options.php:697
+msgid "Select the animation of to the top button."
+msgstr ""
+
+#: customizer/options/utility-options.php:713
+msgid "Select the columns of the search page."
+msgstr ""
+
+#: customizer/options/utility-options.php:727
+msgid "Select the sidebar placement in the search page or hide it."
+msgstr ""
+
+#: customizer/options/utility-options.php:739
+#: includes/widgets/posts/base.php:92
+msgid "Post Type"
+msgstr ""
+
+#: customizer/options/utility-options.php:740
+msgid "Select the included post types in the search page."
+msgstr ""
+
+#: customizer/options/utility-options.php:745
+msgid "Page"
+msgstr ""
+
+#: customizer/options/utility-options.php:762
+msgid "Enter the content that will appear below the title"
+msgstr ""
+
+#: customizer/options/utility-options.php:769
+msgid "Upload an image to the hero of the search page."
+msgstr ""
+
+#: customizer/options/utility-options.php:829
+msgid "Default: <small>404</small>"
+msgstr ""
+
+#: customizer/options/utility-options.php:835
+#: includes/widgets/media-gallery/base.php:253
+#: includes/widgets/media-gallery/base.php:317
+#: includes/widgets/media-gallery/base.php:1599
+msgid "Description"
+msgstr ""
+
+#: customizer/options/utility-options.php:836
+msgid ""
+"Default: <small>The page you were looking for couldn't be found. The page "
+"could be removed or you misspelled the word while searching for it.</small>"
+msgstr ""
+
+#: customizer/options/utility-options.php:842
+msgid "Button Url"
+msgstr ""
+
+#: customizer/options/utility-options.php:843
+msgid "Default: <small>The home directory.</small>"
+msgstr ""
+
+#: customizer/options/utility-options.php:849
+msgid "Button Text"
+msgstr ""
+
+#: customizer/options/utility-options.php:850
+msgid "Default: <small>Back to Homepage</small>"
+msgstr ""
+
+#: customizer/options/utility-options.php:863
+msgid "Upload an image to the hero of the 404 page."
+msgstr ""
+
+#: functions.php:90
+msgid " Item"
+msgstr ""
+
+#: functions.php:93
+msgid "Add New Item"
+msgstr ""
+
+#: functions.php:94 functions.php:95 functions.php:146
+msgid "Add New "
+msgstr ""
+
+#: functions.php:96 functions.php:144
+msgid "Edit "
+msgstr ""
+
+#: functions.php:97
+msgid "View Item"
+msgstr ""
+
+#: functions.php:98 functions.php:150
+msgid "All "
+msgstr ""
+
+#: functions.php:99 functions.php:151
+msgid "Search "
+msgstr ""
+
+#: functions.php:100 functions.php:148 functions.php:149
+msgid "Parent "
+msgstr ""
+
+#: functions.php:101 functions.php:102 functions.php:156
+msgid "No "
+msgstr ""
+
+#: functions.php:103
+msgid "Filter "
+msgstr ""
+
+#: functions.php:104
+msgid " items list navigation"
+msgstr ""
+
+#: functions.php:105
+msgid " items list"
+msgstr ""
+
+#: functions.php:141 functions.php:143
+msgid " Categories"
+msgstr ""
+
+#: functions.php:142
+msgid " Category"
+msgstr ""
+
+#: functions.php:145
+msgid "Update "
+msgstr ""
+
+#: functions.php:147
+msgid "New "
+msgstr ""
+
+#: functions.php:152
+msgid "Popular "
+msgstr ""
+
+#: functions.php:153
+msgid "Separate "
+msgstr ""
+
+#: functions.php:154
+msgid "Add or remove "
+msgstr ""
+
+#: functions.php:155
+msgid "Choose from the most used "
+msgstr ""
+
+#: functions.php:157
+msgid " categories list navigation"
+msgstr ""
+
+#: functions.php:158
+msgid " categories list"
+msgstr ""
+
+#: functions.php:178 functions.php:180
+msgid "Media Categories"
+msgstr ""
+
+#: functions.php:179
+msgid "Media Category"
+msgstr ""
+
+#: functions.php:181
+msgid "Edit Media Category"
+msgstr ""
+
+#: functions.php:182
+msgid "Update Media Category"
+msgstr ""
+
+#: functions.php:183
+msgid "Add New Media Category"
+msgstr ""
+
+#: functions.php:184
+msgid "New Media Category Name"
+msgstr ""
+
+#: functions.php:185
+msgid "Parent Media Category"
+msgstr ""
+
+#: functions.php:186
+msgid "Parent Media Category:"
+msgstr ""
+
+#: functions.php:187
+msgid "All Media Categories"
+msgstr ""
+
+#: functions.php:188
+msgid "Search Media Categories"
+msgstr ""
+
+#: functions.php:189
+msgid "Popular Media Categories"
+msgstr ""
+
+#: functions.php:190
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: functions.php:191
+msgid "Add or remove media categories"
+msgstr ""
+
+#: functions.php:192
+msgid "Choose from the most used media categories"
+msgstr ""
+
+#: functions.php:193
+msgid "No media categories found."
+msgstr ""
+
+#: functions.php:194
+msgid "Media categories list navigation"
+msgstr ""
+
+#: functions.php:195
+msgid "Media categories list"
+msgstr ""
+
+#: functions.php:273
+msgid "Featured Image"
+msgstr ""
+
+#: includes/plugin.php:301
+msgid "Display"
+msgstr ""
+
+#: includes/plugin.php:304
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:656
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:652
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:507
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:475
+#: includes/widgets/countdown.php:105
+msgid "Block"
+msgstr ""
+
+#: includes/plugin.php:305
+msgid "Flex"
+msgstr ""
+
+#: includes/plugin.php:313
+msgid "Content Orientation"
+msgstr ""
+
+#: includes/plugin.php:318 includes/widgets/site/nav-menu.php:141
+msgid "Horizontal"
+msgstr ""
+
+#: includes/plugin.php:322 includes/widgets/site/nav-menu.php:142
+msgid "Vertical"
+msgstr ""
+
+#: includes/plugin.php:335 includes/plugin.php:357
+msgid "Content Align"
+msgstr ""
+
+#: includes/plugin.php:340 includes/plugin.php:362
+#: includes/widgets/media-gallery/base.php:871
+#: includes/widgets/posts/base.php:1427 includes/widgets/posts/base.php:1487
+msgid "Middle"
+msgstr ""
+
+#: includes/plugin.php:342 includes/plugin.php:364
+#: includes/widgets/countdown.php:371
+msgid "Space Between"
+msgstr ""
+
+#: includes/plugin.php:343 includes/plugin.php:365
+msgid "Space Evenly"
+msgstr ""
+
+#: includes/plugin.php:344 includes/plugin.php:366
+msgid "Space Around"
+msgstr ""
+
+#: includes/plugin.php:361
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: includes/plugins/kirki/field/class-kirki-field-spacing.php:32
+#: includes/widgets/media-gallery/base.php:867
+#: includes/widgets/posts/base.php:1423 includes/widgets/posts/base.php:1483
+msgid "Top"
+msgstr ""
+
+#: includes/plugin.php:363
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: includes/plugins/kirki/field/class-kirki-field-spacing.php:33
+#: includes/widgets/media-gallery/base.php:875
+#: includes/widgets/posts/base.php:1431 includes/widgets/posts/base.php:1491
+msgid "Bottom"
+msgstr ""
+
+#: includes/plugin.php:414
+msgid "Hidden"
+msgstr ""
+
+#: includes/plugin.php:415
+msgid ""
+"<small>Note: Do not forget to place a hamburger to open this section, use "
+"navigator for easier orientation.</small>"
+msgstr ""
+
+#: includes/plugin.php:435
+msgid "Fade In Left"
+msgstr ""
+
+#: includes/plugin.php:436
+msgid "Fade In Right"
+msgstr ""
+
+#: includes/plugin.php:460 includes/plugin.php:537
+msgid "Close Button"
+msgstr ""
+
+#: includes/plugin.php:461
+msgid "If the close button doesn't appears, please refresh the page."
+msgstr ""
+
+#: includes/plugin.php:490
+msgid "Move the slider to set the width of fixed section."
+msgstr ""
+
+#: includes/plugin.php:560
+msgid "Vertical Position"
+msgstr ""
+
+#: includes/plugin.php:589
+msgid "Horizontal Position"
+msgstr ""
+
+#: includes/plugin.php:752
+msgid "Neuron Core"
+msgstr ""
+
+#: includes/plugin.php:761
+msgid "Neuron Site"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/acf-flexible-content.php:41
+msgid "Advanced Custom Fields: Flexible Content Field"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:22
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:25
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:25
+msgid "Flexible Content"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:28
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:31
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:31
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:29
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:215
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:519
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:217
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:487
+msgid "Add Row"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:31
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:34
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:73
+msgid "layout"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:32
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:35
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:74
+msgid "layouts"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:33
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:36
+msgid "remove {layout}?"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:34
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:37
+msgid "This field requires at least {min} {identifier}"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:35
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:38
+msgid "This field has a limit of {max} {identifier}"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:36
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:39
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:77
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:962
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:1044
+#: includes/plugins/acf-flexible-content/includes/5-7/js/input.js:353
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:37
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:40
+msgid "Maximum {label} limit reached ({max} {identifier})"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:38
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:41
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:81
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/acf-flexible-content-field.php:39
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:42
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:82
+#: includes/plugins/acf-flexible-content/includes/5-7/js/input.js:92
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/field.php:71
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:315
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:327
+#, php-format
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:38
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:509
+msgid "New Field"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:39
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:510
+msgid "new_field"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:99
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:657
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:653
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:854
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:508
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:476
+msgid "Row"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:100
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:655
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:651
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:853
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:506
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:474
+msgid "Table"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:259
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:305
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:661
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:706
+#: includes/widgets/countdown.php:183
+#: includes/widgets/media-gallery/base.php:147
+msgid "Yes"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:260
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:306
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:662
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:707
+#: includes/widgets/countdown.php:184
+#: includes/widgets/media-gallery/base.php:148
+msgid "No"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:348
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:749
+msgid "is equal to"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:349
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:750
+msgid "is not equal to"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:373
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:774
+msgid "all"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/4-0/views/options.php:374
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:775
+msgid "any"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:43
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:85
+#: includes/plugins/acf-flexible-content/includes/5-7/js/field-group.js:196
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:639
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:635
+msgid "Name"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:672
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:668
+msgid "Min"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:685
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:681
+msgid "Max"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:712
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:708
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:515
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:483
+msgid "Button Label"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:721
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:717
+msgid "Minimum Layouts"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-0/acf-flexible-content-field.php:730
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:726
+msgid "Maximum Layouts"
+msgstr ""
+
+#: includes/plugins/acf-flexible-content/includes/5-7/acf-flexible-content-field.php:78
+#: includes/plugins/acf-flexible-content/includes/5-7/js/input.js:241
+msgid "This field has a limit of {max} {label} {identifier}"
+msgstr ""
+
+#: includes/plugins/acf-repeater/acf-repeater.php:43
+msgid "Advanced Custom Fields: Repeater Field"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:22
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:25
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:25
+msgid "Repeater"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:32
+msgid "Minimum rows reached ( {min} rows )"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/4-0/acf-repeater-field.php:33
+msgid "Maximum rows reached ( {max} rows )"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:36
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:65
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:680
+#: includes/plugins/acf-repeater/includes/5-7/input.js:247
+msgid "Minimum rows reached ({min} rows)"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:37
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:66
+#: includes/plugins/acf-repeater/includes/5-7/input.js:162
+msgid "Maximum rows reached ({max} rows)"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:468
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:436
+msgid "Collapsed"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:469
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:437
+msgid "Select a sub field to show when row is collapsed"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:479
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:447
+msgid "Minimum Rows"
+msgstr ""
+
+#: includes/plugins/acf-repeater/includes/5-0/acf-repeater-field.php:489
+#: includes/plugins/acf-repeater/includes/5-7/acf-repeater-field.php:457
+msgid "Maximum Rows"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:132
+msgid "No File Selected"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:133
+#: includes/plugins/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimension.php:39
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:123
+msgid "Font Size"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:125
+msgid "Line Height"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:127
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-dimensions.php:128
+msgid "Word Spacing"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-repeater.php:123
+msgid "Select a Page"
+msgstr ""
+
+#: includes/plugins/kirki/controls/php/class-kirki-control-repeater.php:229
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: includes/plugins/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: includes/plugins/kirki/core/class-kirki-field.php:257
+#: includes/plugins/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: includes/plugins/kirki/core/class-kirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: includes/plugins/kirki/core/class-kirki-field.php:498
+#: includes/plugins/kirki/core/class-kirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: includes/plugins/kirki/core/class-kirki-init.php:276
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: includes/plugins/kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: includes/plugins/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: includes/plugins/kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#: includes/plugins/kirki/field/class-kirki-field-image.php:47
+#: includes/plugins/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: includes/plugins/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: includes/plugins/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: includes/plugins/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#: includes/plugins/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: includes/plugins/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:60
+msgid "Customizing"
+msgstr ""
+
+#: includes/plugins/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:63
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:209
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:210
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Light 200"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Light 200 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Book 300"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Book 300 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Normal 400"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Medium 500"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:222
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Bold 700"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:227
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:230
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: includes/plugins/kirki/modules/webfonts/class-kirki-fonts.php:231
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: includes/widgets/countdown.php:37
+msgid "Countdown"
+msgstr ""
+
+#: includes/widgets/countdown.php:92
+msgid "Due Date"
+msgstr ""
+
+#: includes/widgets/countdown.php:95
+#, php-format
+msgid "Date set according to your timezone: %s."
+msgstr ""
+
+#: includes/widgets/countdown.php:102
+msgid "View"
+msgstr ""
+
+#: includes/widgets/countdown.php:106
+msgid "Inline"
+msgstr ""
+
+#: includes/widgets/countdown.php:116 includes/widgets/countdown.php:197
+#: includes/widgets/countdown.php:199 includes/widgets/countdown.php:479
+msgid "Days"
+msgstr ""
+
+#: includes/widgets/countdown.php:129 includes/widgets/countdown.php:226
+#: includes/widgets/countdown.php:228 includes/widgets/countdown.php:484
+msgid "Hours"
+msgstr ""
+
+#: includes/widgets/countdown.php:142 includes/widgets/countdown.php:255
+#: includes/widgets/countdown.php:257 includes/widgets/countdown.php:489
+msgid "Minutes"
+msgstr ""
+
+#: includes/widgets/countdown.php:155 includes/widgets/countdown.php:284
+#: includes/widgets/countdown.php:286 includes/widgets/countdown.php:494
+msgid "Seconds"
+msgstr ""
+
+#: includes/widgets/countdown.php:168 includes/widgets/countdown.php:433
+msgid "Labels"
+msgstr ""
+
+#: includes/widgets/countdown.php:181
+msgid "Custom Labels"
+msgstr ""
+
+#: includes/widgets/countdown.php:315
+msgid "Boxes"
+msgstr ""
+
+#: includes/widgets/countdown.php:323
+msgid "Container Width"
+msgstr ""
+
+#: includes/widgets/countdown.php:359
+#: includes/widgets/media-gallery/base.php:997
+#: includes/widgets/media-gallery/base.php:1087
+#: includes/widgets/media-gallery/base.php:1188
+#: includes/widgets/media-gallery/base.php:1321
+#: includes/widgets/posts/base.php:1810 includes/widgets/posts/base.php:1953
+#: includes/widgets/posts/base.php:2899
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/countdown.php:383
+#: includes/widgets/media-gallery/base.php:912
+#: includes/widgets/media-gallery/base.php:1232
+#: includes/widgets/posts/base.php:1856 includes/widgets/posts/base.php:2933
+#: includes/widgets/site/hamburger.php:233
+#: includes/widgets/site/nav-menu.php:758
+#: includes/widgets/site/nav-menu.php:884
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/countdown.php:405
+msgid "Numbers"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:37
+msgid "Media Gallery"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:93
+#: includes/widgets/posts/base.php:108
+msgid "Select the layout of posts."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:96
+#: includes/widgets/posts/base.php:111
+msgid "Isotope"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:97
+#: includes/widgets/media-gallery/base.php:488
+#: includes/widgets/posts/base.php:112 includes/widgets/posts/base.php:891
+msgid "Carousel"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:106
+#: includes/widgets/posts/base.php:121
+msgid "Layout Type"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:107
+#: includes/widgets/posts/base.php:122
+msgid "Select the layout type of isotope."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:110
+#: includes/widgets/posts/base.php:125
+msgid "Masonry"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:111
+#: includes/widgets/posts/base.php:126
+msgid "Metro"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:112
+#: includes/widgets/posts/base.php:127
+msgid "FitRows"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:130
+#: includes/widgets/posts/base.php:139
+msgid "Layout Model"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:131
+#: includes/widgets/posts/base.php:140
+msgid "Select the layout model."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:144
+msgid "Lightbox"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:145
+msgid ""
+"Enable the lightbox for the images, the images will open in a large "
+"slideshow when clicked."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:172
+#: includes/widgets/media-gallery/base.php:702
+#: includes/widgets/media-gallery/base.php:1669
+#: includes/widgets/posts/base.php:1105 includes/widgets/posts/base.php:1115
+#: includes/widgets/posts/base.php:2604
+msgid "Filters"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:173
+msgid ""
+"Make the media gallery sortable, do not forget to add filters in the "
+"repeater."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:188
+#: includes/widgets/posts/base.php:1128 includes/widgets/posts/base.php:1158
+#: includes/widgets/posts/base.php:1188
+msgid "Filters Query"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:189
+msgid "Add the filters."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:216
+#: includes/widgets/media-gallery/base.php:280
+#: includes/widgets/posts/base.php:214 includes/widgets/posts/base.php:249
+#: includes/widgets/posts/base.php:284 includes/widgets/posts/base.php:322
+#: includes/widgets/posts/base.php:382 includes/widgets/posts/base.php:442
+msgid "Query"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:217
+#: includes/widgets/media-gallery/base.php:281
+msgid "Add images to the gallery."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:248
+#: includes/widgets/media-gallery/base.php:312
+msgid "URL"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:254
+msgid ""
+"Enter the description. <br /><small>Note: Description is not visible on meta "
+"inside.</small>"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:260
+#: includes/widgets/media-gallery/base.php:344
+msgid ""
+"Separate the URL from the icon with two equals ==, also enter a new line for "
+"new social media. <br/> <small><a target=\"_BLANK\" href=\"https://"
+"fontawesome.com/cheatsheet#brands\">Click here to view cheatsheet of icons.</"
+"a></small>"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:322
+#: includes/widgets/posts/base.php:336 includes/widgets/posts/base.php:396
+#: includes/widgets/posts/base.php:456
+msgid "Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:323
+msgid "Select the column of metro."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:327
+#: includes/widgets/posts/base.php:341 includes/widgets/posts/base.php:401
+#: includes/widgets/posts/base.php:461
+msgid "2 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:328
+#: includes/widgets/posts/base.php:342 includes/widgets/posts/base.php:402
+#: includes/widgets/posts/base.php:462
+msgid "3 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:329
+#: includes/widgets/posts/base.php:343 includes/widgets/posts/base.php:403
+#: includes/widgets/posts/base.php:463
+msgid "4 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:330
+#: includes/widgets/posts/base.php:344 includes/widgets/posts/base.php:404
+#: includes/widgets/posts/base.php:464
+msgid "5 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:331
+#: includes/widgets/posts/base.php:345 includes/widgets/posts/base.php:405
+#: includes/widgets/posts/base.php:465
+msgid "6 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:332
+#: includes/widgets/posts/base.php:346 includes/widgets/posts/base.php:406
+#: includes/widgets/posts/base.php:466
+msgid "7 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:333
+#: includes/widgets/posts/base.php:347 includes/widgets/posts/base.php:407
+#: includes/widgets/posts/base.php:467
+msgid "8 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:334
+#: includes/widgets/posts/base.php:348 includes/widgets/posts/base.php:408
+#: includes/widgets/posts/base.php:468
+msgid "9 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:335
+#: includes/widgets/posts/base.php:349 includes/widgets/posts/base.php:409
+#: includes/widgets/posts/base.php:469
+msgid "10 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:336
+#: includes/widgets/posts/base.php:350 includes/widgets/posts/base.php:410
+#: includes/widgets/posts/base.php:470
+msgid "11 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:337
+#: includes/widgets/posts/base.php:351 includes/widgets/posts/base.php:411
+#: includes/widgets/posts/base.php:471
+msgid "12 Column"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:368
+#: includes/widgets/posts/base.php:526
+msgid "Select the columns of the isotope grid."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:375
+#: includes/widgets/posts/base.php:533
+msgid "5 Columns"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:376
+#: includes/widgets/posts/base.php:534
+msgid "6 Columns"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:417
+#: includes/widgets/posts/base.php:584 includes/widgets/site/nav-menu.php:548
+#: includes/widgets/site/nav-menu.php:743
+msgid "Offset"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:418
+#: includes/widgets/posts/base.php:585
+msgid "Activate an offset layout which will set spacing every second post."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:448
+#: includes/widgets/posts/base.php:616
+msgid ""
+"Move the slider to set the value of spacing. <br /><small>Note: The value is "
+"represented in pixels.</small>"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:498
+#: includes/widgets/posts/base.php:901
+msgid "Items"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:499
+#: includes/widgets/posts/base.php:902
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:511
+#: includes/widgets/media-gallery/base.php:899
+#: includes/widgets/media-gallery/base.php:1218
+#: includes/widgets/posts/base.php:914 includes/widgets/posts/base.php:1840
+#: includes/widgets/posts/base.php:2919
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:512
+#: includes/widgets/posts/base.php:915
+msgid "Enter the margin space, number will be represented in pixels."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:525
+#: includes/widgets/posts/base.php:928
+msgid "Set the height of images to auto or full."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:529
+#: includes/widgets/posts/base.php:932
+msgid "Full"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:538
+#: includes/widgets/posts/base.php:941
+msgid "Custom Height"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:564
+#: includes/widgets/posts/base.php:967 includes/widgets/typed-heading.php:102
+msgid "Loop"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:576
+#: includes/widgets/posts/base.php:979
+msgid "Mouse Drag"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:588
+#: includes/widgets/posts/base.php:991
+msgid "Touch Drag"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:612
+#: includes/widgets/posts/base.php:1015
+msgid "Dots"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:624
+#: includes/widgets/posts/base.php:1027
+msgid "Autoplay"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:636
+#: includes/widgets/posts/base.php:1039
+msgid "Pause on mouse house"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:648
+#: includes/widgets/posts/base.php:1051
+msgid "Stage Padding"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:649
+#: includes/widgets/posts/base.php:1052
+msgid "Padding left and right on stage (can see neighbours)."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:661
+#: includes/widgets/posts/base.php:1064
+msgid "Start Position"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:662
+#: includes/widgets/posts/base.php:1065
+msgid "Enter from which element you want to start the position of carousel."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:674
+#: includes/widgets/posts/base.php:1077
+msgid "Auto Play Timeout"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:675
+#: includes/widgets/posts/base.php:1078
+msgid "Autoplay interval timeout, number is represented in seconds."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:687
+#: includes/widgets/posts/base.php:1090
+msgid "Smart Speed"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:688
+#: includes/widgets/posts/base.php:1091
+msgid "Speed Calculate, number is represented in seconds."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:724
+#: includes/widgets/posts/base.php:1218
+msgid "Show All Filter"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:725
+#: includes/widgets/posts/base.php:1219
+msgid "Show a filter which is able to filter all posts."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:737
+#: includes/widgets/posts/base.php:1234
+msgid "String"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:738
+#: includes/widgets/posts/base.php:1235
+msgid "Override the filter 'All'."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:740
+#: includes/widgets/media-gallery/templates/filters.php:16
+#: includes/widgets/posts/base.php:1237
+#: includes/widgets/posts/templates/filters.php:33
+msgid "All"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:766
+#: includes/widgets/posts/base.php:1313
+msgid "Thumbnail Resizer"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:767
+#: includes/widgets/posts/base.php:1314
+msgid ""
+"Activate a thumbnail resizer, it will crop all the images to a given width & "
+"height."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:780
+#: includes/widgets/posts/base.php:1327
+msgid "Thumbnail Sizes"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:781
+#: includes/widgets/posts/base.php:1328
+msgid "Select the thumbnail size."
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:840
+#: includes/widgets/posts/base.php:1396
+msgid "Active Hover"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:854
+#: includes/widgets/media-gallery/base.php:1247
+#: includes/widgets/posts/base.php:1410 includes/widgets/posts/base.php:1873
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:863
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:937
+#: includes/widgets/media-gallery/base.php:1027
+#: includes/widgets/media-gallery/base.php:1127
+#: includes/widgets/media-gallery/base.php:1257
+#: includes/widgets/posts/base.php:1749 includes/widgets/posts/base.php:1883
+#: includes/widgets/posts/base.php:2825
+msgid "Border Type"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:941
+#: includes/widgets/media-gallery/base.php:1031
+#: includes/widgets/media-gallery/base.php:1131
+#: includes/widgets/media-gallery/base.php:1261
+#: includes/widgets/posts/base.php:1753 includes/widgets/posts/base.php:1887
+#: includes/widgets/posts/base.php:2829
+msgid "Solid"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:942
+#: includes/widgets/media-gallery/base.php:1032
+#: includes/widgets/media-gallery/base.php:1132
+#: includes/widgets/media-gallery/base.php:1262
+#: includes/widgets/posts/base.php:1754 includes/widgets/posts/base.php:1888
+#: includes/widgets/posts/base.php:2830
+msgid "Double"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:943
+#: includes/widgets/media-gallery/base.php:1033
+#: includes/widgets/media-gallery/base.php:1133
+#: includes/widgets/media-gallery/base.php:1263
+#: includes/widgets/posts/base.php:1755 includes/widgets/posts/base.php:1889
+#: includes/widgets/posts/base.php:2831
+msgid "Dotted"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:944
+#: includes/widgets/media-gallery/base.php:1034
+#: includes/widgets/media-gallery/base.php:1134
+#: includes/widgets/media-gallery/base.php:1264
+#: includes/widgets/posts/base.php:1756 includes/widgets/posts/base.php:1890
+#: includes/widgets/posts/base.php:2832
+msgid "Dashed"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:945
+#: includes/widgets/media-gallery/base.php:1035
+#: includes/widgets/media-gallery/base.php:1135
+#: includes/widgets/media-gallery/base.php:1265
+#: includes/widgets/posts/base.php:1757 includes/widgets/posts/base.php:1891
+#: includes/widgets/posts/base.php:2833
+msgid "Groove"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:957
+#: includes/widgets/media-gallery/base.php:1047
+#: includes/widgets/media-gallery/base.php:1148
+#: includes/widgets/media-gallery/base.php:1279
+#: includes/widgets/posts/base.php:1770 includes/widgets/posts/base.php:1907
+#: includes/widgets/posts/base.php:2849 includes/widgets/site/nav-menu.php:572
+#: includes/widgets/site/nav-menu.php:669
+msgid "Border Width"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:1009
+#: includes/widgets/media-gallery/base.php:1099
+#: includes/widgets/media-gallery/base.php:1200
+#: includes/widgets/posts/base.php:1822
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:1116
+#: includes/widgets/posts/base.php:1738
+msgid "Post Box"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:1210
+#: includes/widgets/posts/base.php:1832
+msgid "Meta Box"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:1338
+msgid "Icons"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:1389
+msgid "Underline"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:1490
+#: includes/widgets/media-gallery/base.php:1559
+#: includes/widgets/media-gallery/base.php:1631
+#: includes/widgets/media-gallery/base.php:1725
+#: includes/widgets/posts/base.php:2015 includes/widgets/posts/base.php:2144
+#: includes/widgets/posts/base.php:2337 includes/widgets/posts/base.php:2418
+#: includes/widgets/posts/base.php:2509 includes/widgets/posts/base.php:2591
+#: includes/widgets/posts/base.php:2660
+#: includes/widgets/site/site-title.php:218
+msgid "Text Shadow"
+msgstr ""
+
+#: includes/widgets/media-gallery/base.php:1703
+#: includes/widgets/posts/base.php:2638
+msgid "Hover & Active"
+msgstr ""
+
+#: includes/widgets/posts/base.php:37
+msgid "Posts"
+msgstr ""
+
+#: includes/widgets/posts/base.php:93
+msgid ""
+"Select the post type that you want to get on your isotope grid or carousel "
+"slider."
+msgstr ""
+
+#: includes/widgets/posts/base.php:215 includes/widgets/posts/base.php:250
+#: includes/widgets/posts/base.php:285
+msgid ""
+"Select the categories you want to get the posts from. <br /> <small> Note: "
+"If no category is selected all posts will be displayed.</small>"
+msgstr ""
+
+#: includes/widgets/posts/base.php:323 includes/widgets/posts/base.php:383
+#: includes/widgets/posts/base.php:443
+msgid ""
+"Select the posts you want to show in metro. <br /><small>Note: Do not select "
+"the same item two times, it may cause issues.</small>"
+msgstr ""
+
+#: includes/widgets/posts/base.php:330 includes/widgets/posts/base.php:390
+#: includes/widgets/posts/base.php:450
+msgid "Select the post."
+msgstr ""
+
+#: includes/widgets/posts/base.php:337 includes/widgets/posts/base.php:397
+#: includes/widgets/posts/base.php:457
+msgid "Select the post column."
+msgstr ""
+
+#: includes/widgets/posts/base.php:504
+msgid ""
+"Enter the number of posts you want to display on the first page, a "
+"pagination will be created if there are more posts than this number."
+msgstr ""
+
+#: includes/widgets/posts/base.php:831 includes/widgets/posts/base.php:2548
+msgid "Results Count"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1116
+msgid ""
+"Show the categories as filters. Make sure to add the categories in the query "
+"field."
+msgstr ""
+
+#: includes/widgets/posts/base.php:1129 includes/widgets/posts/base.php:1159
+#: includes/widgets/posts/base.php:1189
+msgid ""
+"Select the categories you want to display as filters. <br /> <small>Note: "
+"This option does not affect the query, is created only to display filters on "
+"metro layout type.</small>"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1261 includes/widgets/posts/base.php:2708
+msgid "Pagination"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1272
+msgid "Select the visibility of pagination."
+msgstr ""
+
+#: includes/widgets/posts/base.php:1284
+msgid "Pagination Style"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1285
+msgid ""
+"Select the pagination style, normal is with numbers and arrows and Show More "
+"is with button. "
+msgstr ""
+
+#: includes/widgets/posts/base.php:1288
+msgid "Normal (Links)"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1289
+msgid "Show More (Ajax)"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1419
+msgid "Meta Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1451 includes/widgets/posts/base.php:2157
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1479
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1525
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1596 includes/widgets/posts/base.php:1681
+#: includes/widgets/posts/base.php:2178
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/posts/base.php:1632 includes/widgets/posts/base.php:1706
+msgid "Icon Background Color"
+msgstr ""
+
+#: includes/widgets/posts/base.php:2206
+#: includes/widgets/site/search-form.php:258
+msgid "Icon Size"
+msgstr ""
+
+#: includes/widgets/posts/base.php:2234
+msgid "Icon Spacing"
+msgstr ""
+
+#: includes/widgets/posts/base.php:2426
+msgid "Avatar"
+msgstr ""
+
+#: includes/widgets/posts/base.php:2810
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/widgets/posts/templates/pagination.php:9
+msgid "Show More"
+msgstr ""
+
+#: includes/widgets/progress-bar.php:37
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/widgets/progress-bar.php:93
+msgid "Enter the title of the progress bar."
+msgstr ""
+
+#: includes/widgets/progress-bar.php:95
+msgid "Example Title"
+msgstr ""
+
+#: includes/widgets/progress-bar.php:102 includes/widgets/progress-bar.php:208
+msgid "Percentage"
+msgstr ""
+
+#: includes/widgets/progress-bar.php:103
+msgid "Select the percentage of the progress bar between 1 and 100."
+msgstr ""
+
+#: includes/widgets/progress-bar.php:123
+msgid "Enter the height of the progress bar."
+msgstr ""
+
+#: includes/widgets/progress-bar.php:166
+msgid "Title Color"
+msgstr ""
+
+#: includes/widgets/progress-bar.php:177
+msgid "Percentage Color"
+msgstr ""
+
+#: includes/widgets/site/hamburger.php:37
+msgid "Hamburger"
+msgstr ""
+
+#: includes/widgets/site/hamburger.php:92
+msgid ""
+"<small>This element purpose is to open the menu when you hide the section "
+"via the fixed options.</small>"
+msgstr ""
+
+#: includes/widgets/site/hamburger.php:147
+msgid "Selector"
+msgstr ""
+
+#: includes/widgets/site/hamburger.php:148
+msgid ""
+"Enter which section you'd like to open with this hamburger, if nothing is "
+"set it will open all hidden sections. <br /> <small>Note: Do not enter the "
+"hashtag, only the name of the ID, the ID's in sections can be added in "
+"advanced tab.</small>"
+msgstr ""
+
+#: includes/widgets/site/hamburger.php:150
+msgid "a-uniqe-id"
+msgstr ""
+
+#: includes/widgets/site/menu-cart.php:41
+msgid "Menu Cart"
+msgstr ""
+
+#: includes/widgets/site/menu-cart.php:97
+msgid ""
+"Do not forget to select the cart page at WooCommerce > Settings > Advanced."
+msgstr ""
+
+#: includes/widgets/site/menu-cart.php:162
+msgid "Hide Cart Content"
+msgstr ""
+
+#: includes/widgets/site/menu-cart.php:174
+msgid "Badge"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:37
+msgid "Nav Menu"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:105
+msgid ""
+"<strong>If there is any issue on the mega menu or dropdown menu, please "
+"reload the editor.</strong>"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:116
+msgid "Menu"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:121
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus Screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:129
+#, php-format
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a href=\"%s"
+"\" target=\"_blank\">Menus Screen</a> to create one."
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:181
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:192
+msgid "Activate the mobile menu on the mobile devices."
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:202
+msgid "Breakpoint"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:205
+msgid "Desktop"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:220
+msgid "Full Width"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:222
+msgid "Stretch the dropdown of the menu to full width."
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:235
+msgid "Toggle Alignment"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:267
+msgid "Main Menu"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:292
+#: includes/widgets/site/nav-menu.php:314
+#: includes/widgets/site/nav-menu.php:337
+#: includes/widgets/site/nav-menu.php:437
+#: includes/widgets/site/nav-menu.php:458
+#: includes/widgets/site/nav-menu.php:479
+#: includes/widgets/site/nav-menu.php:783
+#: includes/widgets/site/nav-menu.php:810
+#: includes/widgets/site/nav-menu.php:837
+#: includes/widgets/site/search-form.php:231
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:330
+#: includes/widgets/site/nav-menu.php:472
+#: includes/widgets/site/nav-menu.php:827
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:357
+msgid "Horizontal Padding"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:377
+#: includes/widgets/site/nav-menu.php:536
+#: includes/widgets/site/nav-menu.php:727
+msgid "Vertical Padding"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:399
+msgid "Dropdown"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:592
+msgid "Carret"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:632
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/widgets/site/nav-menu.php:857
+msgid "Toggle Icon"
+msgstr ""
+
+#: includes/widgets/site/search-form.php:37
+msgid "Search Form"
+msgstr ""
+
+#: includes/widgets/site/search-form.php:92
+msgid ""
+"<small>If you're experiencing issues while opening the lightbox of the "
+"search, please reload the page on editor or check it on the front-end.</"
+"small>"
+msgstr ""
+
+#: includes/widgets/site/search-form.php:101
+msgid "Placeholder"
+msgstr ""
+
+#: includes/widgets/site/search-form.php:103
+#: includes/widgets/site/search-form.php:295
+msgid "Search..."
+msgstr ""
+
+#: includes/widgets/site/site-logo.php:37
+msgid "Site Logo"
+msgstr ""
+
+#: includes/widgets/site/site-logo.php:140
+#: includes/widgets/site/site-title.php:116
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/site/site-logo.php:144
+#: includes/widgets/site/site-title.php:120
+msgid "Site URL"
+msgstr ""
+
+#: includes/widgets/site/site-logo.php:145
+#: includes/widgets/site/site-title.php:121
+msgid "External URL"
+msgstr ""
+
+#: includes/widgets/site/site-logo.php:154
+#: includes/widgets/site/site-title.php:130
+msgid "External Link"
+msgstr ""
+
+#: includes/widgets/site/site-logo.php:156
+#: includes/widgets/site/site-title.php:132
+msgid "https://neuronthemes.com"
+msgstr ""
+
+#: includes/widgets/site/site-title.php:37
+#: includes/widgets/site/site-title.php:95
+msgid "Site Title"
+msgstr ""
+
+#: includes/widgets/site/site-title.php:167
+#: includes/widgets/typed-heading.php:170
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:37
+msgid "Typed Heading"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:94
+msgid "This is an {{Amazing, Interactive}} Heading."
+msgstr ""
+
+#: includes/widgets/typed-heading.php:95
+msgid ""
+"Add the words inside the double curly brackets, separate the words with "
+"commas. <br /> <small>{{First Word, Second Word, Third Word}}</small>"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:114
+msgid "Cursor Character"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:122
+msgid "Type Speed"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:134
+msgid "Start Delay"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:146
+msgid "Back Delay"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:158
+msgid "Back Speed"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:173
+msgid "H1"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:174
+msgid "H2"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:175
+msgid "H3"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:176
+msgid "H4"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:177
+msgid "H5"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:178
+msgid "H6"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:179
+msgid "div"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:180
+msgid "span"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:181
+msgid "p"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:225
+msgid "Content Color"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:236
+msgid "Typed Color"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:247
+msgid "Typed Background Color"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:259
+msgid "Content Typography"
+msgstr ""
+
+#: includes/widgets/typed-heading.php:268
+msgid "Typed Typography"
+msgstr ""

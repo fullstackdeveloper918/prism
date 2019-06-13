@@ -1,0 +1,148 @@
+.bc-welcome {
+	display: flex;
+	flex-direction: column;
+	max-width: 860px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.bc-welcome__content {
+	padding: 20px;
+	background-color: var(--color-white);
+	position: relative;
+
+	@media (--viewport-wpadmin) {
+		padding: 40px;
+	}
+
+	@media (--viewport-xlarge) {
+		padding: 64px 60px;
+	}
+
+	&-title {
+		color: var(--color-bc-black);
+		font-size: 2em;
+		font-weight: var(--font-weight-thin);
+		line-height: 1.25;
+		margin: 18px 0 22px;
+
+		@media (--viewport-medium) {
+			font-size: 3em;
+			line-height: 1.1;
+		}
+	}
+
+	p {
+		font-size: 0.938em;
+		line-height: 1.44;
+		margin: 0;
+		font-weight: var(--font-weight-thin);
+
+		@media (--viewport-medium) {
+			font-size: var(--font-size-content-xl);
+		}
+	}
+}
+
+.bc-welcome__content-wrap {
+	width: 100%;
+	box-sizing: border-box;
+
+	* {
+		box-sizing: border-box;
+	}
+
+	@media (--viewport-wpadmin) {
+		max-width: 410px;
+	}
+}
+
+.bc-welcome__btn-group {
+	display: flex;
+	flex-wrap: wrap;
+
+	.bc-admin-btn {
+		margin-top: 30px;
+		margin-bottom: 20px;
+		padding-left: 18px;
+		padding-right: 18px;
+
+		&:not(:last-child) {
+			margin-right: 10px;
+		}
+	}
+
+	.bc-welcome__content-wrap + & {
+		margin-top: 40px;
+	}
+
+	.bigcommerce_product_page_bigcommerce_welcome & .bc-admin-btn--outline {
+		background-color: var(--color-white);
+
+		&:hover,
+		&:focus {
+			background-color: var(--color-bc-doger-blue);
+		}
+	}
+}
+
+.bc-welcome__alt-actions {
+	margin-top: 20px;
+}
+
+.bc-welcome--aside {
+	display: none;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+
+	@media (--viewport-wpadmin) {
+		display: block;
+		width: 36%;
+	}
+
+	@media (min-width: 880px) {
+		max-width: 362px;
+		width: 40%;
+	}
+}
+
+.bc-welcome-image {
+	margin: 0;
+
+	img {
+		display: block;
+		max-width: 362px;
+		height: auto;
+		width: 100%;
+	}
+}
+
+.bc-welcome__notice {
+	background-color: var(--color-off-white);
+	margin-bottom: 20px;
+	padding: 36px 30px;
+
+	@media (--viewport-large) {
+		padding-right: 12.5%;
+	}
+}
+
+.bc-welcome__notice {
+
+	&-title {
+		font-size: 1.375em;
+		font-weight: var(--font-weight-medium);
+		line-height: 1.32;
+		margin: 0;
+
+		+ p {
+			margin-top: 2px;
+		}
+	}
+
+	p {
+		font-size: var(--font-size-content);
+		line-height: var(--line-height-base);
+	}
+}

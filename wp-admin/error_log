@@ -1,0 +1,68 @@
+[18-Apr-2019 02:01:10 UTC] wizard_viewed
+[18-Apr-2019 02:02:08 UTC] wizard_started
+[18-Apr-2019 02:02:30 UTC] wizard_step_completed
+[18-Apr-2019 02:02:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function mm_jpo_step_complete(), 1 passed in /home1/prismav6/public_html/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php:702
+Stack trace:
+#0 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(288): mm_jpo_step_complete('title')
+#1 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/prismav6/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/automattic/jetpack-onboarding/class.jetpack-onboarding-end-points.php(450): do_action('jpo_step_comple...', 'title', Array)
+#4 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(286): Jetpack_Onboarding_EndPoints::step_complete('')
+#5 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array) in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[18-Apr-2019 02:02:31 UTC] wizard_step_viewed
+[18-Apr-2019 02:02:43 UTC] wizard_step_viewed
+[18-Apr-2019 02:02:43 UTC] wizard_step_completed
+[18-Apr-2019 02:02:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function mm_jpo_step_complete(), 1 passed in /home1/prismav6/public_html/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php:702
+Stack trace:
+#0 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(288): mm_jpo_step_complete('is-blog')
+#1 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/prismav6/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/automattic/jetpack-onboarding/class.jetpack-onboarding-end-points.php(450): do_action('jpo_step_comple...', 'is-blog', Array)
+#4 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(286): Jetpack_Onboarding_EndPoints::step_complete('')
+#5 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Ar in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[18-Apr-2019 02:02:48 UTC] wizard_step_completed
+[18-Apr-2019 02:02:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function mm_jpo_step_complete(), 1 passed in /home1/prismav6/public_html/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php:702
+Stack trace:
+#0 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(288): mm_jpo_step_complete('homepage')
+#1 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/prismav6/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/automattic/jetpack-onboarding/class.jetpack-onboarding-end-points.php(450): do_action('jpo_step_comple...', 'homepage', Array)
+#4 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(286): Jetpack_Onboarding_EndPoints::step_complete('')
+#5 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('',  in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[18-Apr-2019 02:02:49 UTC] wizard_step_viewed
+[18-Apr-2019 02:03:12 UTC] wizard_step_viewed
+[18-Apr-2019 02:03:12 UTC] wizard_step_completed
+[18-Apr-2019 02:03:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function mm_jpo_step_complete(), 1 passed in /home1/prismav6/public_html/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php:702
+Stack trace:
+#0 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(288): mm_jpo_step_complete('contact-page')
+#1 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/prismav6/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/automattic/jetpack-onboarding/class.jetpack-onboarding-end-points.php(450): do_action('jpo_step_comple...', 'contact-page', Array)
+#4 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(286): Jetpack_Onboarding_EndPoints::step_complete('')
+#5 /home1/prismav6/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filt in /home1/prismav6/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[18-Apr-2019 02:03:14 UTC] contact_page_built
+[18-Apr-2019 02:03:50 UTC] PHP Notice:  Constant WP_CRON_LOCK_TIMEOUT already defined in /home1/prismav6/public_html/wp-config.php on line 91
+[18-Apr-2019 02:03:50 UTC] PHP Notice:  Constant AUTOSAVE_INTERVAL already defined in /home1/prismav6/public_html/wp-config.php on line 92
+[18-Apr-2019 02:03:50 UTC] PHP Notice:  Constant WP_POST_REVISIONS already defined in /home1/prismav6/public_html/wp-config.php on line 93
+[18-Apr-2019 02:03:50 UTC] PHP Notice:  Constant EMPTY_TRASH_DAYS already defined in /home1/prismav6/public_html/wp-config.php on line 94
+[19-Apr-2019 23:36:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 01:00:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 01:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 01:29:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 01:29:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 01:55:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 01:59:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 01:59:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 02:12:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 21:27:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 21:30:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 21:57:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 22:50:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 22:52:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Apr-2019 23:02:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[21-Apr-2019 12:20:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[21-Apr-2019 12:22:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[21-Apr-2019 13:44:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Apr-2019 01:15:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Apr-2019 01:26:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Apr-2019 01:35:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/prismav6/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181

@@ -1,0 +1,24 @@
+.elementor-7 .elementor-element.elementor-element-3690fa26 > .elementor-container{max-width:651px;}.elementor-7 .elementor-element.elementor-element-2c320510 .elementor-text-editor{text-align:left;}.elementor-7 .elementor-element.elementor-element-2c320510{display:block;}.elementor-7 .elementor-element.elementor-element-3690fa26:not(.elementor-motion-effects-element-type-background), .elementor-7 .elementor-element.elementor-element-3690fa26 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#ffc8b5;}.elementor-7 .elementor-element.elementor-element-3690fa26{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:240px 0px 300px 0px;}.elementor-7 .elementor-element.elementor-element-3690fa26 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}@media(max-width:1024px){.elementor-7 .elementor-element.elementor-element-2c320510 > .elementor-widget-container{margin:-070px 0px 0px 0px;padding:0px 30px 0px 30px;}.elementor-7 .elementor-element.elementor-element-2c320510{display:block;}.elementor-7 .elementor-element.elementor-element-3690fa26{padding:0300px 50px 150px 50px;}}@media(max-width:499px){.elementor-7 .elementor-element.elementor-element-2c320510 > .elementor-widget-container{margin:-160px 0px 0px 0px;padding:0px 20px 0px 20px;}.elementor-7 .elementor-element.elementor-element-2c320510{display:block;}.elementor-7 .elementor-element.elementor-element-3690fa26{margin-top:0px;margin-bottom:0px;padding:0300px 0px 70px 0px;}}/* Start custom CSS for text-editor, class: .elementor-element-2c320510 */.contact-form label span {color: #ffc8b5;}
+.contact-form label {text-transform: uppercase;}
+input[type='submit']:hover, button:hover, .button:hover {
+    color: #39325f !important;
+    background-color: #dfdbee !important;
+}
+input[type='submit'], button, .button {
+    color: white !important;
+    background-color: #39325f;
+}
+.contact-form textarea {width: 100%; max-width: 600px; background-color: white;}
+.contact-form input[type=email], .contact-form input[type=text], .contact-form input[type=url] {width: 100%; max-width: 600px; background-color: white;}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-2c320510 */.contact-form label span {color: #ffc8b5;}
+.contact-form label {text-transform: uppercase;}
+input[type='submit']:hover, button:hover, .button:hover {
+    color: #39325f !important;
+    background-color: #dfdbee !important;
+}
+input[type='submit'], button, .button {
+    color: white !important;
+    background-color: #39325f;
+}
+.contact-form textarea {width: 100%; max-width: 600px; background-color: white;}
+.contact-form input[type=email], .contact-form input[type=text], .contact-form input[type=url] {width: 100%; max-width: 600px; background-color: white;}/* End custom CSS */

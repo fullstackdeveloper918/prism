@@ -1,0 +1,35 @@
+  
+.imsSetting {
+    background-color: #fff;
+    margin: 15px;
+    padding: 10px;
+}
+.imsSetting td input,table td select {
+    border: 1px solid #ccc;
+    height: 33px;
+     width: 308px;
+}
+
+
+.imsSetting th label{
+  text-align: left;
+  margin-top: 10px;
+}
+
+.imsSetting th label {
+    float: left;
+    font-size: 15px;
+    text-align: left;
+}
+
+.imsSetting td a {
+    margin-left: 10px;
+}
+
+.imsSetting p.submit {
+    margin-top: -6px !important;
+}
+.imsShortcode strong {
+    background: #efef32;
+    padding: 5px;
+}

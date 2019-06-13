@@ -1,0 +1,62 @@
+#elementor-panel-category-wordpress {
+  display: none !important;
+}
+
+.elementor-repeater-row-item-title {
+  text-transform: capitalize;
+}
+
+.elementor-panel .elementor-element {
+  position: relative;
+}
+
+#elementor-panel-elements-wrapper .elementor-element .icon i.neuron-badge:after,
+#elementor-panel-elements-wrapper
+  .elementor-element
+  .icon
+  i[class^='bdt']:after {
+  content: 'Neuron';
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  font-weight: 600;
+  font-size: 9px;
+  text-align: right;
+  padding: 3px 4px 2px;
+  border-width: 0 0 1px 1px;
+  border-style: solid;
+  border-color: #eee;
+  border-bottom-left-radius: 2px;
+  text-transform: uppercase;
+  font-family: 'Open Sans', Roboto, Helvetica, Arial, sans-serif;
+}
+
+#elementor-template-library-filter-toolbar-remote
+  .neuron-template-library-filter-button {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+/* .m-social-media ul {
+  padding: 0;
+  margin: 0;
+}
+.m-social-media ul li {
+  display: inline-block;
+  margin-bottom: 0;
+  margin-left: 2.66667rem;
+  margin-left: 1.5rem;
+}
+.m-social-media ul li:first-child {
+  margin-left: 0 !important;
+}
+.m-social-media ul li a {
+  color: #232931;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.m-social-media ul li a:hover {
+  color: #00a6e7;
+} */

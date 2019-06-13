@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Accordion Pro\n"
+"POT-Creation-Date: 2017-01-18 19:01+0530\n"
+"PO-Revision-Date: 2017-01-18 19:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: wpshopmart\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: accordion-pro.php:70
+msgid "Help and Support"
+msgstr ""
+
+#: ink/admin/add-ac-js-footer.php:5 ink/admin/add-ac.php:31
+#: ink/admin/add-ac.php:65
+msgid "Accordion Title"
+msgstr ""
+
+#: ink/admin/add-ac-js-footer.php:7 ink/admin/add-ac.php:33
+#: ink/admin/add-ac.php:67
+msgid "Accordion Description"
+msgstr ""
+
+#: ink/admin/add-ac-js-footer.php:10 ink/admin/add-ac.php:37
+#: ink/admin/add-ac.php:72
+msgid "Accordion Icon"
+msgstr ""
+
+#: ink/admin/add-ac-js-footer.php:15 ink/admin/add-ac.php:42
+#: ink/admin/add-ac.php:77
+msgid "Display Above Icon"
+msgstr ""
+
+#: ink/admin/add-ac.php:12
+msgid "Add your Accordions Or Faq Here"
+msgstr ""
+
+#: ink/admin/add-ac.php:44 ink/admin/settings.php:337
+#: ink/admin/settings.php:507 ink/admin/settings.php:564
+#: ink/admin/settings.php:894 ink/admin/settings.php:992
+#: ink/admin/settings.php:1014 ink/admin/settings.php:1117
+#: ink/admin/settings.php:1140 ink/admin/settings.php:1161
+msgid "Yes"
+msgstr ""
+
+#: ink/admin/add-ac.php:45 ink/admin/settings.php:339
+#: ink/admin/settings.php:509 ink/admin/settings.php:566
+#: ink/admin/settings.php:896 ink/admin/settings.php:994
+#: ink/admin/settings.php:1016 ink/admin/settings.php:1119
+#: ink/admin/settings.php:1142 ink/admin/settings.php:1163
+msgid "No"
+msgstr ""
+
+#: ink/admin/add-ac.php:94 ink/admin/reg-cpt.php:10 ink/admin/reg-cpt.php:11
+msgid "Add New Accordion"
+msgstr ""
+
+#: ink/admin/add-ac.php:98
+msgid "Delete All"
+msgstr ""
+
+#: ink/admin/designs.php:3
+msgid "Select Your Design "
+msgstr ""
+
+#: ink/admin/designs.php:55
+msgid "Design "
+msgstr ""
+
+#: ink/admin/get-shortcode-plus-css.php:6 ink/admin/menu.php:40
+msgid "Accordion Pro Shortcode"
+msgstr ""
+
+#: ink/admin/get-shortcode-plus-css.php:8
+msgid "Use below shortcode in any Page/Post to publish your Accordion"
+msgstr ""
+
+#: ink/admin/get-shortcode-plus-css.php:34
+msgid "Accordion Pro Dfault Settings Option "
+msgstr ""
+
+#: ink/admin/get-shortcode-plus-css.php:36
+msgid "Add This Accordion settings as default setting for new Accordion"
+msgstr ""
+
+#: ink/admin/get-shortcode-plus-css.php:38
+msgid "Update Default Settings"
+msgstr ""
+
+#: ink/admin/menu.php:39
+msgid "Accordion"
+msgstr ""
+
+#: ink/admin/menu.php:41
+msgid "Date"
+msgstr ""
+
+#: ink/admin/menu.php:57
+msgid "Select Accordion Design"
+msgstr ""
+
+#: ink/admin/menu.php:58
+msgid "Add Accordion"
+msgstr ""
+
+#: ink/admin/menu.php:59
+msgid "Accordion Shortcode"
+msgstr ""
+
+#: ink/admin/menu.php:60
+msgid "Check Preview"
+msgstr ""
+
+#: ink/admin/menu.php:61
+msgid "Rate Us If You Like This Plugin"
+msgstr ""
+
+#: ink/admin/menu.php:62
+msgid "Accordion Settings"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:6 ink/admin/reg-cpt.php:19 ink/admin/reg-cpt.php:20
+msgid "Accordion Pro"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:7
+msgid "Parent Item:"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:8
+msgid "All Accordion"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:9
+msgid "View Accordion"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:12
+msgid "Edit Accordion"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:13
+msgid "Update Accordion"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:14
+msgid "Search Accordion"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:15 ink/install/installation.php:88
+msgid "No Accordion Found"
+msgstr ""
+
+#: ink/admin/reg-cpt.php:16
+msgid "No Accordion found in Trash"
+msgstr ""
+
+#: ink/admin/settings.php:324
+msgid "Accordion Settings "
+msgstr ""
+
+#: ink/admin/settings.php:331 ink/admin/settings.php:345
+msgid "Display Accordion Section Title "
+msgstr ""
+
+#: ink/admin/settings.php:363 ink/admin/settings.php:372
+#: ink/admin/settings.php:398
+msgid "Accordion Title/Icon Font Color"
+msgstr ""
+
+#: ink/admin/settings.php:381 ink/admin/settings.php:390
+#: ink/admin/settings.php:415
+msgid "Accordion Title Background Color"
+msgstr ""
+
+#: ink/admin/settings.php:398 ink/admin/settings.php:415
+#: ink/admin/settings.php:844 ink/admin/settings.php:861
+msgid "Selected/Hover"
+msgstr ""
+
+#: ink/admin/settings.php:407
+msgid ""
+"Selected/Opened Accordion Title Font Color, it is also applicable on hover "
+"color"
+msgstr ""
+
+#: ink/admin/settings.php:424
+msgid ""
+"Selected/Opened Accordion Title Background Color,it is also applicable on "
+"hover color"
+msgstr ""
+
+#: ink/admin/settings.php:432
+msgid "Description Font Color"
+msgstr ""
+
+#: ink/admin/settings.php:441
+msgid "Faq Description Font Colour"
+msgstr ""
+
+#: ink/admin/settings.php:449
+msgid "Description Background Color"
+msgstr ""
+
+#: ink/admin/settings.php:458
+msgid "Faq Description Background Colour"
+msgstr ""
+
+#: ink/admin/settings.php:467
+msgid "Title/Icon Font Size"
+msgstr ""
+
+#: ink/admin/settings.php:485
+msgid "Description Font Size"
+msgstr ""
+
+#: ink/admin/settings.php:501
+msgid "Enable Font Family"
+msgstr ""
+
+#: ink/admin/settings.php:515
+msgid ""
+"Enable/Disable Font Family here (For apply your theme font family on your "
+"accordion)"
+msgstr ""
+
+#: ink/admin/settings.php:523
+msgid "Font Style/Family"
+msgstr ""
+
+#: ink/admin/settings.php:543
+msgid "Accordion Title Font Weight"
+msgstr ""
+
+#: ink/admin/settings.php:558
+msgid "Display Accordion Icon Of Title"
+msgstr ""
+
+#: ink/admin/settings.php:572
+msgid "Hide/Display Faq Title Font Icon "
+msgstr ""
+
+#: ink/admin/settings.php:587
+msgid "Open Close Icon Display Option"
+msgstr ""
+
+#: ink/admin/settings.php:601
+msgid "Select your open/close icon number or number option here "
+msgstr ""
+
+#: ink/admin/settings.php:610
+msgid " Open Close Icon Alignment"
+msgstr ""
+
+#: ink/admin/settings.php:616
+msgid "left"
+msgstr ""
+
+#: ink/admin/settings.php:618
+msgid "right"
+msgstr ""
+
+#: ink/admin/settings.php:624
+msgid "Set your open/close icon position here"
+msgstr ""
+
+#: ink/admin/settings.php:633
+msgid "Select Open Close Icon"
+msgstr ""
+
+#: ink/admin/settings.php:801
+msgid "You can change your open close icons from here  "
+msgstr ""
+
+#: ink/admin/settings.php:810
+msgid "Accordion Open/close Icon Font Colour"
+msgstr ""
+
+#: ink/admin/settings.php:819
+msgid "Accordion Open/close Icon Font Color"
+msgstr ""
+
+#: ink/admin/settings.php:827
+msgid "Accordion Open/Close Icon Background Color"
+msgstr ""
+
+#: ink/admin/settings.php:836
+msgid "Set Your Accordion Open/Close Icon Background Color here"
+msgstr ""
+
+#: ink/admin/settings.php:844
+msgid "Accordion Open/Close Icon Color"
+msgstr ""
+
+#: ink/admin/settings.php:853
+msgid ""
+"Update Your Selected/Opened Accordion Open/Close Icon Font Color Here , it "
+"is also applicable on hover color"
+msgstr ""
+
+#: ink/admin/settings.php:861
+msgid "Accordion Open/Close Background Colour"
+msgstr ""
+
+#: ink/admin/settings.php:870
+msgid ""
+"Update Your Selected/Opened Accordion Open/Close Icon Background Color "
+"Here , it is also applicable on hover color"
+msgstr ""
+
+#: ink/admin/settings.php:888
+msgid "Accordion Box Border Display"
+msgstr ""
+
+#: ink/admin/settings.php:902
+msgid "Hide/Display your accordion box border Here"
+msgstr ""
+
+#: ink/admin/settings.php:909
+msgid "Accordion Box Border Color"
+msgstr ""
+
+#: ink/admin/settings.php:918
+msgid "Select Your Accordion Box Border Color Here"
+msgstr ""
+
+#: ink/admin/settings.php:926
+msgid "Accordion Box Border Size"
+msgstr ""
+
+#: ink/admin/settings.php:943
+msgid "Selected Accordion Top Border Color"
+msgstr ""
+
+#: ink/admin/settings.php:952
+msgid "Selected Accordion Top Border Color "
+msgstr ""
+
+#: ink/admin/settings.php:960
+msgid "Selected Accordion Top Border Size"
+msgstr ""
+
+#: ink/admin/settings.php:985
+msgid "Enable Margin Between Two Accordion "
+msgstr ""
+
+#: ink/admin/settings.php:1000
+msgid "Enable Accordion Margin/Space"
+msgstr ""
+
+#: ink/admin/settings.php:1008
+msgid "Enable Margin Between Accordion title And Content/Description"
+msgstr ""
+
+#: ink/admin/settings.php:1022
+msgid ""
+"Enable/Disable Margin Between Accordion Title And Content/Description Here"
+msgstr ""
+
+#: ink/admin/settings.php:1037
+msgid "Accordion Description Content Appear Animation"
+msgstr ""
+
+#: ink/admin/settings.php:1086 ink/admin/settings.php:1099
+msgid "Accordion Background Styles Overlay"
+msgstr ""
+
+#: ink/admin/settings.php:1110
+msgid "Enable Collapse Mode(Toggle one or more Accordion together) "
+msgstr ""
+
+#: ink/admin/settings.php:1125
+msgid "Enable Toggle/Collapse "
+msgstr ""
+
+#: ink/admin/settings.php:1134
+msgid "On Hover Toggle Accordion"
+msgstr ""
+
+#: ink/admin/settings.php:1148
+msgid "Enable it if you want to open your accordion on hover "
+msgstr ""
+
+#: ink/admin/settings.php:1155
+msgid "Page Scroll to Accordion title on click"
+msgstr ""
+
+#: ink/admin/settings.php:1169
+msgid "Enable it if you want to scroll page to your accordion on click "
+msgstr ""
+
+#: ink/admin/settings.php:1179 ink/admin/settings.php:1190
+msgid "Expand/Collapse Accordion Option On Page Load"
+msgstr ""
+
+#: ink/install/installation.php:85
+msgid "Insert Accordion Shortcode"
+msgstr ""
+
+#: ink/widget/widget.php:14
+msgid "Display Your Accordion in widget area."
+msgstr ""
+
+#: ink/widget/widget.php:60
+msgid "Widget Title"
+msgstr ""
+
+#: ink/widget/widget.php:65
+msgid "Select Accordion"
+msgstr ""
+
+#: ink/widget/widget.php:83
+msgid "No Title"
+msgstr ""

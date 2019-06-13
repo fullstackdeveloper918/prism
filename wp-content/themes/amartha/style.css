@@ -1,0 +1,176 @@
+/*
+Theme Name: Amartha
+Theme URI: http://neuronthemes.com/amartha
+Description: Amartha is a Modern and Clean WooCommerce WordPress Theme which will make your eCommerce website a high-class store with nothing that misses. The interactive and well-built demos that are built with love and passion by our team are something that everyone will love. The joy of Amartha is the most powerful front-end page builder Elementor, everything can be created simply drag & drop. Unlimited header and footer possibilities via the header and footer builder, there are simply no limits with more than 50 elements, copy-paste feature, template library and much more are only some of the features of Amartha.
+Author: NeuronThemes
+Author URI: http://neuronthemes.com
+Version: 1.0.0
+License: General Public License
+License URI: http://www.gnu.org/licenses/gpl.html
+Tags: blog, two-columns, three-columns, left-sidebar, featured-images, sticky-post, custom-menu, footer-widgets, theme-options, threaded-comments, translation-ready, e-commerce, portfolio
+Text Domain: amartha
+Domain Path: /languages
+*/
+
+/*==============================
+=        WordPress Core        =
+==============================*/
+
+.wp-caption {
+  width: auto !important;
+  clear: both;
+  max-width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.wp-caption a {
+  box-shadow: none;
+}
+
+.alignright {
+  margin: 0px 0px 25px 25px;
+  box-sizing: border-box;
+  float: right !important;
+}
+
+.alignleft {
+  float: left;
+  margin: 0px 25px 25px 0px;
+  box-sizing: border-box;
+}
+
+.aligncenter {
+  text-align: center;
+  margin: 0 25px;
+  box-sizing: border-box;
+}
+
+.wp-caption img {
+  margin-top: 15px;
+}
+
+.wp-caption p.wp-caption-text {
+  padding: 0;
+  font-size: 14px;
+  margin-top: 0px;
+}
+
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+}
+
+.bypostauthor {
+  background-color: #f3f1f1;
+}
+
+.gallery-caption {
+  opacity: 0.7;
+  margin-top: 10px;
+}
+
+.gallery-item {
+  margin: 0 0 15px 0;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.gallery-item a {
+  box-shadow: none;
+}
+
+.gallery-item img {
+  border: 0 !important;
+}
+
+
+/***** 18-5-19 *****/
+.bc-product-form__quantity-input{
+    padding: 18px 17px 18px 17px;
+	box-shadow: none;
+	font-size: 15.5px;
+}
+.page.page-id-4144 .day-product button.bc-btn.bc-btn--form-submit.bc-btn--add_to_cart{
+	max-width: 240px !important;
+	font-size: 15.5px;
+}
+.page.page-id-4144 .night-product button.bc-btn.bc-btn--form-submit.bc-btn--add_to_cart{
+	max-width: 240px !important;
+	font-size: 15.5px;
+}
+.page.page-id-4144 button.bc-btn.bc-ajax-cart-processing{
+	animation: none;
+}
+.page.page-id-4144 .elementor-element-b2ffa17 .bc-btn[disabled]{
+    padding: 19px 20px;
+    line-height: 1.7;
+	opacity: 1;
+}
+.page.page-id-4144 .bc-btn[disabled]{
+	opacity: 1;
+}
+.page.page-id-4144 .day-product span#day-pro-price {
+    background-color: #940024 !important;
+    color: #fff;
+    /* vertical-align: middle; */
+    display: inline-block;
+    padding: 15px 20px;
+}
+.page.page-id-4144 .night-product span#night-pro-price {
+    background-color: #dfdbee !important;
+    color: #39325f;
+    /* vertical-align: middle; */
+    display: inline-block;
+    padding: 15px 20px;
+}
+.page.page-id-4144 .day-product {
+    display: flex;
+    display: -webkit-flex;
+}
+.page.page-id-4144 .night-product {
+    display: flex;
+    display: -webkit-flex;
+}
+.page.page-id-4144 .day-product label.bc-product-form__quantity-label {
+    margin-bottom: 0;
+}
+.page.page-id-4144 .night-product label.bc-product-form__quantity-label {
+    margin-bottom: 0;
+}
+@media screen and (max-width: 767px) {
+	.page.page-id-4144 .elementor-4144 .bc-product-form__quantity-input {
+		font-size: 15.5px;
+	}
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {
+	opacity: 1;
+}
+
+.bigcommerce-cart__item-count {
+	height: 20px;
+}

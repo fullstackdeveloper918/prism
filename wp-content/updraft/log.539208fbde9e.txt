@@ -1,0 +1,503 @@
+0000.000 (0) Opened log file at time: Sun, 02 Jun 2019 18:13:19 +0000 on https://www.prismaticplants.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.14 WP: 5.2.1 PHP: 7.2.18 (fpm-fcgi, Linux wp4.bluehost.com 4.14.94-164.ELK.el7.x86_64 #1 SMP Wed Jan 16 17:14:35 CST 2019 x86_64) MySQL: 5.7.23-23 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 69.4M | 4M) multisite: N openssl: OpenSSL 1.0.2r  26 Feb 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.060 (0) Free space on disk containing Updraft's temporary directory: 1152096.6 MB
+0000.063 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.066 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.068 (0) Set semaphore last lock (fd) time to 2019-06-02 18:13:19
+0000.068 (0) Semaphore lock (fd) complete
+0000.071 (0) Backup run: resumption=0, nonce=539208fbde9e, file_nonce=539208fbde9e begun at=1559499199 (0s ago), job type=backup
+0000.073 (0) Scheduling a resumption (1) after 300 seconds (1559499499) in case this run gets aborted
+0000.084 (0) Checking if we have a zip executable available
+0000.085 (0) Testing: /usr/bin/zip
+0000.094 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.095 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.096 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.096 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.097 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.105 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.106 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.114 (0) Working binary zip found: /usr/bin/zip
+0000.116 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.116 (0) Creation of backups of directories: beginning
+0000.119 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.511 (0) Total entities for the zip file: 1647 directories, 8528 files (0 skipped as non-modified), 133.1 MB
+0000.520 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.523 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.527 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.530 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.533 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.534 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.7 MB, 8528 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.277 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: size is now: 2.80 MB
+0001.282 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 600 files added (on-disk size: 2908.3 KB)
+0001.285 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 700 files added (on-disk size: 2908.3 KB)
+0001.289 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 800 files added (on-disk size: 2908.3 KB)
+0001.293 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 900 files added (on-disk size: 2908.3 KB)
+0001.296 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1000 files added (on-disk size: 2908.3 KB)
+0001.297 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 8528 files batched, 501 (1002) added so far); re-opening (prior size: 2908.3 KB)
+0002.412 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: size is now: 4.60 MB
+0002.417 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1100 files added (on-disk size: 4712.4 KB)
+0002.421 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1200 files added (on-disk size: 4712.4 KB)
+0002.425 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1300 files added (on-disk size: 4712.4 KB)
+0002.428 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1400 files added (on-disk size: 4712.4 KB)
+0002.431 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1500 files added (on-disk size: 4712.4 KB)
+0002.432 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.8 MB, 8528 files batched, 501 (1503) added so far); re-opening (prior size: 4712.4 KB)
+0003.524 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: size is now: 9.10 MB
+0003.529 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1600 files added (on-disk size: 9344.5 KB)
+0003.533 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1700 files added (on-disk size: 9344.5 KB)
+0003.536 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1800 files added (on-disk size: 9344.5 KB)
+0003.539 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 1900 files added (on-disk size: 9344.5 KB)
+0003.542 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2000 files added (on-disk size: 9344.5 KB)
+0003.543 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.7 MB, 8528 files batched, 501 (2004) added so far); re-opening (prior size: 9344.5 KB)
+0004.114 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: size is now: 11.20 MB
+0004.120 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2100 files added (on-disk size: 11429.1 KB)
+0004.123 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2200 files added (on-disk size: 11429.1 KB)
+0004.127 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2300 files added (on-disk size: 11429.1 KB)
+0004.130 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2400 files added (on-disk size: 11429.1 KB)
+0004.134 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2500 files added (on-disk size: 11429.1 KB)
+0004.134 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 8528 files batched, 501 (2505) added so far); re-opening (prior size: 11429.1 KB)
+0004.693 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2600 files added (on-disk size: 12184.2 KB)
+0004.695 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2700 files added (on-disk size: 12184.2 KB)
+0004.698 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2800 files added (on-disk size: 12184.2 KB)
+0004.701 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 2900 files added (on-disk size: 12184.2 KB)
+0004.704 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3000 files added (on-disk size: 12184.2 KB)
+0004.705 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.7 MB, 8528 files batched, 501 (3006) added so far); re-opening (prior size: 12184.2 KB)
+0005.388 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: size is now: 15.40 MB
+0005.399 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3100 files added (on-disk size: 15796.6 KB)
+0005.404 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3200 files added (on-disk size: 15796.6 KB)
+0005.407 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3300 files added (on-disk size: 15796.6 KB)
+0005.409 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3400 files added (on-disk size: 15796.6 KB)
+0005.414 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3500 files added (on-disk size: 15796.6 KB)
+0005.414 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.6 MB, 8528 files batched, 501 (3507) added so far); re-opening (prior size: 15796.6 KB)
+0006.242 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: size is now: 18.90 MB
+0006.247 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3600 files added (on-disk size: 19304.8 KB)
+0006.250 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3700 files added (on-disk size: 19304.8 KB)
+0006.252 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3800 files added (on-disk size: 19304.8 KB)
+0006.255 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 3900 files added (on-disk size: 19304.8 KB)
+0006.258 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4000 files added (on-disk size: 19304.8 KB)
+0006.258 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 MB, 8528 files batched, 501 (4008) added so far); re-opening (prior size: 19304.8 KB)
+0006.581 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4100 files added (on-disk size: 20569.6 KB)
+0006.585 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4200 files added (on-disk size: 20569.6 KB)
+0006.588 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4300 files added (on-disk size: 20569.6 KB)
+0006.592 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4400 files added (on-disk size: 20569.6 KB)
+0006.595 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4500 files added (on-disk size: 20569.6 KB)
+0006.596 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.4 MB, 8528 files batched, 501 (4509) added so far); re-opening (prior size: 20569.6 KB)
+0006.917 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4600 files added (on-disk size: 21506.2 KB)
+0006.920 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4700 files added (on-disk size: 21506.2 KB)
+0006.924 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4800 files added (on-disk size: 21506.2 KB)
+0006.927 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 4900 files added (on-disk size: 21506.2 KB)
+0006.931 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5000 files added (on-disk size: 21506.2 KB)
+0006.932 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.1 MB, 8528 files batched, 501 (5010) added so far); re-opening (prior size: 21506.2 KB)
+0007.325 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5100 files added (on-disk size: 23602.6 KB)
+0007.329 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5200 files added (on-disk size: 23602.6 KB)
+0007.332 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5300 files added (on-disk size: 23602.6 KB)
+0007.335 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5400 files added (on-disk size: 23602.6 KB)
+0007.342 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5500 files added (on-disk size: 23602.6 KB)
+0007.347 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.5 MB, 8528 files batched, 501 (5511) added so far); re-opening (prior size: 23602.6 KB)
+0008.160 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: size is now: 28.70 MB
+0008.168 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5600 files added (on-disk size: 29353.5 KB)
+0008.171 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5700 files added (on-disk size: 29353.5 KB)
+0008.175 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5800 files added (on-disk size: 29353.5 KB)
+0008.178 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 5900 files added (on-disk size: 29353.5 KB)
+0008.182 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6000 files added (on-disk size: 29353.5 KB)
+0008.183 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 8528 files batched, 501 (6012) added so far); re-opening (prior size: 29353.5 KB)
+0008.621 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6100 files added (on-disk size: 32127.3 KB)
+0008.625 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6200 files added (on-disk size: 32127.3 KB)
+0008.628 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6300 files added (on-disk size: 32127.3 KB)
+0008.631 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6400 files added (on-disk size: 32127.3 KB)
+0008.635 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6500 files added (on-disk size: 32127.3 KB)
+0008.636 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.1 MB, 8528 files batched, 501 (6513) added so far); re-opening (prior size: 32127.3 KB)
+0009.127 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6600 files added (on-disk size: 34808.7 KB)
+0009.130 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6700 files added (on-disk size: 34808.7 KB)
+0009.133 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6800 files added (on-disk size: 34808.7 KB)
+0009.137 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 6900 files added (on-disk size: 34808.7 KB)
+0009.140 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7000 files added (on-disk size: 34808.7 KB)
+0009.141 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.3 MB, 8528 files batched, 501 (7014) added so far); re-opening (prior size: 34808.7 KB)
+0009.563 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7100 files added (on-disk size: 35985.6 KB)
+0009.567 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7200 files added (on-disk size: 35985.6 KB)
+0009.571 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7300 files added (on-disk size: 35985.6 KB)
+0009.574 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7400 files added (on-disk size: 35985.6 KB)
+0009.577 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7500 files added (on-disk size: 35985.6 KB)
+0009.585 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.5 MB, 8528 files batched, 501 (7515) added so far); re-opening (prior size: 35985.6 KB)
+0010.342 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7600 files added (on-disk size: 39096.9 KB)
+0010.344 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7700 files added (on-disk size: 39096.9 KB)
+0010.347 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7800 files added (on-disk size: 39096.9 KB)
+0010.349 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 7900 files added (on-disk size: 39096.9 KB)
+0010.352 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 8000 files added (on-disk size: 39096.9 KB)
+0010.353 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.6 MB, 8528 files batched, 501 (8016) added so far); re-opening (prior size: 39096.9 KB)
+0010.884 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 8100 files added (on-disk size: 43370.4 KB)
+0010.886 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 8200 files added (on-disk size: 43370.4 KB)
+0010.889 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 8300 files added (on-disk size: 43370.4 KB)
+0010.891 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 8400 files added (on-disk size: 43370.4 KB)
+0010.893 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip.tmp: 8500 files added (on-disk size: 43370.4 KB)
+0010.894 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.3 MB, 8528 files batched, 501 (8517) added so far); re-opening (prior size: 43370.4 KB)
+0012.482 (0) Created plugins zip (0) - 47686.4 KB in 12.3 s (3875.6 KB/s) (sha1: 5a7e7411ebec976364483f524948f71112cdd2d1, sha256: 4ec37eadd468819089bd55973a115f4758735071840ba107341ab0b6c999afdc)
+0012.484 (0) Beginning creation of dump of themes (split every: 400 MB)
+0012.615 (0) Total entities for the zip file: 488 directories, 2255 files (0 skipped as non-modified), 72.1 MB
+0012.618 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.621 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.623 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.626 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.628 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.2 MB, 2255 files batched, 485 (485) added so far); re-opening (prior size: 0 KB)
+0013.351 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: size is now: 19.20 MB
+0013.354 (0) A useful amount of data was added after this amount of zip processing: 0.9 s (normalised: 0.9 s, rate: 28443.9 KB/s)
+0013.356 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.90629696846008, normalised_time=0.90001709833248, max_time=13.354811906815, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0013.358 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 500 files added (on-disk size: 19627.4 KB)
+0013.362 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 600 files added (on-disk size: 19627.4 KB)
+0013.365 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 700 files added (on-disk size: 19627.4 KB)
+0013.368 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 800 files added (on-disk size: 19627.4 KB)
+0013.371 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 900 files added (on-disk size: 19627.4 KB)
+0013.374 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.3 MB, 2255 files batched, 501 (986) added so far); re-opening (prior size: 19627.4 KB)
+0013.826 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1000 files added (on-disk size: 21065.7 KB)
+0013.830 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1100 files added (on-disk size: 21065.7 KB)
+0013.833 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1200 files added (on-disk size: 21065.7 KB)
+0013.837 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1300 files added (on-disk size: 21065.7 KB)
+0013.840 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1400 files added (on-disk size: 21065.7 KB)
+0013.843 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.9 MB, 2255 files batched, 501 (1487) added so far); re-opening (prior size: 21065.7 KB)
+0014.421 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1500 files added (on-disk size: 24712.1 KB)
+0014.425 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1600 files added (on-disk size: 24712.1 KB)
+0014.428 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1700 files added (on-disk size: 24712.1 KB)
+0014.436 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1800 files added (on-disk size: 24712.1 KB)
+0014.440 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 1900 files added (on-disk size: 24712.1 KB)
+0014.448 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (28.8 MB, 2255 files batched, 501 (1988) added so far); re-opening (prior size: 24712.1 KB)
+0015.317 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: size is now: 45.70 MB
+0015.319 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 2000 files added (on-disk size: 46777.8 KB)
+0015.322 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 2100 files added (on-disk size: 46777.8 KB)
+0015.325 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip.tmp: 2200 files added (on-disk size: 46777.8 KB)
+0016.638 (0) Created themes zip (0) - 48822.7 KB in 4.1 s (11907.9 KB/s) (sha1: b29451f695705050514aceb4bd3a720374889ed3, sha256: 03dc7e8f823dac3ed22f85e60118e0b494f6c83d26be4dc2df7c00c178f1b0ae)
+0016.641 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0016.641 (0) Looking for candidates to backup in: /home1/prismav6/public_html/wp-content/uploads
+0016.642 (0) finding files: 2018: adding to list (1)
+0016.643 (0) finding files: bb-plugin: adding to list (2)
+0016.643 (0) finding files: logs: adding to list (3)
+0016.644 (0) finding files: elementor: adding to list (4)
+0016.644 (0) finding files: 2019: adding to list (5)
+0016.645 (0) finding files: 2017: adding to list (6)
+0016.645 (0) finding files: .shortpixel-q-1: adding to list (7)
+0016.646 (0) finding files: revslider: adding to list (8)
+0016.646 (0) finding files: ShortpixelBackups: adding to list (9)
+0016.647 (0) finding files: js_composer: adding to list (10)
+0016.647 (0) finding files: .htaccess: adding to list (11)
+0016.648 (0) finding files: neve-theme: adding to list (12)
+0016.648 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0016.807 (0) Total entities for the zip file: 220 directories, 2941 files (0 skipped as non-modified), 412.6 MB
+0016.811 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.815 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.818 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0016.822 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0016.826 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0016.827 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (48.9 MB, 2941 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0017.530 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: size is now: 48.00 MB
+0017.535 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 600 files added (on-disk size: 49115.9 KB)
+0017.539 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 700 files added (on-disk size: 49115.9 KB)
+0017.542 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 800 files added (on-disk size: 49115.9 KB)
+0017.545 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 900 files added (on-disk size: 49115.9 KB)
+0017.548 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1000 files added (on-disk size: 49115.9 KB)
+0017.549 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (81.1 MB, 2941 files batched, 501 (1002) added so far); re-opening (prior size: 49115.9 KB)
+0018.907 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: size is now: 128.10 MB
+0018.911 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1100 files added (on-disk size: 131180.4 KB)
+0018.914 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1200 files added (on-disk size: 131180.4 KB)
+0018.916 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1300 files added (on-disk size: 131180.4 KB)
+0018.919 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1400 files added (on-disk size: 131180.4 KB)
+0018.921 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1500 files added (on-disk size: 131180.4 KB)
+0018.922 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (75.2 MB, 2941 files batched, 501 (1503) added so far); re-opening (prior size: 131180.4 KB)
+0019.863 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: size is now: 203.30 MB
+0019.868 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1600 files added (on-disk size: 208173.6 KB)
+0019.870 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1700 files added (on-disk size: 208173.6 KB)
+0019.873 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1800 files added (on-disk size: 208173.6 KB)
+0019.875 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 1900 files added (on-disk size: 208173.6 KB)
+0019.878 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2000 files added (on-disk size: 208173.6 KB)
+0019.879 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (37.4 MB, 2941 files batched, 501 (2004) added so far); re-opening (prior size: 208173.6 KB)
+0020.731 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2100 files added (on-disk size: 246585.9 KB)
+0020.735 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2200 files added (on-disk size: 246585.9 KB)
+0020.738 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2300 files added (on-disk size: 246585.9 KB)
+0020.741 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2400 files added (on-disk size: 246585.9 KB)
+0020.744 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2500 files added (on-disk size: 246585.9 KB)
+0020.745 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (88.1 MB, 2941 files batched, 501 (2505) added so far); re-opening (prior size: 246585.9 KB)
+0021.997 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: size is now: 329.00 MB
+0022.002 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2600 files added (on-disk size: 336922.9 KB)
+0022.006 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2700 files added (on-disk size: 336922.9 KB)
+0022.009 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: 2800 files added (on-disk size: 336922.9 KB)
+0022.012 (0) Adding batch to zip file (UpdraftPlus_BinZip): possibly approaching split limit (65.1 MB, 379 (2884) files added so far); last ratio: 1; re-opening (prior size: 336922.9 KB)
+0023.289 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip.tmp: size is now: 394.20 MB
+0023.292 (0) Zip size is at/near split limit (394.2 MB / 400 MB) - bumping index (from: 0)
+0029.816 (0) Created uploads zip (0) - 403694.9 KB in 6.6 s (61427.8 KB/s) (checksums: sha1: faa2bb6c68d1e2d2b08c7363e34048f4aadce2d8, sha256: 4d5ddb989d7b6a2a628f2e2d2755681d5d36b3d57df0f74f4362d7fef2c1ec02)
+0029.819 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (2885) files added so far); re-opening (prior size: 0 KB)
+0029.831 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip.tmp: size is now: 0.00 MB
+0029.834 (0) Zip: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip.tmp: 2900 files added (on-disk size: 48 KB)
+0030.117 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip.tmp: size is now: 16.80 MB
+0030.381 (0) Created uploads zip (1) - 17254 KB in 0.6 s (30610.7 KB/s) (sha1: 5527bad7c3e6893b6dc6c0a22d367a9ee0215af0, sha256: e82c2b77348cfb49e4c024587746128cdfe005c03eb1ad80726eb17522fc1742)
+0030.384 (0) Beginning backup of other directories found in the content directory (index: 0)
+0030.384 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0030.385 (0) Looking for candidates to backup in: /home1/prismav6/public_html/wp-content
+0030.385 (0) finding files: updraft: skipping: this is the updraft directory
+0030.386 (0) finding files: maintenance.php: adding to list (1)
+0030.386 (0) finding files: themes: skipping: this is the themes directory
+0030.387 (0) finding files: cache: skipping: excluded by options
+0030.387 (0) finding files: upgrade: skipping: excluded by options
+0030.388 (0) finding files: plugins: skipping: this is the plugins directory
+0030.388 (0) finding files: mu-plugins: adding to list (2)
+0030.389 (0) finding files: db-error.php: adding to list (3)
+0030.389 (0) finding files: uploads: skipping: this is the uploads directory
+0030.390 (0) finding files: index.php: adding to list (4)
+0030.390 (0) finding files: .htaccess: adding to list (5)
+0030.458 (0) Total entities for the zip file: 1 directories, 7 files (0 skipped as non-modified), 0 MB
+0030.472 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-others.zip.tmp: size is now: 0.00 MB
+0030.479 (0) Created others zip (0) - 12 KB in 0 s (527 KB/s) (sha1: bfb02bdb0f625bf3c5ea55ded531a0a051ef7748, sha256: bbea399e35329b93037c303f9afeb6355a83afdfa2414442ae4dae105241661e)
+0030.485 (0) Saving backup status to database (elements: 9)
+0030.489 (0) Beginning creation of database dump (WordPress DB)
+0030.491 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0030.621 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\n/*!50717 SELECT COUNT(*) INTO @rocksdb_has_p_s_session_variables FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'performance_schema' AND TABL (truncated - 2001 bytes total)
+0030.624 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0030.640 (0) Table _20O_options: Total expected rows (approximate): 1090
+0030.743 (0) Table _20O_options: Total rows added: 1086 in 0.10 seconds
+0030.744 (0) Table _20O_options: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_options.table.gz - 275.8 KB)
+0030.749 (0) Table _20O_users: Total expected rows (approximate): 16
+0030.752 (0) Table _20O_users: Total rows added: 16 in 0.00 seconds
+0030.753 (0) Table _20O_users: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_users.table.gz - 1.5 KB)
+0030.758 (0) Table _20O_usermeta: Total expected rows (approximate): 303
+0030.763 (0) Table _20O_usermeta: Total rows added: 303 in 0.00 seconds
+0030.764 (0) Table _20O_usermeta: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_usermeta.table.gz - 4.7 KB)
+0030.772 (0) Table _20O_bc_reviews: Total expected rows (approximate): 0
+0030.775 (0) Table _20O_bc_reviews: Total rows added: 0 in 0.00 seconds
+0030.775 (0) Table _20O_bc_reviews: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_bc_reviews.table.gz - 0.5 KB)
+0030.780 (0) Table _20O_commentmeta: Total expected rows (approximate): 0
+0030.782 (0) Table _20O_commentmeta: Total rows added: 0 in 0.00 seconds
+0030.783 (0) Table _20O_commentmeta: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_commentmeta.table.gz - 0.4 KB)
+0030.787 (0) Table _20O_comments: Total expected rows (approximate): 2
+0030.790 (0) Table _20O_comments: Total rows added: 2 in 0.00 seconds
+0030.791 (0) Table _20O_comments: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_comments.table.gz - 0.8 KB)
+0030.796 (0) Table _20O_links: Total expected rows (approximate): 0
+0030.798 (0) Table _20O_links: Total rows added: 0 in 0.00 seconds
+0030.799 (0) Table _20O_links: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_links.table.gz - 0.4 KB)
+0030.803 (0) Table _20O_postmeta: Total expected rows (approximate): 6934
+0031.181 (0) Table _20O_postmeta: Total rows added: 6934 in 0.38 seconds
+0031.183 (0) Table _20O_postmeta: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_postmeta.table.gz - 869.1 KB)
+0031.189 (0) Table _20O_posts: Total expected rows (approximate): 600
+0031.321 (0) Table _20O_posts: Total rows added: 600 in 0.13 seconds
+0031.323 (0) Table _20O_posts: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_posts.table.gz - 450.7 KB)
+0031.327 (0) Table _20O_term_relationships: Total expected rows (approximate): 290
+0031.331 (0) Table _20O_term_relationships: Total rows added: 290 in 0.00 seconds
+0031.331 (0) Table _20O_term_relationships: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_term_relationships.table.gz - 1.2 KB)
+0031.335 (0) Table _20O_term_taxonomy: Total expected rows (approximate): 40
+0031.337 (0) Table _20O_term_taxonomy: Total rows added: 40 in 0.00 seconds
+0031.338 (0) Table _20O_term_taxonomy: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_term_taxonomy.table.gz - 0.8 KB)
+0031.342 (0) Table _20O_termmeta: Total expected rows (approximate): 7
+0031.344 (0) Table _20O_termmeta: Total rows added: 7 in 0.00 seconds
+0031.345 (0) Table _20O_termmeta: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_termmeta.table.gz - 0.5 KB)
+0031.349 (0) Table _20O_terms: Total expected rows (approximate): 40
+0031.352 (0) Table _20O_terms: Total rows added: 40 in 0.00 seconds
+0031.353 (0) Table _20O_terms: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_terms.table.gz - 0.9 KB)
+0031.357 (0) Table _20O_elfsight_instagram_feed_cache: Total expected rows (approximate): 2
+0031.425 (0) Table _20O_elfsight_instagram_feed_cache: Total rows added: 2 in 0.07 seconds
+0031.427 (0) Table _20O_elfsight_instagram_feed_cache: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_elfsight_instagram_feed_cache.table.gz - 125.3 KB)
+0031.432 (0) Table _20O_elfsight_instagram_feed_throttle: Total expected rows (approximate): 0
+0031.447 (0) Table _20O_elfsight_instagram_feed_throttle: Total rows added: 1 in 0.01 seconds
+0031.453 (0) Table _20O_elfsight_instagram_feed_throttle: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_elfsight_instagram_feed_throttle.table.gz - 0.3 KB)
+0031.462 (0) Table _20O_elfsight_instagram_feed_widgets: Total expected rows (approximate): 0
+0031.477 (0) Table _20O_elfsight_instagram_feed_widgets: Total rows added: 1 in 0.01 seconds
+0031.478 (0) Table _20O_elfsight_instagram_feed_widgets: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_elfsight_instagram_feed_widgets.table.gz - 1 KB)
+0031.488 (0) Table _20O_revslider_css: Total expected rows (approximate): 109
+0031.521 (0) Table _20O_revslider_css: Total rows added: 109 in 0.01 seconds
+0031.522 (0) Table _20O_revslider_css: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_css.table.gz - 4.9 KB)
+0031.538 (0) Table _20O_revslider_layer_animations: Total expected rows (approximate): 0
+0031.540 (0) Table _20O_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0031.540 (0) Table _20O_revslider_layer_animations: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_layer_animations.table.gz - 0.3 KB)
+0031.564 (0) Table _20O_revslider_navigations: Total expected rows (approximate): 0
+0031.566 (0) Table _20O_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0031.567 (0) Table _20O_revslider_navigations: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_navigations.table.gz - 0.3 KB)
+0031.572 (0) Table _20O_revslider_sliders: Total expected rows (approximate): 0
+0031.574 (0) Table _20O_revslider_sliders: Total rows added: 0 in 0.00 seconds
+0031.574 (0) Table _20O_revslider_sliders: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_sliders.table.gz - 0.3 KB)
+0031.584 (0) Table _20O_revslider_slides: Total expected rows (approximate): 0
+0031.586 (0) Table _20O_revslider_slides: Total rows added: 0 in 0.00 seconds
+0031.586 (0) Table _20O_revslider_slides: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_slides.table.gz - 0.3 KB)
+0031.591 (0) Table _20O_revslider_static_slides: Total expected rows (approximate): 0
+0031.592 (0) Table _20O_revslider_static_slides: Total rows added: 0 in 0.00 seconds
+0031.593 (0) Table _20O_revslider_static_slides: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_static_slides.table.gz - 0.3 KB)
+0031.600 (0) Table _20O_tm_taskmeta: Total expected rows (approximate): 0
+0031.602 (0) Table _20O_tm_taskmeta: Total rows added: 0 in 0.00 seconds
+0031.603 (0) Table _20O_tm_taskmeta: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_tm_taskmeta.table.gz - 0.4 KB)
+0031.631 (0) Table _20O_tm_tasks: Total expected rows (approximate): 0
+0031.649 (0) Table _20O_tm_tasks: Total rows added: 0 in 0.01 seconds
+0031.653 (0) Table _20O_tm_tasks: finishing file (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_tm_tasks.table.gz - 0.4 KB)
+0031.671 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_options.table.gz (1/24): adding to final database dump
+0031.749 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_users.table.gz (2/24): adding to final database dump
+0031.750 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_usermeta.table.gz (3/24): adding to final database dump
+0031.752 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_bc_reviews.table.gz (4/24): adding to final database dump
+0031.753 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_commentmeta.table.gz (5/24): adding to final database dump
+0031.754 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_comments.table.gz (6/24): adding to final database dump
+0031.754 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_links.table.gz (7/24): adding to final database dump
+0031.755 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_postmeta.table.gz (8/24): adding to final database dump
+0031.975 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_posts.table.gz (9/24): adding to final database dump
+0032.092 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_term_relationships.table.gz (10/24): adding to final database dump
+0032.094 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_term_taxonomy.table.gz (11/24): adding to final database dump
+0032.095 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_termmeta.table.gz (12/24): adding to final database dump
+0032.095 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_terms.table.gz (13/24): adding to final database dump
+0032.096 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_elfsight_instagram_feed_cache.table.gz (14/24): adding to final database dump
+0032.123 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_elfsight_instagram_feed_throttle.table.gz (15/24): adding to final database dump
+0032.124 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_elfsight_instagram_feed_widgets.table.gz (16/24): adding to final database dump
+0032.125 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_css.table.gz (17/24): adding to final database dump
+0032.127 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_layer_animations.table.gz (18/24): adding to final database dump
+0032.128 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_navigations.table.gz (19/24): adding to final database dump
+0032.128 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_sliders.table.gz (20/24): adding to final database dump
+0032.129 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_slides.table.gz (21/24): adding to final database dump
+0032.129 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_revslider_static_slides.table.gz (22/24): adding to final database dump
+0032.130 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_tm_taskmeta.table.gz (23/24): adding to final database dump
+0032.131 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db-table-_20O_tm_tasks.table.gz (24/24): adding to final database dump
+0032.132 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz: finished writing out complete database file (1720 KB)
+0032.172 (0) Total database tables backed up: 24 (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz, size: 1777382, sha256)
+0032.184 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0032.185 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0032.186 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0032.186 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0032.187 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0032.188 (0) backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0032.189 (0) Saving backup history. Total backup size: 507 MB
+0032.192 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0032.195 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0032.196 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-fd265233a948ab1f9b5f5003423da79e)
+0032.196 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0032.200 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0032.476 (0) Dropbox: exception (Dropbox_BadRequestException) occurred whilst getting account info: Error in call to API function "users/get_space_usage": request body: expected null, got value
+0032.480 (0) Dropbox: Attempt to upload: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip to: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip
+0033.119 (0) Dropbox chunked upload: 2.1 % uploaded (AAAAAAAAn0zoCvJdEZbdyA, 1048576, 9216 KB)
+0034.912 (0) Dropbox chunked upload: 21.5 % uploaded (AAAAAAAAn0zoCvJdEZbdyA, 10485760, 10240 KB)
+0036.834 (0) Dropbox chunked upload: 42.9 % uploaded (AAAAAAAAn0zoCvJdEZbdyA, 20971520, 10240 KB)
+0038.613 (0) Dropbox chunked upload: 64.4 % uploaded (AAAAAAAAn0zoCvJdEZbdyA, 31457280, 10240 KB)
+0041.281 (0) Dropbox chunked upload: 85.9 % uploaded (AAAAAAAAn0zoCvJdEZbdyA, 41943040, 10240 KB)
+0043.148 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAn0zoCvJdEZbdyA, 48830836, 10240 KB)
+0044.661 (0) Recording as successfully uploaded: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip
+0044.678 (0) Deleting local file: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip: OK
+0044.679 (0) Dropbox: File upload success (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-plugins.zip): 47686 KB in 12s (3908 KB/s)
+0044.868 (0) Dropbox: exception (Dropbox_BadRequestException) occurred whilst getting account info: Error in call to API function "users/get_space_usage": request body: expected null, got value
+0044.869 (0) Dropbox: Attempt to upload: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip to: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip
+0046.422 (0) Dropbox chunked upload: 21 % uploaded (AAAAAAAAn03WbDXCRKl6-g, 10485760, 10240 KB)
+0047.711 (0) Dropbox chunked upload: 41.9 % uploaded (AAAAAAAAn03WbDXCRKl6-g, 20971520, 10240 KB)
+0049.361 (0) Dropbox chunked upload: 62.9 % uploaded (AAAAAAAAn03WbDXCRKl6-g, 31457280, 10240 KB)
+0052.070 (0) Dropbox chunked upload: 83.9 % uploaded (AAAAAAAAn03WbDXCRKl6-g, 41943040, 10240 KB)
+0053.566 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAn03WbDXCRKl6-g, 49994470, 10240 KB)
+0055.212 (0) Recording as successfully uploaded: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip
+0055.227 (0) Deleting local file: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip: OK
+0055.228 (0) Dropbox: File upload success (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-themes.zip): 48822 KB in 10s (4712 KB/s)
+0055.454 (0) Dropbox: exception (Dropbox_BadRequestException) occurred whilst getting account info: Error in call to API function "users/get_space_usage": request body: expected null, got value
+0055.458 (0) Dropbox: Attempt to upload: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip to: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip
+0057.354 (0) Dropbox chunked upload: 2.5 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 10485760, 10240 KB)
+0058.922 (0) Dropbox chunked upload: 5.1 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 20971520, 10240 KB)
+0060.627 (0) Dropbox chunked upload: 7.6 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 31457280, 10240 KB)
+0062.572 (0) Dropbox chunked upload: 10.1 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 41943040, 10240 KB)
+0064.204 (0) Dropbox chunked upload: 12.7 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 52428800, 10240 KB)
+0065.744 (0) Dropbox chunked upload: 15.2 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 62914560, 10240 KB)
+0067.690 (0) Dropbox chunked upload: 17.8 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 73400320, 10240 KB)
+0069.412 (0) Dropbox chunked upload: 20.3 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 83886080, 10240 KB)
+0071.202 (0) Dropbox chunked upload: 22.8 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 94371840, 10240 KB)
+0073.158 (0) Dropbox chunked upload: 25.4 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 104857600, 10240 KB)
+0074.753 (0) Dropbox chunked upload: 27.9 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 115343360, 10240 KB)
+0076.316 (0) Dropbox chunked upload: 30.4 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 125829120, 10240 KB)
+0078.155 (0) Dropbox chunked upload: 33 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 136314880, 10240 KB)
+0079.859 (0) Dropbox chunked upload: 35.5 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 146800640, 10240 KB)
+0081.489 (0) Dropbox chunked upload: 38 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 157286400, 10240 KB)
+0083.329 (0) Dropbox chunked upload: 40.6 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 167772160, 10240 KB)
+0085.036 (0) Dropbox chunked upload: 43.1 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 178257920, 10240 KB)
+0086.447 (0) Dropbox chunked upload: 45.7 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 188743680, 10240 KB)
+0088.022 (0) Dropbox chunked upload: 48.2 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 199229440, 10240 KB)
+0089.792 (0) Dropbox chunked upload: 50.7 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 209715200, 10240 KB)
+0091.715 (0) Dropbox chunked upload: 53.3 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 220200960, 10240 KB)
+0093.095 (0) Dropbox chunked upload: 55.8 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 230686720, 10240 KB)
+0094.765 (0) Dropbox chunked upload: 58.3 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 241172480, 10240 KB)
+0096.332 (0) Dropbox chunked upload: 60.9 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 251658240, 10240 KB)
+0098.118 (0) Dropbox chunked upload: 63.4 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 262144000, 10240 KB)
+0102.048 (0) Dropbox chunked upload: 66 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 272629760, 10240 KB)
+0104.973 (0) Dropbox chunked upload: 68.5 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 283115520, 10240 KB)
+0106.780 (0) Dropbox chunked upload: 71 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 293601280, 10240 KB)
+0108.667 (0) Dropbox chunked upload: 73.6 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 304087040, 10240 KB)
+0110.312 (0) Dropbox chunked upload: 76.1 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 314572800, 10240 KB)
+0111.971 (0) Dropbox chunked upload: 78.6 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 325058560, 10240 KB)
+0113.668 (0) Dropbox chunked upload: 81.2 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 335544320, 10240 KB)
+0115.472 (0) Dropbox chunked upload: 83.7 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 346030080, 10240 KB)
+0117.397 (0) Dropbox chunked upload: 86.2 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 356515840, 10240 KB)
+0119.108 (0) Dropbox chunked upload: 88.8 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 367001600, 10240 KB)
+0121.255 (0) Dropbox chunked upload: 91.3 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 377487360, 10240 KB)
+0122.974 (0) Dropbox chunked upload: 93.9 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 387973120, 10240 KB)
+0124.553 (0) Dropbox chunked upload: 96.4 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 398458880, 10240 KB)
+0126.212 (0) Dropbox chunked upload: 98.9 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 408944640, 10240 KB)
+0127.911 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAn07wiVkg_g0HEw, 413383577, 10240 KB)
+0129.320 (0) Recording as successfully uploaded: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip
+0129.399 (0) Deleting local file: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip: OK
+0129.400 (0) Dropbox: File upload success (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads.zip): 403694 KB in 73s (5459 KB/s)
+0129.590 (0) Dropbox: exception (Dropbox_BadRequestException) occurred whilst getting account info: Error in call to API function "users/get_space_usage": request body: expected null, got value
+0129.591 (0) Dropbox: Attempt to upload: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip to: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip
+0131.801 (0) Dropbox chunked upload: 59.3 % uploaded (AAAAAAAAn09sK3SMfbpY_w, 10485760, 10240 KB)
+0133.514 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAn09sK3SMfbpY_w, 17668129, 10240 KB)
+0134.630 (0) Recording as successfully uploaded: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip
+0134.638 (0) Deleting local file: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip: OK
+0134.638 (0) Dropbox: File upload success (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-uploads2.zip): 17254 KB in 5s (3418 KB/s)
+0134.808 (0) Dropbox: exception (Dropbox_BadRequestException) occurred whilst getting account info: Error in call to API function "users/get_space_usage": request body: expected null, got value
+0134.809 (0) Dropbox: Attempt to upload: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-others.zip to: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-others.zip
+0135.193 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAn1CBQbT9-GFhnA, 12314, 10240 KB)
+0136.078 (0) Recording as successfully uploaded: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-others.zip
+0136.080 (0) Deleting local file: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-others.zip: OK
+0136.081 (0) Dropbox: File upload success (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-others.zip): 12 KB in 1s (9 KB/s)
+0136.276 (0) Dropbox: exception (Dropbox_BadRequestException) occurred whilst getting account info: Error in call to API function "users/get_space_usage": request body: expected null, got value
+0136.277 (0) Dropbox: Attempt to upload: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz to: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz
+0137.076 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAn1GISn4fQrRlOg, 1777382, 10240 KB)
+0138.970 (0) Recording as successfully uploaded: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz
+0138.972 (0) Deleting local file: backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz: OK
+0138.973 (0) Dropbox: File upload success (backup_2019-06-02-1813_Prismatic_Plants_539208fbde9e-db.gz): 1735 KB in 2s (643 KB/s)
+0138.978 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0138.980 (0) Number of backup sets in history: 4; groups (db): 1
+0138.980 (0) Examining (for databases) backup set with group_id=0, nonce=539208fbde9e, datestamp=1559499199 (Jun 02 2019 18:13:19)
+0138.981 (0) This backup set is the backup set just made, so will not be deleted.
+0138.981 (0) Examining (for databases) backup set with group_id=0, nonce=1b458feb6072, datestamp=1559318180 (May 31 2019 15:56:20)
+0138.981 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0138.981 (0) Examining (for databases) backup set with group_id=0, nonce=1b278400a1ac, datestamp=1559141282 (May 29 2019 14:48:02)
+0138.981 (0) 1559141282: db: this set includes a database (backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-db.gz); db count is now 2
+0138.981 (0) 1559141282: db: over retain limit (2); will delete this database
+0138.981 (0) Delete file: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-db.gz, service=dropbox
+0138.982 (0) Dropbox: request deletion: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-db.gz
+0139.432 (0) Dropbox: delete succeeded
+0139.435 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0139.436 (0) Examining (for databases) backup set with group_id=0, nonce=5998ec7a1dc7, datestamp=1558719889 (May 24 2019 17:44:49)
+0139.436 (0) This backup set (1558719889) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0139.436 (0) Number of backup sets in history: 4; groups (files): 1
+0139.437 (0) Examining (for files) backup set with nonce=539208fbde9e, datestamp=1559499199 (Jun 02 2019 18:13:19)
+0139.437 (0) This backup set is the backup set just made, so will not be deleted.
+0139.437 (0) This backup set is the backup set just made, so will not be deleted.
+0139.437 (0) This backup set is the backup set just made, so will not be deleted.
+0139.438 (0) This backup set is the backup set just made, so will not be deleted.
+0139.438 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0139.440 (0) Examining (for files) backup set with nonce=1b458feb6072, datestamp=1559318180 (May 31 2019 15:56:20)
+0139.440 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0139.440 (0) Examining (for files) backup set with nonce=1b278400a1ac, datestamp=1559141282 (May 29 2019 14:48:02)
+0139.440 (0) plugins: over retain limit (2); will delete this file entity
+0139.440 (0) themes: over retain limit (2); will delete this file entity
+0139.440 (0) uploads: over retain limit (2); will delete this file entity
+0139.440 (0) others: over retain limit (2); will delete this file entity
+0139.440 (0) Delete file: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-plugins.zip, service=dropbox
+0139.441 (0) Delete file: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-themes.zip, service=dropbox
+0139.442 (0) Delete file: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-uploads.zip, service=dropbox
+0139.442 (0) Delete file: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-others.zip, service=dropbox
+0139.444 (0) Dropbox: request deletion: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-plugins.zip
+0140.021 (0) Dropbox: delete succeeded
+0140.022 (0) Dropbox: request deletion: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-themes.zip
+0140.535 (0) Dropbox: delete succeeded
+0140.536 (0) Dropbox: request deletion: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-uploads.zip
+0140.938 (0) Dropbox: delete succeeded
+0140.942 (0) Dropbox: request deletion: backup_2019-05-29-1448_Prismatic_Plants_1b278400a1ac-others.zip
+0141.379 (0) Dropbox: delete succeeded
+0141.381 (0) This backup set is now empty; will remove from history
+0141.382 (0) Deleting log file (log.1b278400a1ac.txt)
+0141.384 (0) Examining (for files) backup set with nonce=5998ec7a1dc7, datestamp=1558719889 (May 24 2019 17:44:49)
+0141.384 (0) This backup set (1558719889) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0141.384 (0) This backup set (1558719889) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0141.384 (0) This backup set (1558719889) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0141.384 (0) This backup set (1558719889) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0141.384 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0141.384 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0141.388 (0) Resume backup (539208fbde9e, 0): finish run
+0141.390 (0) Decremented the semaphore (fd) by 1
+0141.391 (0) Semaphore (fd) unlocked
+0141.391 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0141.395 (0) Fetching RSS news feed
+0141.499 (0) Fetched RSS news feed; result is a: SimplePie
+0141.505 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: sarah...
+0141.594 (0) The backup apparently succeeded and is now complete

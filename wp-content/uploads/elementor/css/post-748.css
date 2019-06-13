@@ -1,0 +1,12 @@
+.elementor-748 .elementor-element.elementor-element-7c062a78{display:block;}.elementor-748 .elementor-element.elementor-element-3b8ce5b3:not(.elementor-motion-effects-element-type-background), .elementor-748 .elementor-element.elementor-element-3b8ce5b3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#ffc8b5;}.elementor-748 .elementor-element.elementor-element-3b8ce5b3{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:203px 0px 200px 0px;}.elementor-748 .elementor-element.elementor-element-3b8ce5b3 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}@media(max-width:1024px){.elementor-748 .elementor-element.elementor-element-72c435c9 > .elementor-element-populated{padding:0px 50px 0px 50px;}.elementor-748 .elementor-element.elementor-element-7c062a78{display:block;}}@media(max-width:499px){.elementor-748 .elementor-element.elementor-element-7c062a78{display:block;}}/* Start custom CSS for section, class: .elementor-element-3b8ce5b3 */.l-main-wrapper {min-height: 0px !important;}
+.bc-cart-body, .bc-cart-item {border-top: .25px solid white !important;}
+.bc-cart-body, .bc-cart-item {border-bottom: .25px solid white !important;}
+h3 {letter-spacing: 0.05rem !important;}
+.bc-cart-item__remove-button {letter-spacing: 0.05rem; text-transform: uppercase; color: #39325f !important;}
+body {color: #39325f !important;}
+.bc-product-flag--grey {margin-top: 10px !important; background-color: white; color: #39325f !important; display: block; max-width: fit-content; padding: 5px;}
+.bc-product__title-link {color: #39325f !important;}
+.bc-cart-actions__checkout-button {background-color: #39325f !important; color: white !important;}
+.elementor-748 .elementor-element.elementor-element-72c435c9 > .elementor-element-populated {
+    padding: 0px 6{4057f05e2789ca0ae86f577c7b4923dd6fe4c4689ce9c733d63966dde7d0f095} 0px 6{4057f05e2789ca0ae86f577c7b4923dd6fe4c4689ce9c733d63966dde7d0f095} !important;
+}/* End custom CSS */

@@ -1,0 +1,189 @@
+/* 
+
+	Theme Name: Kona
+	Theme URI: http://www.spab-rice.com/themes
+	Description: Kona - A modern & clean eCommerce Theme
+	Version: 2.1
+	Author: Spab Rice 
+	Author URI: http://www.spab-rice.com 
+	Tags: portfolio
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Text Domain: kona
+	
+*/
+
+
+/*---------------------------------------------- 
+
+	WORDPRESS DEFAULTS
+
+------------------------------------------------*/
+
+/*aligns*/
+.aligncenter{
+	display: block;
+	margin:0 auto;
+}
+.alignright{
+	float:right;
+	margin:0 0 10px 20px;
+}
+.alignleft{
+	float:left; 
+	margin:0 20px 10px 0;
+}
+
+/*floats*/
+.floatleft{ 
+	float:left;
+}
+.floatright{ 
+	float:right;
+}
+
+/*text style*/
+.textcenter{ 
+	text-align:center;
+}
+.textright{ 
+	text-align:right;
+}
+.textleft{ 
+	text-align:left;
+}
+
+/*captions*/
+.wp-caption{ 
+	max-width: 100% !important; 
+}
+.wp-caption{
+	margin-top:20px;
+	font-style: italic;
+	}
+	div .wp-caption:first-child { 
+	margin-top:20px; 
+	}
+.wp-caption img{
+	margin:0; 
+	padding:0; 
+	border:0 none;
+	max-width: 100%;
+}
+.wp-caption p.wp-caption-text,
+.wp-caption-text {
+	font-size:13px; 
+	line-height:19px; 
+	margin: 2px 0 0 0;
+}
+
+/*smiley reset*/
+.wp-smiley{
+	margin:0 !important;
+	max-height:1em;
+}
+
+/*blockquote*/
+blockquote.left{
+	margin-right:20px;
+	text-align:right;
+	margin-left:0;
+	width:33%;
+	float:left;
+}
+blockquote.right{
+	margin-left:20px;
+	text-align:left;
+	margin-right:0;
+	width:33%;
+	float:right;
+}
+
+/*img attachment*/
+#img-attch-page{
+	text-align: center;
+	overflow: hidden;
+}
+#img-attch-page img{
+	display: inline-block;
+	margin: 0 auto;
+	max-width: 100%;
+	border: 5px solid #d4d4d4; /*for IE*/
+	width: 100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-color: rgba(0,0,0, 0.08);
+	-webkit-transition: border 0.3s ease;
+    -o-transition: border 0.3s ease;
+    -moz-transition: border 0.3s ease;
+}
+#img-attch-page a:hover img{
+	border-color: #fc7251;
+}
+
+#img-attach-page-content{
+	text-align: center;
+	margin-top: 25px;
+}
+
+/*gallery*/
+.gallery {
+	width: 100%;
+	padding-top: 20px !important;
+}
+
+.gallery-item {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.gallery-item .gallery-icon { 
+	text-align: center; 
+	display: block; 
+	width: calc(100% - 10px);
+	padding: 5px !important;
+	}
+
+.gallery-item .gallery-caption { 
+    margin-bottom: 20px !important;
+}
+
+.gallery-item img {
+	margin: 0 !important;
+	padding:  0 !important;
+	border: none !important;
+	max-width: 100% !important;
+}
+
+.gallery-item a {
+	display: inline-block;
+	max-width: 100% !important;
+	margin:  0 !important;
+	padding: 0 !important;
+}
+
+.gallery-item a:hover img {
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+	display: none;
+}
+
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	overflow: hidden;
+	position: absolute !important;
+	width: 1px;
+}

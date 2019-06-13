@@ -1,0 +1,36 @@
+2019-06-10T05:25:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xammp\htdocs\prismatic\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-06-10T06:24:54+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to Elementor\Core\DynamicTags\Manager::get_tag_data_content() must be of the type array, null given in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php:196
+Stack trace:
+#0 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('dd7114e', 'popup', NULL)
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(100): call_user_func_array(Array, Array)
+#2 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(65): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#3 [internal function]: Elementor\Core\DynamicTags\Manager->Elementor\Core\DynamicTags\{closure}(Array)
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php(66): preg_replace_callback('/\\[elementor-ta...', Object(Closure), '[elementor-tag ...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\includes\controls\base-dat in D:\xammp\htdocs\prismatic\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 196
+
+2019-06-10T08:25:15+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_wp_image() in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\functions.php:583
+Stack trace:
+#0 D:\xammp\htdocs\prismatic\wp-includes\class-wp-hook.php(286): woocommerce_product_custom_fields('')
+#1 D:\xammp\htdocs\prismatic\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 D:\xammp\htdocs\prismatic\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 D:\xammp\htdocs\prismatic\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-general.php(186): do_action('woocommerce_pro...')
+#4 D:\xammp\htdocs\prismatic\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(42): include('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\prismatic\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-panel.php(51): WC_Meta_Box_Product_Data::output_tabs()
+#6 D:\xammp\htdocs\prismatic\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\functions.php on line 583
+
+2019-06-10T09:21:56+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\woocommerce\archive-product.php on line 126
+
+2019-06-10T09:21:59+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\woocommerce\archive-product.php on line 126
+
+2019-06-10T11:49:43+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_the_excerpt() in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\woocommerce\content-single-product.php:79
+Stack trace:
+#0 D:\xammp\htdocs\prismatic\wp-includes\template.php(724): require()
+#1 D:\xammp\htdocs\prismatic\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('D:\\xammp\\htdocs...', false)
+#2 D:\xammp\htdocs\prismatic\wp-content\themes\amartha\woocommerce\single-product.php(36): wc_get_template_part('content', 'single-product')
+#3 D:\xammp\htdocs\prismatic\wp-includes\template-loader.php(78): include('D:\\xammp\\htdocs...')
+#4 D:\xammp\htdocs\prismatic\wp-blog-header.php(19): require_once('D:\\xammp\\htdocs...')
+#5 D:\xammp\htdocs\prismatic\index.php(17): require('D:\\xammp\\htdocs...')
+#6 {main}
+  thrown in D:\xammp\htdocs\prismatic\wp-content\themes\amartha\woocommerce\content-single-product.php on line 79
+
